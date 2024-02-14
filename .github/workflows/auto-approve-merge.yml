@@ -17,4 +17,4 @@ jobs:
       - uses: "pascalgn/automerge-action@v0.16.2"
         env:
           MERGE_LABELS: ""
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
