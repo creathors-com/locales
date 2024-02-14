@@ -1,4 +1,4 @@
-name: Auto Approve PR from Crowdin
+name: Auto approve & merge PR from Crowdin.
 
 on:
   pull_request:
@@ -14,3 +14,7 @@ jobs:
       - uses: hmarr/auto-approve-action@v4
         with:
           review-message: "Automatically approved."
+      - uses: "pascalgn/automerge-action@v0.16.2"
+        env:
+          MERGE_LABELS: ""
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
