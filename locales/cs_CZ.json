@@ -1,0 +1,236 @@
+{
+  "global": {
+    "navbar": {
+      "creators": "Discover",
+      "search-creators": "Search creators...",
+      "sign-in": "Sign in",
+      "get-started": "Get started",
+      "to-dashboard": "Go to dashboard"
+    },
+    "cta": {
+      "subtitle": "Testimonials",
+      "title": "Take action now to stay compliant. Grow business without tension.",
+      "paragraph": "You can now reach beyond Creative to attract fans with shareable public previews of podcasts and video. You can also let fans join your community for free and get limited access to your public posts, with the opportunity to upgrade at any time.",
+      "button": "Create on your terms"
+    },
+    "footer": {
+      "privacy": "Privacy Policy",
+      "tos": "Terms of Service"
+    },
+    "phrases": {
+      "all": "All",
+      "month": "month",
+      "empty": "empty"
+    },
+    "title": {
+      "index": "Home",
+      "creators": "Discover"
+    }
+  },
+  "landing": {
+    "hero": {
+      "subtitle": "Complete creative control",
+      "title": "Everything you need to make money doing what you love",
+      "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
+      "button": "Get Started Now",
+      "happy-customers": "Happy Creatives",
+      "rating": "Rating"
+    },
+    "features": {
+      "1": {
+        "subtitle": "Complete creative control 1",
+        "title": "Everything you need to make money doing what you love",
+        "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
+        "button": "Create on your terms"
+      },
+      "2": {
+        "subtitle": "Complete creative control 2",
+        "title": "Everything you need to make money doing what you love",
+        "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
+        "button": "Create on your terms"
+      },
+      "3": {
+        "subtitle": "Complete creative control 3",
+        "title": "Everything you need to make money doing what you love",
+        "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
+        "button": "Create on your terms"
+      }
+    },
+    "testimonials": {
+      "subtitle": "Testimonials",
+      "title": "What they say about us"
+    }
+  },
+  "creators": {
+    "not-found": "Creator wasn't found!",
+    "subtitle": "Complete creative control 3",
+    "title": "Everything you need to make money doing what you love",
+    "paragraph": "On Patreon, you can build a lasting business outside of the ad-based ecosystem, with revenue streamsranging from membership for offering ongoing benefits",
+    "find-creators": "Find your creator...",
+    "find-button": "Search",
+    "popular-tags": "Popular Tags:",
+    "creators": "Creators",
+    "region": "Region",
+    "view-more": "View more",
+    "view": "View Profile",
+    "starting-from": "Starting from",
+    "free": "Free",
+    "tier": {
+      "tier": "TIER",
+      "join": "Join Now"
+    }
+  },
+  "posts": {
+    "join": "Join",
+    "title": "All Posts",
+    "type": "Type",
+    "tier": "Tier",
+    "locked": "to view this post you have to log in"
+  },
+  "post": {
+    "comments": "Comments",
+    "placeholder": "Type your comment here",
+    "send": "Send",
+    "reply": "Reply",
+    "replies": "Replies",
+    "add-comment": {
+      "success": "Comment posted.",
+      "failed": "Error occured, comment wasn't posted."
+    }
+  },
+  "settings": {
+    "form": {
+      "username": "Username",
+      "givenName": "Given name",
+      "lastName": "Last name",
+      "description": "Description",
+      "city": "City",
+      "country": "Country",
+      "line1": "Line 1",
+      "line2": "Line 2",
+      "postalCode": "Postal Code",
+      "state": "State",
+      "uploadAvatar": "Upload avatar",
+      "uploadTitleImage": "Upload title image",
+      "browse": "Browse",
+      "createTag": "CREATE TAG"
+    },
+    "pictureUpload": {
+      "success": "Profile picture changed successfully!",
+      "error": "There was a problem uploading your profile picture."
+    },
+    "backgroundUpload": {
+      "success": "Profile background changed successfully!",
+      "error": "There was a problem uploading your profile background."
+    },
+    "conflict": {
+      "username": "Username is taken.",
+      "email": "Email is taken."
+    },
+    "saved": "Settings saved!",
+    "saving": {
+      "tags": {
+        "success": "Tags saved!",
+        "error": "Error occured, tags weren't saved..."
+      },
+      "socials": {
+        "success": "Socials saved!",
+        "error": "Error occured, socials weren't saved..."
+      },
+      "profile": {
+        "success": "Profile saved!",
+        "error": "Error occured, profile wasn't saved..."
+      },
+      "address": {
+        "success": "Address saved!",
+        "error": "Error occured, address wasn't saved..."
+      }
+    },
+    "heading": {
+      "props": "Tags",
+      "info": "Profile",
+      "address": "Address",
+      "socials": "Socials"
+    },
+    "settings": "Settings",
+    "profile-info": "Profile information",
+    "upload-new-pfp": "Upload new picture",
+    "remove-pfp": "Remove",
+    "name": "Display name",
+    "email": "Email address",
+    "save": "Save",
+    "password": "Password",
+    "old-pw": "Old password",
+    "new-pw": "New password",
+    "confirm-pw": "Confirm new password",
+    "change-pw": "Change password",
+    "logout": "Logout",
+    "payments": "Payments",
+    "posts": "Me",
+    "home": "Home",
+    "add": "New post",
+    "post": {
+      "publish": "Publish",
+      "post": "Post",
+      "upload": "Upload Thumbnail",
+      "image": "Image",
+      "video": "Video",
+      "attachments": "Upload Attachments",
+      "title": {
+        "placeholder": "Insert title",
+        "name": "Title"
+      },
+      "text": {
+        "placeholder": "Type your text..."
+      },
+      "tags": {
+        "label": "Tags",
+        "placeholder": "Type tag..."
+      },
+      "tiers": {
+        "label": "Tiers",
+        "placeholder": "Type tier..."
+      },
+      "add-tag": "Add Tag",
+      "type-tag": "Type tag here..."
+    },
+    "tiers": {
+      "tiers": "Tiers",
+      "tier": "Tier",
+      "name": "Name",
+      "price": "Price",
+      "currency": "Currency",
+      "description-placeholder": "Type your description here...",
+      "add": {
+        "success": "Tier successfully added!",
+        "error": "Error occured, tier wasn't added."
+      },
+      "update": {
+        "label": "Edit",
+        "success": "Tier updated!",
+        "error": "Error occured, tier wasn't updated."
+      },
+      "delete": {
+        "success": "Tier delete!",
+        "error": "Error occured, tier wasn't deleted."
+      },
+      "label": {
+        "edit": "Edit tier",
+        "add": "Add tier"
+      }
+    }
+  },
+  "title": {
+    "profile": {
+      "settings": "Settings",
+      "me": "My profile",
+      "post": {
+        "new": "New post"
+      },
+      "tiers": "Tiers"
+    }
+  },
+  "error": {
+    "not-logged-in": "You are not logged in!"
+  }
+}
