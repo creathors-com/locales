@@ -1,6 +1,8 @@
 name: Auto Approve PR from Crowdin
 
-on: pull_request_target
+on:
+  pull_request:
+    types: [opened, reopened]
 
 jobs:
   auto-approve:
