@@ -9,228 +9,228 @@
     },
     "cta": {
       "subtitle": "Reference",
-      "title": "Take action now to stay compliant. Grow business without tension.",
-      "paragraph": "You can now reach beyond Creative to attract fans with shareable public previews of podcasts and video. You can also let fans join your community for free and get limited access to your public posts, with the opportunity to upgrade at any time.",
-      "button": "Create on your terms"
+      "title": "Udělejte nyní kroky, abyste zůstali v souladu s pravidly. Rostoucí obchod bez napětí.",
+      "paragraph": "Nyní se můžete dostat mimo Tvořivku, abyste přilákali fanoušky se sdílitelnými veřejnými náhledy podcastů a videa. Můžete také zdarma povolit fanouškům připojit se ke své komunitě a získat omezený přístup k vašim veřejným příspěvkům, s možností kdykoliv povýšit.",
+      "button": "Vytvořte za Vašich podmínek"
     },
     "footer": {
-      "privacy": "Privacy Policy",
-      "tos": "Terms of Service"
+      "privacy": "Ochrana osobních údajů",
+      "tos": "Podmínky služby"
     },
     "phrases": {
-      "all": "All",
-      "month": "month",
-      "empty": "empty"
+      "all": "Vše",
+      "month": "měsíc",
+      "empty": "prázdné"
     },
     "title": {
-      "index": "Home",
-      "creators": "Discover"
+      "index": "Domů",
+      "creators": "Objevte"
     }
   },
   "landing": {
     "hero": {
-      "subtitle": "Complete creative control",
-      "title": "Everything you need to make money doing what you love",
-      "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
-      "button": "Get Started Now",
-      "happy-customers": "Happy Creatives",
-      "rating": "Rating"
+      "subtitle": "Úplná kreativní kontrola",
+      "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
+      "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
+      "button": "Začněte nyní",
+      "happy-customers": "Šťastné kreativity",
+      "rating": "Hodnocení"
     },
     "features": {
       "1": {
-        "subtitle": "Complete creative control 1",
-        "title": "Everything you need to make money doing what you love",
-        "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
-        "button": "Create on your terms"
+        "subtitle": "Kompletní kreativní kontrola 1",
+        "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
+        "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
+        "button": "Vytvořte za Vašich podmínek"
       },
       "2": {
-        "subtitle": "Complete creative control 2",
-        "title": "Everything you need to make money doing what you love",
-        "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
-        "button": "Create on your terms"
+        "subtitle": "Kompletní kreativní kontrola 2",
+        "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
+        "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
+        "button": "Vytvořte za Vašich podmínek"
       },
       "3": {
-        "subtitle": "Complete creative control 3",
-        "title": "Everything you need to make money doing what you love",
-        "paragraph": "Join 1M+ creators getting donations, monthly memberships and sales from fans! Keep more of your money with Ko-fi. Just 0-5% platform fees.",
-        "button": "Create on your terms"
+        "subtitle": "Kompletní kreativní ovládání 3",
+        "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
+        "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
+        "button": "Vytvořte za Vašich podmínek"
       }
     },
     "testimonials": {
-      "subtitle": "Testimonials",
-      "title": "What they say about us"
+      "subtitle": "Referenční údaje",
+      "title": "Co o nás říkají"
     }
   },
   "creators": {
-    "not-found": "Creator wasn't found!",
-    "subtitle": "Complete creative control 3",
-    "title": "Everything you need to make money doing what you love",
-    "paragraph": "On Patreon, you can build a lasting business outside of the ad-based ecosystem, with revenue streamsranging from membership for offering ongoing benefits",
-    "find-creators": "Find your creator...",
-    "find-button": "Search",
-    "popular-tags": "Popular Tags:",
-    "creators": "Creators",
-    "region": "Region",
-    "view-more": "View more",
-    "view": "View Profile",
-    "starting-from": "Starting from",
-    "free": "Free",
+    "not-found": "Tvůrce nebyl nalezen!",
+    "subtitle": "Kompletní kreativní ovládání 3",
+    "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
+    "paragraph": "Na Patreonu můžete vybudovat trvalý obchod mimo ekosystém založený na reklamách, s příjmovým tokem od členství a nabízet průběžné výhody",
+    "find-creators": "Najděte svého tvůrce...",
+    "find-button": "Hledat",
+    "popular-tags": "Populární štítky:",
+    "creators": "Tvůrci",
+    "region": "Oblasti",
+    "view-more": "Zobrazit více",
+    "view": "Zobrazit profil",
+    "starting-from": "Začíná od",
+    "free": "Zdarma",
     "tier": {
-      "tier": "TIER",
-      "join": "Join Now"
+      "tier": "ČTVRTLETNÍ",
+      "join": "Připojit se nyní"
     }
   },
   "posts": {
-    "join": "Join",
-    "title": "All Posts",
-    "type": "Type",
-    "tier": "Tier",
-    "locked": "to view this post you have to log in"
+    "join": "Připojit se",
+    "title": "Všechny příspěvky",
+    "type": "Typ",
+    "tier": "Úroveň",
+    "locked": "pro zobrazení příspěvku, který se musíte přihlásit"
   },
   "post": {
-    "comments": "Comments",
-    "placeholder": "Type your comment here",
-    "send": "Send",
-    "reply": "Reply",
-    "replies": "Replies",
+    "comments": "Komentáře",
+    "placeholder": "Sem zadejte svůj komentář",
+    "send": "Poslat",
+    "reply": "Odpověď",
+    "replies": "Odpovědi",
     "add-comment": {
-      "success": "Comment posted.",
-      "failed": "Error occured, comment wasn't posted."
+      "success": "Komentář zveřejněn.",
+      "failed": "Došlo k chybě, komentář nebyl zveřejněn."
     }
   },
   "settings": {
     "form": {
-      "username": "Username",
-      "givenName": "Given name",
-      "lastName": "Last name",
-      "description": "Description",
-      "city": "City",
-      "country": "Country",
-      "line1": "Line 1",
-      "line2": "Line 2",
-      "postalCode": "Postal Code",
-      "state": "State",
-      "uploadAvatar": "Upload avatar",
-      "uploadTitleImage": "Upload title image",
-      "browse": "Browse",
-      "createTag": "CREATE TAG"
+      "username": "Uživatelské jméno",
+      "givenName": "Příjmení",
+      "lastName": "Příjmení",
+      "description": "L 343, 22.12.2009, s. 1).",
+      "city": "Město",
+      "country": "L 343, 22.12.2009, s. 1).",
+      "line1": "Čára 1",
+      "line2": "Čára 2",
+      "postalCode": "PSČ",
+      "state": "Stát",
+      "uploadAvatar": "Nahrát avatar",
+      "uploadTitleImage": "Nahrát titulek",
+      "browse": "Procházet",
+      "createTag": "VYTVOŘIT TAG"
     },
     "pictureUpload": {
-      "success": "Profile picture changed successfully!",
-      "error": "There was a problem uploading your profile picture."
+      "success": "Profilový obrázek úspěšně změněn!",
+      "error": "Při nahrávání profilového obrázku došlo k chybě."
     },
     "backgroundUpload": {
-      "success": "Profile background changed successfully!",
-      "error": "There was a problem uploading your profile background."
+      "success": "Pozadí profilu úspěšně změněno!",
+      "error": "Při nahrávání Vašeho profilu došlo k chybě."
     },
     "conflict": {
-      "username": "Username is taken.",
-      "email": "Email is taken."
+      "username": "Uživatelské jméno je obsazeno.",
+      "email": "E-mail je použit."
     },
-    "saved": "Settings saved!",
+    "saved": "Nastavení uloženo!",
     "saving": {
       "tags": {
-        "success": "Tags saved!",
-        "error": "Error occured, tags weren't saved..."
+        "success": "Štítky uloženy!",
+        "error": "Došlo k chybě, tagy nebyly uloženy..."
       },
       "socials": {
-        "success": "Socials saved!",
-        "error": "Error occured, socials weren't saved..."
+        "success": "Společnosti uloženy!",
+        "error": "Došlo k chybě, sociální sítě nebyly uloženy..."
       },
       "profile": {
-        "success": "Profile saved!",
-        "error": "Error occured, profile wasn't saved..."
+        "success": "Profil uložen!",
+        "error": "Došlo k chybě, profil nebyl uložen..."
       },
       "address": {
-        "success": "Address saved!",
-        "error": "Error occured, address wasn't saved..."
+        "success": "Adresa uložena!",
+        "error": "Došlo k chybě, adresa nebyla uložena..."
       }
     },
     "heading": {
-      "props": "Tags",
-      "info": "Profile",
-      "address": "Address",
+      "props": "Štítky",
+      "info": "Profil",
+      "address": "Adresa",
       "socials": "Socials"
     },
-    "settings": "Settings",
-    "profile-info": "Profile information",
-    "upload-new-pfp": "Upload new picture",
-    "remove-pfp": "Remove",
-    "name": "Display name",
-    "email": "Email address",
-    "save": "Save",
-    "password": "Password",
-    "old-pw": "Old password",
-    "new-pw": "New password",
-    "confirm-pw": "Confirm new password",
-    "change-pw": "Change password",
-    "logout": "Logout",
-    "payments": "Payments",
-    "posts": "Me",
-    "home": "Home",
-    "add": "New post",
+    "settings": "Nastavení",
+    "profile-info": "Informace o profilu",
+    "upload-new-pfp": "Nahrát nový obrázek",
+    "remove-pfp": "Odebrat",
+    "name": "Zobrazovaný název",
+    "email": "E-mailová adresa",
+    "save": "Uložit",
+    "password": "Heslo",
+    "old-pw": "Staré heslo",
+    "new-pw": "Nové heslo",
+    "confirm-pw": "Potvrdit nové heslo",
+    "change-pw": "Změnit heslo",
+    "logout": "Odhlásit se",
+    "payments": "KAPITOLA 1 4 – CELKEM",
+    "posts": "Já",
+    "home": "Domů",
+    "add": "Nový příspěvek",
     "post": {
-      "publish": "Publish",
-      "post": "Post",
-      "upload": "Upload Thumbnail",
-      "image": "Image",
+      "publish": "Publikovat",
+      "post": "Publikovat",
+      "upload": "Nahrát náhled",
+      "image": "Obrázek",
       "video": "Video",
-      "attachments": "Upload Attachments",
+      "attachments": "Nahrát přílohy",
       "title": {
-        "placeholder": "Insert title",
-        "name": "Title"
+        "placeholder": "Vložit název",
+        "name": "Hlava 1 – Celkem"
       },
       "text": {
-        "placeholder": "Type your text..."
+        "placeholder": "Zadejte svůj text..."
       },
       "tags": {
-        "label": "Tags",
+        "label": "Štítky",
         "placeholder": "Type tag..."
       },
       "tiers": {
-        "label": "Tiers",
-        "placeholder": "Type tier..."
+        "label": "Úrovně",
+        "placeholder": "Zadejte měřítko..."
       },
-      "add-tag": "Add Tag",
-      "type-tag": "Type tag here..."
+      "add-tag": "Přidat značku",
+      "type-tag": "Zde napište štítek..."
     },
     "tiers": {
-      "tiers": "Tiers",
-      "tier": "Tier",
-      "name": "Name",
-      "price": "Price",
-      "currency": "Currency",
-      "description-placeholder": "Type your description here...",
+      "tiers": "Úrovně",
+      "tier": "Úroveň",
+      "name": "Název",
+      "price": "Cena",
+      "currency": "Měna",
+      "description-placeholder": "Zde zadejte svůj popis...",
       "add": {
-        "success": "Tier successfully added!",
-        "error": "Error occured, tier wasn't added."
+        "success": "Úroveň byla úspěšně přidána!",
+        "error": "Došlo k chybě, úroveň nebyla přidána."
       },
       "update": {
-        "label": "Edit",
-        "success": "Tier updated!",
-        "error": "Error occured, tier wasn't updated."
+        "label": "Upravit",
+        "success": "Úroveň aktualizována!",
+        "error": "Došlo k chybě, úroveň nebyla aktualizována."
       },
       "delete": {
-        "success": "Tier delete!",
-        "error": "Error occured, tier wasn't deleted."
+        "success": "Úroveň smazání!",
+        "error": "Došlo k chybě, úroveň nebyla odstraněna."
       },
       "label": {
-        "edit": "Edit tier",
-        "add": "Add tier"
+        "edit": "Upravit úroveň",
+        "add": "Přidat úroveň"
       }
     }
   },
   "title": {
     "profile": {
-      "settings": "Settings",
-      "me": "My profile",
+      "settings": "Nastavení",
+      "me": "Můj profil",
       "post": {
-        "new": "New post"
+        "new": "Nový příspěvek"
       },
-      "tiers": "Tiers"
+      "tiers": "Úrovně"
     }
   },
   "error": {
-    "not-logged-in": "You are not logged in!"
+    "not-logged-in": "Nejste přihlášen(a)!"
   }
 }
