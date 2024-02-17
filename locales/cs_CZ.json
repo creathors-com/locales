@@ -85,11 +85,11 @@
     "title": "Všechny příspěvky",
     "type": "Typ",
     "tier": "Úroveň",
-    "locked": "pro zobrazení příspěvku, který se musíte přihlásit"
+    "locked": "pro zobrazení příspěvku, se musíte přihlásit"
   },
   "post": {
     "comments": "Komentáře",
-    "placeholder": "Sem zadejte svůj komentář",
+    "placeholder": "Sem napište svůj komentář",
     "send": "Poslat",
     "reply": "Odpověď",
     "replies": "Odpovědi",
@@ -101,7 +101,7 @@
   "settings": {
     "form": {
       "username": "Uživatelské jméno",
-      "givenName": "Příjmení",
+      "givenName": "Křestní jméno",
       "lastName": "Příjmení",
       "description": "Popis",
       "city": "Město",
@@ -113,7 +113,7 @@
       "uploadAvatar": "Nahrát avatar",
       "uploadTitleImage": "Nahrát titulek",
       "browse": "Procházet",
-      "createTag": "VYTVOŘIT TAG"
+      "createTag": "VYTVOŘIT ŠTÍTEK"
     },
     "pictureUpload": {
       "success": "Profilový obrázek úspěšně změněn!",
@@ -131,7 +131,7 @@
     "saving": {
       "tags": {
         "success": "Štítky uloženy!",
-        "error": "Došlo k chybě, tagy nebyly uloženy..."
+        "error": "Došlo k chybě, štítky nebyly uloženy..."
       },
       "socials": {
         "success": "Společnosti uloženy!",
@@ -150,7 +150,7 @@
       "props": "Štítky",
       "info": "Profil",
       "address": "Adresa",
-      "socials": "Socials"
+      "socials": "Sociální sítě"
     },
     "settings": "Nastavení",
     "profile-info": "Informace o profilu",
@@ -165,7 +165,7 @@
     "confirm-pw": "Potvrdit nové heslo",
     "change-pw": "Změnit heslo",
     "logout": "Odhlásit se",
-    "payments": "KAPITOLA 1 4 – CELKEM",
+    "payments": "Platby",
     "posts": "Já",
     "home": "Domů",
     "add": "Nový příspěvek",
