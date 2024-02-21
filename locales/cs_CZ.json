@@ -113,7 +113,11 @@
       "uploadAvatar": "Nahrát avatar",
       "uploadTitleImage": "Nahrát titulek",
       "browse": "Procházet",
-      "createTag": "VYTVOŘIT ŠTÍTEK"
+      "createTag": "VYTVOŘIT ŠTÍTEK",
+      "file": {
+        "supported": "Supported types",
+        "max": "Maximum size"
+      }
     },
     "pictureUpload": {
       "success": "Profilový obrázek úspěšně změněn!",
