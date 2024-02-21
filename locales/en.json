@@ -113,7 +113,11 @@
       "uploadAvatar": "Upload avatar",
       "uploadTitleImage": "Upload title image",
       "browse": "Browse",
-      "createTag": "CREATE TAG"
+      "createTag": "CREATE TAG",
+      "file": {
+        "supported": "Supported types",
+        "max": "Maximum size"
+      }
     },
     "pictureUpload": {
       "success": "Profile picture changed successfully!",
