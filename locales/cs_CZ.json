@@ -15,7 +15,8 @@
     },
     "footer": {
       "privacy": "Ochrana osobních údajů",
-      "tos": "Podmínky služby"
+      "tos": "Podmínky služby",
+      "reserver": "All rights reserved."
     },
     "phrases": {
       "all": "Vše",
@@ -25,6 +26,9 @@
     "title": {
       "index": "Domů",
       "creators": "Objevte"
+    },
+    "validation": {
+      "required": "This field is required."
     }
   },
   "landing": {
@@ -96,6 +100,10 @@
     "add-comment": {
       "success": "Komentář zveřejněn.",
       "failed": "Došlo k chybě, komentář nebyl zveřejněn."
+    },
+    "delete": {
+      "success": "Post successfully deleted!",
+      "failed": "Error occured, post wasn't deleted."
     }
   },
   "settings": {
@@ -116,8 +124,11 @@
       "createTag": "VYTVOŘIT ŠTÍTEK",
       "file": {
         "supported": "Supported types",
-        "max": "Maximum size"
-      }
+        "max": "Maximum size",
+        "tooLarge": "File is too large to upload."
+      },
+      "mainTag": "Main tag",
+      "tags": "Tags"
     },
     "pictureUpload": {
       "success": "Profilový obrázek úspěšně změněn!",
@@ -129,8 +140,7 @@
     },
     "conflict": {
       "username": "Uživatelské jméno je obsazeno.",
-      "email": "E-mail je použit.",
-      "tooLarge": "File is too large to upload."
+      "email": "E-mail je použit."
     },
     "saved": "Nastavení uloženo!",
     "saving": {
