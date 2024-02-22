@@ -129,7 +129,8 @@
     },
     "conflict": {
       "username": "Uživatelské jméno je obsazeno.",
-      "email": "E-mail je použit."
+      "email": "E-mail je použit.",
+      "tooLarge": "File is too large to upload."
     },
     "saved": "Nastavení uloženo!",
     "saving": {
