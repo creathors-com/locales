@@ -129,7 +129,8 @@
     },
     "conflict": {
       "username": "Username is taken.",
-      "email": "Email is taken."
+      "email": "Email is taken.",
+      "tooLarge": "File is too large to upload."
     },
     "saved": "Settings saved!",
     "saving": {
