@@ -116,7 +116,8 @@
       "createTag": "CREATE TAG",
       "file": {
         "supported": "Supported types",
-        "max": "Maximum size"
+        "max": "Maximum size",
+        "tooLarge": "File is too large to upload."
       }
     },
     "pictureUpload": {
@@ -129,8 +130,7 @@
     },
     "conflict": {
       "username": "Username is taken.",
-      "email": "Email is taken.",
-      "tooLarge": "File is too large to upload."
+      "email": "Email is taken."
     },
     "saved": "Settings saved!",
     "saving": {
