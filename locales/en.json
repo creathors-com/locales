@@ -89,7 +89,7 @@
     "title": "All Posts",
     "type": "Type",
     "tier": "Tier",
-    "locked": "to view this post you have to log in"
+    "locked": "to view this post you have to log in",
     "buyTier": "Buy tier to unlock",
     "or": "Or",
     "ppv": {
