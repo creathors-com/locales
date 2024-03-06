@@ -90,6 +90,11 @@
     "type": "Type",
     "tier": "Tier",
     "locked": "to view this post you have to log in"
+    "buyTier": "🔒 Buy tier to unlock",
+    "or": "Or",
+    "ppv": {
+      "unlock": "Unlock post for"
+    }
   },
   "post": {
     "comments": "Comments",
@@ -191,6 +196,17 @@
       "upload": "Upload Thumbnail",
       "image": "Image",
       "video": "Video",
+      "ownVideo": {
+      "done": "Done",
+      "uploading": "Uploading...",
+      "toast": {
+        "done": "Your video has finished uploading.",
+        "failed": "Error occured, your video wasn't uploaded.",
+        "delete": {
+          "success": "Video successfully deleted.",
+          "failed": "Error occured, video wans't deleted."
+        } 
+      },
       "attachments": "Upload Attachments",
       "title": {
         "placeholder": "Insert title",
