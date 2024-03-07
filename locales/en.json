@@ -197,72 +197,73 @@
       "image": "Image",
       "video": "Video",
       "ownVideo": {
-      "done": "Done",
-      "uploading": "Uploading...",
-      "toast": {
-        "done": "Your video has finished uploading.",
-        "failed": "Error occured, your video wasn't uploaded.",
-        "delete": {
-          "success": "Video successfully deleted.",
-          "failed": "Error occured, video wans't deleted."
-        } 
-      },
-      "attachments": "Upload Attachments",
-      "title": {
-        "placeholder": "Insert title",
-        "name": "Title"
-      },
-      "text": {
-        "placeholder": "Type your text..."
-      },
-      "tags": {
-        "label": "Tags",
-        "placeholder": "Type tag..."
+        "done": "Done",
+        "uploading": "Uploading...",
+        "toast": {
+          "done": "Your video has finished uploading.",
+          "failed": "Error occured, your video wasn't uploaded.",
+          "delete": {
+            "success": "Video successfully deleted.",
+            "failed": "Error occured, video wans't deleted."
+          }
+        },
+        "attachments": "Upload Attachments",
+        "title": {
+          "placeholder": "Insert title",
+          "name": "Title"
+        },
+        "text": {
+          "placeholder": "Type your text..."
+        },
+        "tags": {
+          "label": "Tags",
+          "placeholder": "Type tag..."
+        },
+        "tiers": {
+          "label": "Tiers",
+          "placeholder": "Type tier..."
+        },
+        "add-tag": "Add Tag",
+        "type-tag": "Type tag here..."
       },
       "tiers": {
-        "label": "Tiers",
-        "placeholder": "Type tier..."
-      },
-      "add-tag": "Add Tag",
-      "type-tag": "Type tag here..."
-    },
-    "tiers": {
-      "tiers": "Tiers",
-      "tier": "Tier",
-      "name": "Name",
-      "price": "Price",
-      "currency": "Currency",
-      "description-placeholder": "Type your description here...",
-      "add": {
-        "success": "Tier successfully added!",
-        "error": "Error occured, tier wasn't added."
-      },
-      "update": {
-        "label": "Edit",
-        "success": "Tier updated!",
-        "error": "Error occured, tier wasn't updated."
-      },
-      "delete": {
-        "success": "Tier delete!",
-        "error": "Error occured, tier wasn't deleted."
-      },
-      "label": {
-        "edit": "Edit tier",
-        "add": "Add tier"
+        "tiers": "Tiers",
+        "tier": "Tier",
+        "name": "Name",
+        "price": "Price",
+        "currency": "Currency",
+        "description-placeholder": "Type your description here...",
+        "add": {
+          "success": "Tier successfully added!",
+          "error": "Error occured, tier wasn't added."
+        },
+        "update": {
+          "label": "Edit",
+          "success": "Tier updated!",
+          "error": "Error occured, tier wasn't updated."
+        },
+        "delete": {
+          "success": "Tier delete!",
+          "error": "Error occured, tier wasn't deleted."
+        },
+        "label": {
+          "edit": "Edit tier",
+          "add": "Add tier"
+        }
       }
+    },
+    "title": {
+      "profile": {
+        "settings": "Settings",
+        "me": "My profile",
+        "post": {
+          "new": "New post"
+        },
+        "tiers": "Tiers"
+      }
+    },
+    "error": {
+      "not-logged-in": "You are not logged in!"
     }
-  },
-  "title": {
-    "profile": {
-      "settings": "Settings",
-      "me": "My profile",
-      "post": {
-        "new": "New post"
-      },
-      "tiers": "Tiers"
-    }
-  },
-  "error": {
-    "not-logged-in": "You are not logged in!"
   }
 }
