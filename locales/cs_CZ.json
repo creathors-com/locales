@@ -89,7 +89,12 @@
     "title": "Všechny příspěvky",
     "type": "Typ",
     "tier": "Úroveň",
-    "locked": "pro zobrazení příspěvku, se musíte přihlásit"
+    "locked": "pro zobrazení příspěvku, se musíte přihlásit",
+    "buyTier": "Buy tier to unlock",
+    "or": "Or",
+    "ppv": {
+      "unlock": "Unlock post for"
+    }
   },
   "post": {
     "comments": "Komentáře",
@@ -191,6 +196,18 @@
       "upload": "Nahrát náhled",
       "image": "Obrázek",
       "video": "Video",
+      "ownVideo": {
+        "done": "Done",
+        "uploading": "Uploading...",
+        "toast": {
+          "done": "Your video has finished uploading.",
+          "failed": "Error occured, your video wasn't uploaded.",
+          "delete": {
+            "success": "Video successfully deleted.",
+            "failed": "Error occured, video wans't deleted."
+          }
+        }
+      },
       "attachments": "Nahrát přílohy",
       "title": {
         "placeholder": "Vložit název",
