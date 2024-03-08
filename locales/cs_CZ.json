@@ -258,7 +258,8 @@
       "settings": "Nastavení",
       "me": "Můj profil",
       "post": {
-        "new": "Nový příspěvek"
+        "new": "Nový příspěvek",
+        "edit": "Edit post"
       },
       "tiers": "Úrovně"
     }
