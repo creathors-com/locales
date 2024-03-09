@@ -1,7 +1,10 @@
 {
   "global": {
     "navbar": {
-      "creators": "Procházet",
+      "creators": {
+        "text": "Discover",
+        "crowdinContext": "Navigation redirect to Discover page."
+      },
       "search-creators": "Vyhledat tvůrce...",
       "sign-in": "Přihlásit se",
       "get-started": "Začít",
