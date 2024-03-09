@@ -9,14 +9,14 @@
     },
     "cta": {
       "subtitle": "Reference",
-      "title": "Udělejte nyní kroky, abyste zůstali v souladu s pravidly. Rostoucí obchod bez napětí.",
-      "paragraph": "Nyní se můžete dostat mimo Tvořivku, abyste přilákali fanoušky se sdílitelnými veřejnými náhledy podcastů a videa. Můžete také zdarma povolit fanouškům připojit se ke své komunitě a získat omezený přístup k vašim veřejným příspěvkům, s možností kdykoliv povýšit.",
+      "title": "Převezměte kontrolu nad svojí budoucností. Rozvíjejte své podnikání bez zbytečného stresu.\n\n\n\n\n\n",
+      "paragraph": "Nyní máte možnost rozšířit svoje schopnosti nad rámec vlastní kreativity a přilákat fanoušky nabídkou veřejných náhledů podcastů a videí, které lze sdílet. Kromě toho můžete fanoušky zdarma pozvat do své komunity a poskytnout jim omezený přístup k vašim veřejným příspěvkům s možností kdykoli upgradovat.",
       "button": "Vytvořte za Vašich podmínek"
     },
     "footer": {
       "privacy": "Ochrana osobních údajů",
       "tos": "Podmínky služby",
-      "reserved": "All rights reserved."
+      "reserved": "Všechna práva vyhrazena."
     },
     "phrases": {
       "all": "Vše",
@@ -34,30 +34,30 @@
   "landing": {
     "hero": {
       "subtitle": "Úplná kreativní kontrola",
-      "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
-      "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
+      "title": "Vše, co potřebuješ, abys mohl vydělávat peníze tím, co tě baví",
+      "paragraph": "Posilte svou kreativitu na platformě, která si cení vaší práce. Díky nízkým poplatkům, přizpůsobitelným stránkám a nástrojům pro přímé zapojení je zpeněžení vaší vášně jednoduché a přínosné. Připojte se ke komunitě, kde má každý tvůrce svůj hlas, a začněte budovat svůj úspěšný příběh ještě dnes.",
       "button": "Začněte nyní",
       "happy-customers": "Šťastné kreativity",
       "rating": "Hodnocení"
     },
     "features": {
       "1": {
-        "subtitle": "Kompletní kreativní kontrola 1",
-        "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
-        "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
-        "button": "Vytvořte za Vašich podmínek"
+        "subtitle": "Krok 1: Vytvoření účtu",
+        "title": "Začněte svou cestu Creathora",
+        "paragraph": "Připravte se na skvělou cestu plnou příležitostí! U nás se vaše tvůrčí ambice stanou skutečností bez omezení, a váš originální obsah osloví své nadšené publikum. Stačí si vytvořit účet a vstoupit do naší dynamické platformy, která vítá tvůrce všech žánrů a směrů. S našimi konkurenceschopnými 9% poplatky za jednotlivé úrovně a širokou škálou placených služeb se vaše tvrdá práce brzy promění v finanční odměnu!",
+        "button": "Začněte svou cestu"
       },
       "2": {
-        "subtitle": "Kompletní kreativní kontrola 2",
-        "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
-        "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
-        "button": "Vytvořte za Vašich podmínek"
+        "subtitle": "Krok 2: Přizpůsobte si svojí stránku",
+        "title": "Udělejte si svojí stránku podle sebe",
+        "paragraph": "Vytvořte si stránku, která bude zrcadlit vaši jedinečnou kreativitu! Využijte široké možnosti přizpůsobení, jako je změna loga a obrázku na pozadí, abyste vytvořili prostor, který bude úplně váš. S možností vytvořit neomezené úrovně obsahu nabízíte svému publiku rozmanitost a hloubku.\n\nA teď, s příchodem možnosti anket a otázek a odpovědí, máte možnost komunikovat s vaším publikem na nové úrovni. Získávejte poznatky, budujte silné vazby a zlepšujte svou stránku společně s vaší komunitou! Vaše webová stránka není pouze vystavením vaší práce, ale také prostředím pro společenství, které čeká na vaši péči a rozvoj!\n\nZačněte budovat váš kreativní domov ještě dnes a připravte se na posílení vašich vazeb s publikem, jako nikdy předtím!",
+        "button": "Vytvořte vaší stránku"
       },
       "3": {
-        "subtitle": "Kompletní kreativní ovládání 3",
-        "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
-        "paragraph": "Připojte se k tvůrcům 1M+, kteří dostávají dary, měsíční členství a prodej od fanoušků! Udržujte více peněz pomocí Ko-fi. Jen 0-5% poplatků za platformu.",
-        "button": "Vytvořte za Vašich podmínek"
+        "subtitle": "Krok 3: Sdílejte svou práci",
+        "title": "Propojte se & Rostěte.",
+        "paragraph": "Je čas pustit uzdu své kreativitě a rozšířit své publikum s naší platformou, která je připravena zapůsobit! Sdílejte obrázky, texty a videa s nadšením, protože každý příspěvek představuje příležitost zaujmout a inspirovat. Budoucí zavedení soukromých zpráv otevře nové možnosti přímé komunikace s vašimi patrony, čímž bude vaše komunita živější a propojenější! Naše platforma poskytuje tvůrcům bezpečný prostor k růstu. Díky interaktivním funkcím, jako jsou ankety a otázky a odpovědi, můžete lépe navázat kontakt se svým publikem a přizpůsobit svůj obsah jeho preferencím. Každá interakce vás přibližuje k tomu, abyste svou vášeň proměnili v udržitelnou kariéru! Začněte sdílet svou práci ještě dnes a připravte se na rozkvět vaší komunity a výdělků!",
+        "button": "Propojte se s publikem"
       }
     },
     "testimonials": {
@@ -68,8 +68,8 @@
   "creators": {
     "not-found": "Tvůrce nebyl nalezen!",
     "subtitle": "Kompletní kreativní ovládání 3",
-    "title": "Vše, co potřebujete vydělat peníze, které děláte co milujete",
-    "paragraph": "Na Patreonu můžete vybudovat trvalý obchod mimo ekosystém založený na reklamách, s příjmovým tokem od členství a nabízet průběžné výhody",
+    "title": "Vše, co potřebujete k vydělávání peněz, tím co milujete",
+    "paragraph": "Na Creathors můžete vybudovat komunitu mimo ekosystém založený na reklamách, s finančním ohodnocením z členství a speciálních nabídek",
     "find-creators": "Najděte svého tvůrce...",
     "find-button": "Hledat",
     "popular-tags": "Populární štítky:",
