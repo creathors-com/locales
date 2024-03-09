@@ -259,7 +259,8 @@
       "settings": "Settings",
       "me": "My profile",
       "post": {
-        "new": "New post"
+        "new": "New post",
+        "edit": "Edit post"
       },
       "tiers": "Tiers"
     }
