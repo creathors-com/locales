@@ -1,7 +1,10 @@
 {
   "global": {
     "navbar": {
-      "creators": "Discover",
+      "creators": {
+        "text": "Discover",
+        "crowdinContext": "Navigation redirect to Discover page."
+      },
       "search-creators": "Search creators...",
       "sign-in": "Sign in",
       "get-started": "Get started",
