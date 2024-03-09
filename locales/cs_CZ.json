@@ -28,7 +28,7 @@
       "creators": "Objevte"
     },
     "validation": {
-      "required": "This field is required."
+      "required": "Toto pole je povinné."
     }
   },
   "landing": {
@@ -90,10 +90,10 @@
     "type": "Typ",
     "tier": "Úroveň",
     "locked": "pro zobrazení příspěvku, se musíte přihlásit",
-    "buyTier": "Buy tier to unlock",
-    "or": "Or",
+    "buyTier": "Po zakoupení úrovně se odemkne",
+    "or": "Nebo",
     "ppv": {
-      "unlock": "Unlock post for"
+      "unlock": "Odemknout příspěvek pro"
     }
   },
   "post": {
@@ -107,8 +107,8 @@
       "failed": "Došlo k chybě, komentář nebyl zveřejněn."
     },
     "delete": {
-      "success": "Post successfully deleted!",
-      "failed": "Error occured, post wasn't deleted."
+      "success": "Příspěvek byl úspěšně smazán!",
+      "failed": "Došlo k chybě, příspěvek nebyl odstraněn."
     }
   },
   "settings": {
@@ -128,12 +128,12 @@
       "browse": "Procházet",
       "createTag": "VYTVOŘIT ŠTÍTEK",
       "file": {
-        "supported": "Supported types",
-        "max": "Maximum size",
-        "tooLarge": "File is too large to upload."
+        "supported": "Podporované typy",
+        "max": "Maximální velikost",
+        "tooLarge": "Soubor je pro nahrání příliš veliký."
       },
-      "mainTag": "Main tag",
-      "tags": "Tags"
+      "mainTag": "Hlavní štítek",
+      "tags": "Štítky"
     },
     "pictureUpload": {
       "success": "Profilový obrázek úspěšně změněn!",
@@ -197,14 +197,14 @@
       "image": "Obrázek",
       "video": "Video",
       "ownVideo": {
-        "done": "Done",
-        "uploading": "Uploading...",
+        "done": "Hotovo",
+        "uploading": "Nahrávání...",
         "toast": {
-          "done": "Your video has finished uploading.",
-          "failed": "Error occured, your video wasn't uploaded.",
+          "done": "Vaše video bylo úspěšně nahráno.",
+          "failed": "Došlo k chybě, vaše video nebylo nahráno.",
           "delete": {
-            "success": "Video successfully deleted.",
-            "failed": "Error occured, video wans't deleted."
+            "success": "Video bylo úspěšně odstraněno.",
+            "failed": "Došlo k chybě, video není smazáno."
           }
         }
       },
@@ -259,7 +259,7 @@
       "me": "Můj profil",
       "post": {
         "new": "Nový příspěvek",
-        "edit": "Edit post"
+        "edit": "Upravit příspěvek"
       },
       "tiers": "Úrovně"
     }
