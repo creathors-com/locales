@@ -208,7 +208,13 @@
           }
         }
       },
-      "attachments": "Nahrát přílohy",
+      "attachments": {
+        "title": "Upload Attachments",
+        "delete": {
+          "success": "Attachment successfully deleted.",
+          "failed": "Error occured, attachment wasn't deleted."
+        }
+      },
       "title": {
         "placeholder": "Vložit název",
         "name": "Hlava 1 – Celkem"
