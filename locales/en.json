@@ -204,11 +204,17 @@
           "failed": "Error occured, your video wasn't uploaded.",
           "delete": {
             "success": "Video successfully deleted.",
-            "failed": "Error occured, video wans't deleted."
+            "failed": "Error occured, video wasn't deleted."
           }
         }
         },
-        "attachments": "Upload Attachments",
+        "attachments": {
+          "title": "Upload Attachments",
+          "delete": {
+            "success": "Attachment successfully deleted.",
+            "failed": "Error occured, attachment wasn't deleted."
+          }
+        },
         "title": {
           "placeholder": "Insert title",
           "name": "Title"
