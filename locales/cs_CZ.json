@@ -204,15 +204,15 @@
           "failed": "Došlo k chybě, vaše video nebylo nahráno.",
           "delete": {
             "success": "Video bylo úspěšně odstraněno.",
-            "failed": "Došlo k chybě, video není smazáno."
+            "failed": "Došlo k chybě, video nebylo smazáno."
           }
         }
       },
       "attachments": {
-        "title": "Upload Attachments",
+        "title": "Nahrát přílohy",
         "delete": {
-          "success": "Attachment successfully deleted.",
-          "failed": "Error occured, attachment wasn't deleted."
+          "success": "Příloha byla úspěšně smazána.",
+          "failed": "Došlo k chybě, příloha nebyla smazána."
         }
       },
       "title": {
