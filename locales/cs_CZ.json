@@ -217,18 +217,18 @@
       },
       "title": {
         "placeholder": "Vložit název",
-        "name": "Hlava 1 – Celkem"
+        "name": "Název"
       },
       "text": {
         "placeholder": "Zadejte svůj text..."
       },
       "tags": {
         "label": "Štítky",
-        "placeholder": "Type tag..."
+        "placeholder": "Vyberte štítek..."
       },
       "tiers": {
         "label": "Úrovně",
-        "placeholder": "Zadejte měřítko..."
+        "placeholder": "Vyberte úroveň..."
       },
       "add-tag": "Přidat značku",
       "type-tag": "Zde napište štítek..."
