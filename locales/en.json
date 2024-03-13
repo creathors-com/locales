@@ -186,7 +186,7 @@
     "change-pw": "Change password",
     "logout": "Logout",
     "payments": "Payments",
-    "subscriptions": "Subscriptions",
+    "subscriptions": "My subscriptions",
     "posts": "Me",
     "home": "Home",
     "add": "New post",
@@ -196,6 +196,11 @@
       "upload": "Upload Thumbnail",
       "image": "Image",
       "video": "Video",
+      "ppv": {
+        "title": "Pay Per View",
+        "price": "Price",
+        "currency": "Currency"
+      },
       "ownVideo": {
         "done": "Done",
         "uploading": "Uploading...",
@@ -239,6 +244,7 @@
         "name": "Name",
         "price": "Price",
         "currency": "Currency",
+        "name-placeholder": "VIP",
         "description-placeholder": "Type your description here...",
         "add": {
           "success": "Tier successfully added!",
