@@ -197,9 +197,9 @@
       "image": "Obrázek",
       "video": "Video",
       "ppv": {
-        "title": "Pay Per View",
-        "price": "Price",
-        "currency": "Currency"
+        "title": "Platba za zhlédnutí",
+        "price": "Cena",
+        "currency": "Měna"
       },
       "ownVideo": {
         "done": "Hotovo",
