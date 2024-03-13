@@ -186,7 +186,7 @@
     "change-pw": "Změnit heslo",
     "logout": "Odhlásit se",
     "payments": "Platby",
-    "subscriptions": "Předplatné",
+    "subscriptions": "Moje předplatné",
     "posts": "Já",
     "home": "Domů",
     "add": "Nový příspěvek",
@@ -196,6 +196,11 @@
       "upload": "Nahrát náhled",
       "image": "Obrázek",
       "video": "Video",
+      "ppv": {
+        "title": "Pay Per View",
+        "price": "Price",
+        "currency": "Currency"
+      },
       "ownVideo": {
         "done": "Hotovo",
         "uploading": "Nahrávání...",
@@ -239,6 +244,7 @@
       "name": "Název",
       "price": "Cena",
       "currency": "Měna",
+      "name-placeholder": "VIP",
       "description-placeholder": "Zde zadejte svůj popis...",
       "add": {
         "success": "Úroveň byla úspěšně přidána!",
