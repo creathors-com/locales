@@ -8,10 +8,10 @@
       "to-dashboard": "Přejít na hlavní panel"
     },
     "cta": {
-      "subtitle": "Reference",
-      "title": "Převezměte kontrolu nad svojí budoucností. Rozvíjejte své podnikání bez zbytečného stresu.\n\n\n\n\n\n",
-      "paragraph": "Nyní máte možnost rozšířit svoje schopnosti nad rámec vlastní kreativity a přilákat fanoušky nabídkou veřejných náhledů podcastů a videí, které lze sdílet. Kromě toho můžete fanoušky zdarma pozvat do své komunity a poskytnout jim omezený přístup k vašim veřejným příspěvkům s možností kdykoli upgradovat.",
-      "button": "Vytvořte za Vašich podmínek"
+      "subtitle": "Navazujte kontakty, bez stresu.",
+      "title": "Využijte okamžiku a povzneste své podnikání.",
+      "paragraph": "Rozvíjejte plný potenciál vašeho tvůrčího podniku. Zapojte a rozšiřujte své publikum lákavými veřejnými ukázkami vašich podcastů a videí. Vítejte fanoušky do vaší komunity bez počátečních nákladů a nabídněte jim ochutnávku vašeho unikátního obsahu s možností vylepšení kdykoli. Přivítejte snadný růst, aniž byste se museli trápit obavami.",
+      "button": "Přivítejte své publikum"
     },
     "footer": {
       "privacy": "Ochrana osobních údajů",
@@ -67,9 +67,9 @@
   },
   "creators": {
     "not-found": "Tvůrce nebyl nalezen!",
-    "subtitle": "Kompletní kreativní ovládání 3",
-    "title": "Vše, co potřebujete k vydělávání peněz, tím co milujete",
-    "paragraph": "Na Creathors můžete vybudovat komunitu mimo ekosystém založený na reklamách, s finančním ohodnocením z členství a speciálních nabídek",
+    "subtitle": "Kompletní kontrola nad vaší kreativitou",
+    "title": "Zpeněžte svou vášeň s lehkostí",
+    "paragraph": "V Creathors povyšujeme vaši vášeň v zisk bez zbytečného záplavu reklam. Náš členský model podporuje živou komunitu zaměřenou na vysokou kvalitu obsahu a opravdové interakce. Užijte si svobodu tvořit a spojovat se, nabízíme exkluzivní obsah a výhody, které vás budou inspirovat. Připojte se k nám a udržujte svou kreativitu.",
     "find-creators": "Najděte svého tvůrce...",
     "find-button": "Hledat",
     "popular-tags": "Populární štítky:",
