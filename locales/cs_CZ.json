@@ -8,10 +8,10 @@
       "to-dashboard": "Přejít na hlavní panel"
     },
     "cta": {
-      "subtitle": "Reference",
-      "title": "Převezměte kontrolu nad svojí budoucností. Rozvíjejte své podnikání bez zbytečného stresu.\n\n\n\n\n\n",
-      "paragraph": "Nyní máte možnost rozšířit svoje schopnosti nad rámec vlastní kreativity a přilákat fanoušky nabídkou veřejných náhledů podcastů a videí, které lze sdílet. Kromě toho můžete fanoušky zdarma pozvat do své komunity a poskytnout jim omezený přístup k vašim veřejným příspěvkům s možností kdykoli upgradovat.",
-      "button": "Vytvořte za Vašich podmínek"
+      "subtitle": "Navazujte kontakty, bez stresu.",
+      "title": "Využijte okamžiku a povzneste své podnikání.",
+      "paragraph": "Rozvíjejte plný potenciál vašeho tvůrčího podniku. Zapojte a rozšiřujte své publikum lákavými veřejnými ukázkami vašich podcastů a videí. Vítejte fanoušky do vaší komunity bez počátečních nákladů a nabídněte jim ochutnávku vašeho unikátního obsahu s možností vylepšení kdykoli. Přivítejte snadný růst, aniž byste se museli trápit obavami.",
+      "button": "Přivítejte své publikum"
     },
     "footer": {
       "privacy": "Ochrana osobních údajů",
@@ -44,19 +44,19 @@
       "1": {
         "subtitle": "Krok 1: Vytvoření účtu",
         "title": "Začněte svou cestu Creathora",
-        "paragraph": "Připravte se na skvělou cestu plnou příležitostí! U nás se vaše tvůrčí ambice stanou skutečností bez omezení, a váš originální obsah osloví své nadšené publikum. Stačí si vytvořit účet a vstoupit do naší dynamické platformy, která vítá tvůrce všech žánrů a směrů. S našimi konkurenceschopnými 9% poplatky za jednotlivé úrovně a širokou škálou placených služeb se vaše tvrdá práce brzy promění v finanční odměnu!",
+        "paragraph": "Ponořte se do inkluzivní platformy, kde se setkává tvůrčí duch s příležitostí. S konkurenčními 9% poplatky je naše platforma navržena pro tvůrce všech typů. Zaujměte své publikum pomocí anket, Q&A sessions a soukromými zprávami, zatímco si užíváte atraktivní finanční odměnu za svůj úsilný výkon. Proměňte svou vášeň na zisk v komunitě, kde kreativitě nejsou kladeny žádné meze.",
         "button": "Začněte svou cestu"
       },
       "2": {
         "subtitle": "Krok 2: Přizpůsobte si svojí stránku",
         "title": "Udělejte si svojí stránku podle sebe",
-        "paragraph": "Vytvořte si stránku, která bude zrcadlit vaši jedinečnou kreativitu! Využijte široké možnosti přizpůsobení, jako je změna loga a obrázku na pozadí, abyste vytvořili prostor, který bude úplně váš. S možností vytvořit neomezené úrovně obsahu nabízíte svému publiku rozmanitost a hloubku.\n\nA teď, s příchodem možnosti anket a otázek a odpovědí, máte možnost komunikovat s vaším publikem na nové úrovni. Získávejte poznatky, budujte silné vazby a zlepšujte svou stránku společně s vaší komunitou! Vaše webová stránka není pouze vystavením vaší práce, ale také prostředím pro společenství, které čeká na vaši péči a rozvoj!\n\nZačněte budovat váš kreativní domov ještě dnes a připravte se na posílení vašich vazeb s publikem, jako nikdy předtím!",
+        "paragraph": "Vynikněte stránkou, která odráží vaši jedinečnou kreativitu. Přizpůsobte si své logo a pozadí a nabídněte rozmanitý obsah prostřednictvím neomezených úrovní. Propojte se s vaším publikem pomocí interaktivních anket a Q&A sessions. Vaše prostředí je více než pouhá prezentace práce, je to komunita připravená růst s vámi.",
         "button": "Vytvořte vaší stránku"
       },
       "3": {
         "subtitle": "Krok 3: Sdílejte svou práci",
         "title": "Propojte se & Rostěte.",
-        "paragraph": "Je čas pustit uzdu své kreativitě a rozšířit své publikum s naší platformou, která je připravena zapůsobit! Sdílejte obrázky, texty a videa s nadšením, protože každý příspěvek představuje příležitost zaujmout a inspirovat. Budoucí zavedení soukromých zpráv otevře nové možnosti přímé komunikace s vašimi patrony, čímž bude vaše komunita živější a propojenější! Naše platforma poskytuje tvůrcům bezpečný prostor k růstu. Díky interaktivním funkcím, jako jsou ankety a otázky a odpovědi, můžete lépe navázat kontakt se svým publikem a přizpůsobit svůj obsah jeho preferencím. Každá interakce vás přibližuje k tomu, abyste svou vášeň proměnili v udržitelnou kariéru! Začněte sdílet svou práci ještě dnes a připravte se na rozkvět vaší komunity a výdělků!",
+        "paragraph": "Nechte svou kreativitu volně proudit a okouzlete své publikum. Sdílejte obrázky, texty a videa bez námahy díky čemuž má každý příspěvek šanci inspirovat a zapojit vaše publikum. Pěstujte živou komunitu díky přímé komunikaci prostřednictvím soukromých zpráv. Využijte interaktivní funkce k přizpůsobení obsahu preferencím publika a proměňte svou vášeň v prosperující kariéru.",
         "button": "Propojte se s publikem"
       }
     },
@@ -67,9 +67,9 @@
   },
   "creators": {
     "not-found": "Tvůrce nebyl nalezen!",
-    "subtitle": "Kompletní kreativní ovládání 3",
-    "title": "Vše, co potřebujete k vydělávání peněz, tím co milujete",
-    "paragraph": "Na Creathors můžete vybudovat komunitu mimo ekosystém založený na reklamách, s finančním ohodnocením z členství a speciálních nabídek",
+    "subtitle": "Kompletní kontrola nad vaší kreativitou",
+    "title": "Zpeněžte svou vášeň s lehkostí",
+    "paragraph": "V Creathors povyšujeme vaši vášeň v zisk bez zbytečného záplavu reklam. Náš členský model podporuje živou komunitu zaměřenou na vysokou kvalitu obsahu a opravdové interakce. Užijte si svobodu tvořit a spojovat se, nabízíme exkluzivní obsah a výhody, které vás budou inspirovat. Připojte se k nám a udržujte svou kreativitu.",
     "find-creators": "Najděte svého tvůrce...",
     "find-button": "Hledat",
     "popular-tags": "Populární štítky:",
