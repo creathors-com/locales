@@ -263,6 +263,23 @@
         "edit": "Upravit úroveň",
         "add": "Přidat úroveň"
       }
+    },
+    "billing": {
+      "heading": "Billing information",
+      "country": "Country",
+      "payoutOption": "Payout option",
+      "options": {
+        "iban": "IBAN",
+        "routingNumber": "Routing number",
+        "accountNumber": "Account number",
+        "email": "Email"
+      },
+      "error": {
+        "WRONG_LENGTH": "IBAN has to be %d characters long.",
+        "NO_COUNTRY_CODE": "Country code is missing.",
+        "NO_COUTRY_CODE_START": "IBAN must start with country code!"
+      },
+      "success": "Successfully updated billing info!"
     }
   },
   "title": {
