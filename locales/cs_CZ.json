@@ -268,7 +268,7 @@
     "billing": {
       "navItem": "Billing",
       "heading": "Billing information",
-      "country": "Country",
+      "country": "Billing country",
       "payoutOption": "Payout option",
       "options": {
         "iban": "IBAN",
@@ -279,7 +279,7 @@
       "error": {
         "WRONG_LENGTH": "IBAN has to be %d characters long.",
         "NO_COUNTRY_CODE": "Country code is missing.",
-        "NO_COUTRY_CODE_START": "IBAN must start with country code!",
+        "NO_COUNTRY_CODE_START": "IBAN must start with country code of selected country!",
         "INVALID_EMAIL": "Email must be valid!"
       },
       "success": "Successfully updated billing info!"
