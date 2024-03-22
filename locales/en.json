@@ -268,7 +268,7 @@
     "billing": {
       "navItem": "Billing",
       "heading": "Billing information",
-      "country": "Country",
+      "country": "Billing country",
       "payoutOption": "Payout option",
       "options": {
         "iban": "IBAN",
