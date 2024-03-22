@@ -127,6 +127,7 @@
       "uploadTitleImage": "Upload title image",
       "browse": "Browse",
       "createTag": "CREATE TAG",
+      "select": "Select",
       "file": {
         "supported": "Supported types",
         "max": "Maximum size",
@@ -265,6 +266,7 @@
         }
       },
     "billing": {
+      "navItem": "Billing",
       "heading": "Billing information",
       "country": "Country",
       "payoutOption": "Payout option",
@@ -277,7 +279,8 @@
       "error": {
         "WRONG_LENGTH": "IBAN has to be %d characters long.",
         "NO_COUNTRY_CODE": "Country code is missing.",
-        "NO_COUTRY_CODE_START": "IBAN must start with country code!"
+        "NO_COUTRY_CODE_START": "IBAN must start with country code!",
+        "INVALID_EMAIL": "Email must be valid!"
       },
       "success": "Successfully updated billing info!"
     }
@@ -286,6 +289,7 @@
     "profile": {
       "settings": "Settings",
       "me": "My profile",
+      "billing": "Billing",
       "post": {
         "new": "New post",
         "edit": "Edit post"
