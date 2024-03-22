@@ -127,6 +127,7 @@
       "uploadTitleImage": "Upload title image",
       "browse": "Browse",
       "createTag": "CREATE TAG",
+      "select": "Select",
       "file": {
         "supported": "Supported types",
         "max": "Maximum size",
