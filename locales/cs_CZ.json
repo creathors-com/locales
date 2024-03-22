@@ -127,6 +127,7 @@
       "uploadTitleImage": "Nahrát titulek",
       "browse": "Procházet",
       "createTag": "VYTVOŘIT ŠTÍTEK",
+      "select": "Select",
       "file": {
         "supported": "Podporované typy",
         "max": "Maximální velikost",
@@ -265,6 +266,7 @@
       }
     },
     "billing": {
+      "navItem": "Billing",
       "heading": "Billing information",
       "country": "Country",
       "payoutOption": "Payout option",
@@ -286,6 +288,7 @@
     "profile": {
       "settings": "Nastavení",
       "me": "Můj profil",
+      "billing": "Billing",
       "post": {
         "new": "Nový příspěvek",
         "edit": "Upravit příspěvek"
