@@ -102,6 +102,7 @@
     "send": "Send",
     "reply": "Reply",
     "replies": "Replies",
+    "login": "Log in to view this post",
     "add-comment": {
       "success": "Comment posted.",
       "failed": "Error occured, comment wasn't posted."
