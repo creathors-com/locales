@@ -102,6 +102,7 @@
     "send": "Poslat",
     "reply": "Odpověď",
     "replies": "Odpovědi",
+    "login": "Log in to view this post",
     "add-comment": {
       "success": "Komentář zveřejněn.",
       "failed": "Došlo k chybě, komentář nebyl zveřejněn."
