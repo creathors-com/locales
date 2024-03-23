@@ -102,7 +102,7 @@
     "send": "Poslat",
     "reply": "Odpověď",
     "replies": "Odpovědi",
-    "login": "Log in to view this post",
+    "login": "Přihlaste se pro zobrazení tohoto příspěvku",
     "add-comment": {
       "success": "Komentář zveřejněn.",
       "failed": "Došlo k chybě, komentář nebyl zveřejněn."
@@ -128,7 +128,7 @@
       "uploadTitleImage": "Nahrát titulek",
       "browse": "Procházet",
       "createTag": "VYTVOŘIT ŠTÍTEK",
-      "select": "Select",
+      "select": "Vybrat",
       "file": {
         "supported": "Podporované typy",
         "max": "Maximální velikost",
@@ -267,30 +267,30 @@
       }
     },
     "billing": {
-      "navItem": "Billing",
-      "heading": "Billing information",
-      "country": "Billing country",
-      "payoutOption": "Payout option",
+      "navItem": "Fakturace",
+      "heading": "Fakturační údaje",
+      "country": "Fakturační země",
+      "payoutOption": "Možnost výplaty",
       "options": {
         "iban": "IBAN",
-        "routingNumber": "Routing number",
-        "accountNumber": "Account number",
+        "routingNumber": "Směrový kód banky",
+        "accountNumber": "Číslo účtu",
         "email": "Email"
       },
       "error": {
-        "WRONG_LENGTH": "IBAN has to be %d characters long.",
-        "NO_COUNTRY_CODE": "Country code is missing.",
-        "NO_COUNTRY_CODE_START": "IBAN must start with country code of selected country!",
-        "INVALID_EMAIL": "Email must be valid!"
+        "WRONG_LENGTH": "IBAN musí být dlouhý %d.",
+        "NO_COUNTRY_CODE": "Chybí kód země.",
+        "NO_COUNTRY_CODE_START": "IBAN musí začínat kódem vybrané země!",
+        "INVALID_EMAIL": "E-mail musí být platný!"
       },
-      "success": "Successfully updated billing info!"
+      "success": "Platební údaje byly úspěšně aktualizovány!"
     }
   },
   "title": {
     "profile": {
       "settings": "Nastavení",
       "me": "Můj profil",
-      "billing": "Billing",
+      "billing": "Fakturace",
       "post": {
         "new": "Nový příspěvek",
         "edit": "Upravit příspěvek"
