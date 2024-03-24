@@ -115,9 +115,13 @@
   "settings": {
     "form": {
       "username": "Username",
+      "username-placeholder": "JohnsVideos",
       "givenName": "Given name",
+      "givenName-placeholder": "John",
       "lastName": "Last name",
+      "lastName-placeholder": "Doe",
       "description": "Description",
+      "description-placeholder": "Let others know more about you..",
       "city": "City",
       "country": "Country",
       "line1": "Line 1",
@@ -180,6 +184,7 @@
     "remove-pfp": "Remove",
     "name": "Display name",
     "email": "Email address",
+    "email-placeholder": "john.doe@example.com",
     "save": "Save",
     "password": "Password",
     "old-pw": "Old password",
