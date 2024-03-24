@@ -115,9 +115,13 @@
   "settings": {
     "form": {
       "username": "Uživatelské jméno",
+      "username-placeholder": "JohnsVideos",
       "givenName": "Křestní jméno",
+      "givenName-placeholder": "John",
       "lastName": "Příjmení",
+      "lastName-placeholder": "Doe",
       "description": "Popis",
+      "description-placeholder": "Let others know more about you..",
       "city": "Město",
       "country": "Země",
       "line1": "Ulice",
@@ -180,6 +184,7 @@
     "remove-pfp": "Odebrat",
     "name": "Zobrazovaný název",
     "email": "E-mailová adresa",
+    "email-placeholder": "john.doe@example.com",
     "save": "Uložit",
     "password": "Heslo",
     "old-pw": "Staré heslo",
