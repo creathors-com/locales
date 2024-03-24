@@ -184,7 +184,7 @@
     "remove-pfp": "Remove",
     "name": "Display name",
     "email": "Email address",
-    "email-placeholder": "john.doe@example.com",
+    "email-placeholder": "john.doe{'@'}example.com",
     "save": "Save",
     "password": "Password",
     "old-pw": "Old password",
