@@ -184,7 +184,7 @@
     "remove-pfp": "Odebrat",
     "name": "Zobrazovaný název",
     "email": "E-mailová adresa",
-    "email-placeholder": "john.doe@example.com",
+    "email-placeholder": "john.doe{'@'}example.com",
     "save": "Uložit",
     "password": "Heslo",
     "old-pw": "Staré heslo",
