@@ -33,7 +33,7 @@
   },
   "landing": {
     "hero": {
-      "subtitle": "Úplná kreativní kontrola",
+      "subtitle": "Kompletní kontrola nad vaší kreativitou",
       "title": "Vše, co potřebuješ, abys mohl vydělávat peníze tím, co tě baví",
       "paragraph": "Posilte svou kreativitu na platformě, která si cení vaší práce. Díky nízkým poplatkům, přizpůsobitelným stránkám a nástrojům pro přímé zapojení je zpeněžení vaší vášně jednoduché a přínosné. Připojte se ke komunitě, kde má každý tvůrce svůj hlas, a začněte budovat svůj úspěšný příběh ještě dnes.",
       "button": "Začněte nyní",
@@ -80,7 +80,7 @@
     "starting-from": "Začíná od",
     "free": "Zdarma",
     "tier": {
-      "tier": "ČTVRTLETNÍ",
+      "tier": "ÚROVEŇ",
       "join": "Připojit se nyní"
     }
   },
