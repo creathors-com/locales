@@ -88,6 +88,10 @@
     "join": "Připojit se",
     "title": "Všechny příspěvky",
     "type": "Typ",
+    "types": {
+      "image": "Image",
+      "video": "Video"
+    },
     "tier": "Úroveň",
     "locked": "pro zobrazení příspěvku, se musíte přihlásit",
     "buyTier": "Po zakoupení úrovně se odemkne",
