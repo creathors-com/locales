@@ -88,6 +88,10 @@
     "join": "Join",
     "title": "All Posts",
     "type": "Type",
+    "types": {
+      "image": "Image",
+      "video": "Video"
+    },
     "tier": "Tier",
     "locked": "to view this post you have to log in",
     "buyTier": "Buy tier to unlock",
