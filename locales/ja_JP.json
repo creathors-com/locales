@@ -1,0 +1,313 @@
+{
+  "global": {
+    "navbar": {
+      "creators": "Discover",
+      "search-creators": "Search creators...",
+      "sign-in": "Sign in",
+      "get-started": "Get started",
+      "to-dashboard": "Go to dashboard"
+    },
+    "cta": {
+      "subtitle": "Cultivate Connections, Stress-Free.",
+      "title": "Seize the Moment, Elevate Your Business.",
+      "paragraph": "Unleash the full potential of your creative enterprise. Engage and grow your audience with enticing public previews of your podcasts and videos. Welcome fans into your community at no initial cost, offering a taste of your unique content with the freedom to upgrade anytime. Embrace effortless growth, without the worry.",
+      "button": "Embrace Your Audience"
+    },
+    "footer": {
+      "privacy": "Privacy Policy",
+      "tos": "Terms of Service",
+      "reserved": "All rights reserved."
+    },
+    "phrases": {
+      "all": "All",
+      "month": "month",
+      "empty": "empty"
+    },
+    "title": {
+      "index": "Home",
+      "creators": "Discover"
+    },
+    "validation": {
+      "required": "This field is required."
+    }
+  },
+  "landing": {
+    "hero": {
+      "subtitle": "Complete creative control",
+      "title": "Everything you need to make money doing what you love",
+      "paragraph": "Empower your creativity on a platform that values your work. With low fees, customizable pages, and direct engagement tools, we make monetizing your passion simple and rewarding. Join a community where every creator has a voice, and start building your success story today.",
+      "button": "Get Started Now",
+      "happy-customers": "Happy Creatives",
+      "rating": "Rating"
+    },
+    "features": {
+      "1": {
+        "subtitle": "Step 1: Create Your Account",
+        "title": "Begin Your Creator Journey",
+        "paragraph": "Dive into an inclusive platform where creativity meets opportunity. With a competitive 9% fee, our platform is designed for creators of all types. Engage your audience with polls, Q&A sessions, and private messaging, all while enjoying a lucrative return on your hard work. Transform your passion into profit in a community that celebrates creativity.",
+        "button": "Start your journey"
+      },
+      "2": {
+        "subtitle": "Step 2: Customize Your Space",
+        "title": "Make Your Space Yours",
+        "paragraph": "Stand out with a page that mirrors your unique creativity. Customize your logo and background, and offer diverse content through unlimited tiers. Connect deeply with your audience using interactive polls and Q&A sessions. Your space is more than a display of work; it's a community ready to grow with you.",
+        "button": "Create your space"
+      },
+      "3": {
+        "subtitle": "Step 3: Share Your Work",
+        "title": "Connect & Grow",
+        "paragraph": "Let your creativity flow and captivate your audience. Share images, text, and videos effortlessly, enriching each post with the chance to inspire and engage. Foster a vibrant community with direct communication through private messages. Leverage interactive features to tailor content to audience preferences, turning your passion into a thriving career.",
+        "button": "Connect with your audience"
+      }
+    },
+    "testimonials": {
+      "subtitle": "Testimonials",
+      "title": "What they say about us"
+    }
+  },
+  "creators": {
+    "not-found": "Creator wasn't found!",
+    "subtitle": "Complete creative control",
+    "title": "Monetize Your Passion with Ease",
+    "paragraph": "At Creathors, we elevate your passion into profit without the clutter of ads. Our membership model fosters a vibrant community focused on high-quality content and genuine interactions. Enjoy the freedom to create and connect, offering exclusive content and perks that keep you inspired. Join us and keep the creativity flowing.",
+    "find-creators": "Find your creator...",
+    "find-button": "Search",
+    "popular-tags": "Popular Tags:",
+    "creators": "Creators",
+    "region": "Region",
+    "view-more": "View more",
+    "view": "View Profile",
+    "starting-from": "Starting from",
+    "free": "Free",
+    "tier": {
+      "tier": "TIER",
+      "join": "Join Now"
+    }
+  },
+  "posts": {
+    "join": "Join",
+    "title": "All Posts",
+    "type": "Type",
+    "types": {
+      "image": "Image",
+      "video": "Video"
+    },
+    "tier": "Tier",
+    "locked": "to view this post you have to log in",
+    "buyTier": "Buy tier to unlock",
+    "or": "Or",
+    "ppv": {
+      "unlock": "Unlock post for"
+    }
+  },
+  "post": {
+    "comments": "Comments",
+    "placeholder": "Type your comment here",
+    "send": "Send",
+    "reply": "Reply",
+    "replies": "Replies",
+    "login": "Log in to view this post",
+    "add-comment": {
+      "success": "Comment posted.",
+      "failed": "Error occured, comment wasn't posted."
+    },
+    "delete": {
+      "success": "Post successfully deleted!",
+      "failed": "Error occured, post wasn't deleted."
+    }
+  },
+  "settings": {
+    "form": {
+      "username": "Username",
+      "username-placeholder": "JohnsVideos",
+      "givenName": "Given name",
+      "givenName-placeholder": "John",
+      "lastName": "Last name",
+      "lastName-placeholder": "Doe",
+      "description": "Description",
+      "description-placeholder": "Let others know more about you..",
+      "city": "City",
+      "country": "Country",
+      "line1": "Line 1",
+      "line2": "Line 2",
+      "postalCode": "Postal Code",
+      "state": "State",
+      "uploadAvatar": "Upload avatar",
+      "uploadTitleImage": "Upload title image",
+      "browse": "Browse",
+      "createTag": "CREATE TAG",
+      "select": "Select",
+      "file": {
+        "supported": "Supported types",
+        "max": "Maximum size",
+        "tooLarge": "File is too large to upload."
+      },
+      "mainTag": "Main tag",
+      "tags": "Tags"
+    },
+    "pictureUpload": {
+      "success": "Profile picture changed successfully!",
+      "error": "There was a problem uploading your profile picture."
+    },
+    "backgroundUpload": {
+      "success": "Profile background changed successfully!",
+      "error": "There was a problem uploading your profile background."
+    },
+    "conflict": {
+      "username": "Username is taken.",
+      "email": "Email is taken."
+    },
+    "saved": "Settings saved!",
+    "saving": {
+      "tags": {
+        "success": "Tags saved!",
+        "error": "Error occured, tags weren't saved..."
+      },
+      "socials": {
+        "success": "Socials saved!",
+        "error": "Error occured, socials weren't saved..."
+      },
+      "profile": {
+        "success": "Profile saved!",
+        "error": "Error occured, profile wasn't saved..."
+      },
+      "address": {
+        "success": "Address saved!",
+        "error": "Error occured, address wasn't saved..."
+      }
+    },
+    "heading": {
+      "props": "Tags",
+      "info": "Profile",
+      "address": "Address",
+      "socials": "Socials"
+    },
+    "settings": "Settings",
+    "profile-info": "Profile information",
+    "upload-new-pfp": "Upload new picture",
+    "remove-pfp": "Remove",
+    "name": "Display name",
+    "email": "Email address",
+    "email-placeholder": "john.doe{'@'}example.com",
+    "save": "Save",
+    "password": "Password",
+    "old-pw": "Old password",
+    "new-pw": "New password",
+    "confirm-pw": "Confirm new password",
+    "change-pw": "Change password",
+    "logout": "Logout",
+    "payments": "Payments",
+    "subscriptions": "My subscriptions",
+    "posts": "Me",
+    "home": "Home",
+    "add": "New post",
+    "post": {
+      "publish": "Publish",
+      "post": "Post",
+      "upload": "Upload Thumbnail",
+      "image": "Image",
+      "video": "Video",
+      "ppv": {
+        "title": "Pay Per View",
+        "price": "Price",
+        "currency": "Currency"
+      },
+      "ownVideo": {
+        "done": "Done",
+        "uploading": "Uploading...",
+        "toast": {
+          "done": "Your video has finished uploading.",
+          "failed": "Error occured, your video wasn't uploaded.",
+          "delete": {
+            "success": "Video successfully deleted.",
+            "failed": "Error occured, video wasn't deleted."
+          }
+        }
+      },
+      "attachments": {
+        "title": "Upload Attachments",
+        "delete": {
+          "success": "Attachment successfully deleted.",
+          "failed": "Error occured, attachment wasn't deleted."
+        }
+      },
+      "title": {
+        "placeholder": "Insert title",
+        "name": "Title"
+      },
+      "text": {
+        "placeholder": "Type your text..."
+      },
+      "tags": {
+        "label": "Tags",
+        "placeholder": "Type tag..."
+      },
+      "tiers": {
+        "label": "Tiers",
+        "placeholder": "Type tier..."
+      },
+      "add-tag": "Add Tag",
+      "type-tag": "Type tag here..."
+    },
+    "tiers": {
+      "tiers": "Tiers",
+      "tier": "Tier",
+      "name": "Name",
+      "price": "Price",
+      "currency": "Currency",
+      "name-placeholder": "VIP",
+      "description-placeholder": "Type your description here...",
+      "add": {
+        "success": "Tier successfully added!",
+        "error": "Error occured, tier wasn't added."
+      },
+      "update": {
+        "label": "Edit",
+        "success": "Tier updated!",
+        "error": "Error occured, tier wasn't updated."
+      },
+      "delete": {
+        "success": "Tier delete!",
+        "error": "Error occured, tier wasn't deleted."
+      },
+      "label": {
+        "edit": "Edit tier",
+        "add": "Add tier"
+      }
+    },
+    "billing": {
+      "navItem": "Billing",
+      "heading": "Billing information",
+      "country": "Billing country",
+      "payoutOption": "Payout option",
+      "options": {
+        "iban": "IBAN",
+        "routingNumber": "Routing number",
+        "accountNumber": "Account number",
+        "email": "Email"
+      },
+      "error": {
+        "WRONG_LENGTH": "IBAN has to be %d characters long.",
+        "NO_COUNTRY_CODE": "Country code is missing.",
+        "NO_COUNTRY_CODE_START": "IBAN must start with country code of selected country!",
+        "INVALID_EMAIL": "Email must be valid!"
+      },
+      "success": "Successfully updated billing info!"
+    }
+  },
+  "title": {
+    "profile": {
+      "settings": "Settings",
+      "me": "My profile",
+      "billing": "Billing",
+      "post": {
+        "new": "New post",
+        "edit": "Edit post"
+      },
+      "tiers": "Tiers"
+    }
+  },
+  "error": {
+    "not-logged-in": "You are not logged in!"
+  }
+}
