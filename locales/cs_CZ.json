@@ -96,6 +96,7 @@
     "locked": "pro zobrazení příspěvku, se musíte přihlásit",
     "buyTier": "Po zakoupení úrovně se odemkne",
     "or": "Nebo",
+    "notFound": "Wow, such empty...",
     "ppv": {
       "unlock": "Odemknout příspěvek za"
     }
@@ -308,6 +309,10 @@
     }
   },
   "error": {
-    "not-logged-in": "Nejste přihlášen(a)!"
+    "not-logged-in": "Nejste přihlášen(a)!",
+    "message": "Sorry, there was a problem accessing this page.",
+    "notFound": "Sorry, page not found.",
+    "search": "Go to creators",
+    "return": "Return home"
   }
 }
