@@ -96,6 +96,7 @@
     "locked": "to view this post you have to log in",
     "buyTier": "Buy tier to unlock",
     "or": "Or",
+    "notFound": "Wow, such empty...",
     "ppv": {
       "unlock": "Unlock post for"
     }
@@ -308,6 +309,10 @@
     }
   },
   "error": {
-    "not-logged-in": "You are not logged in!"
+    "not-logged-in": "You are not logged in!",
+    "message": "Sorry, there was a problem accessing this page.",
+    "notFound": "Sorry, page not found.",
+    "search": "Go to creators",
+    "return": "Return home"
   }
 }
