@@ -28,7 +28,8 @@
       "creators": "Objevte"
     },
     "validation": {
-      "required": "Toto pole je povinné."
+      "required": "Toto pole je povinné.",
+      "notType": "Wrong value type."
     }
   },
   "landing": {
