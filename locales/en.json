@@ -28,7 +28,8 @@
       "creators": "Discover"
     },
     "validation": {
-      "required": "This field is required."
+      "required": "This field is required.",
+      "notType": "Wrong value type."
     }
   },
   "landing": {
