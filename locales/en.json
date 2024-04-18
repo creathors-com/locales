@@ -274,6 +274,7 @@
         "name": "Name",
         "price": "Price",
         "currency": "Currency",
+        "weight": "Weight",
         "name-placeholder": "VIP",
         "description-placeholder": "Type your description here...",
         "add": {
