@@ -120,21 +120,21 @@
   "settings": {
     "tagLabels": {
       "youtube": "YouTube",
-      "twitch": "Twitch",
-      "podcasts": "Podcasts",
-      "tipstricks": "Tips & Tricks",
-      "guides": "Guides",
-      "cooking": "Cooking",
-      "graphics": "Graphics",
-      "videoediting": "Video Editing",
-      "3dmodeling": "3D Modeling",
-      "education": "Education",
-      "programming": "Programming",
-      "automotive": "Automotive",
-      "photography": "Photography",
-      "videoproduction": "Video Production",
+      "twitch": "Stream",
+      "podcasts": "Podcasty",
+      "tipstricks": "Tipy & Triky",
+      "guides": "Návody",
+      "cooking": "Vaření",
+      "graphics": "Grafika",
+      "videoediting": "Střih videí",
+      "3dmodeling": "3D Modelování",
+      "education": "Vzdělávání",
+      "programming": "Programování",
+      "automotive": "Motorismus",
+      "photography": "Fotografování",
+      "videoproduction": "Produkce videa",
       "finance": "Finance",
-      "investing": "Investing"
+      "investing": "Investování"
     },
     "form": {
       "username": "Uživatelské jméno",
@@ -274,6 +274,7 @@
       "name": "Název",
       "price": "Cena",
       "currency": "Měna",
+      "weight": "Weight",
       "name-placeholder": "VIP",
       "description-placeholder": "Zde zadejte svůj popis...",
       "add": {
