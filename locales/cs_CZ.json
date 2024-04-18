@@ -118,6 +118,24 @@
     }
   },
   "settings": {
+    "tagLabels": {
+      "youtube": "YouTube",
+      "twitch": "Twitch",
+      "podcasts": "Podcasts",
+      "tipstricks": "Tips & Tricks",
+      "guides": "Guides",
+      "cooking": "Cooking",
+      "graphics": "Graphics",
+      "videoediting": "Video Editing",
+      "3dmodeling": "3D Modeling",
+      "education": "Education",
+      "programming": "Programming",
+      "automotive": "Automotive",
+      "photography": "Photography",
+      "videoproduction": "Video Production",
+      "finance": "Finance",
+      "investing": "Investing"
+    },
     "form": {
       "username": "Uživatelské jméno",
       "username-placeholder": "HonzovaVidea",
