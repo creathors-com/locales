@@ -30,6 +30,9 @@
     "validation": {
       "required": "Toto pole je povinné.",
       "notType": "Wrong value type."
+    },
+    "combobox": {
+      "empty": "No options"
     }
   },
   "landing": {

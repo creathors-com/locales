@@ -30,6 +30,9 @@
     "validation": {
       "required": "This field is required.",
       "notType": "Wrong value type."
+    },
+    "combobox": {
+      "empty": "No options"
     }
   },
   "landing": {
