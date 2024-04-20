@@ -29,10 +29,10 @@
     },
     "validation": {
       "required": "Toto pole je povinné.",
-      "notType": "Wrong value type."
+      "notType": "Nesprávný typ hodnoty."
     },
     "combobox": {
-      "empty": "No options"
+      "empty": "Žádné možnosti"
     }
   },
   "landing": {
