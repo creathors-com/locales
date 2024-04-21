@@ -316,6 +316,10 @@
         "NO_COUNTRY_CODE_START": "IBAN musí začínat kódem vybrané země!",
         "INVALID_EMAIL": "E-mail musí být platný!"
       },
+      "payouts": {
+        "bank": "Bank Account",
+        "paypal": "PayPal"
+      },
       "success": "Platební údaje byly úspěšně aktualizovány!"
     }
   },
