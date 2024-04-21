@@ -316,6 +316,10 @@
         "NO_COUNTRY_CODE_START": "IBAN must start with country code of selected country!",
         "INVALID_EMAIL": "Email must be valid!"
       },
+      "payouts": {
+        "bank": "Bank Account",
+        "paypal": "PayPal"
+      },
       "success": "Successfully updated billing info!"
     }
   },
