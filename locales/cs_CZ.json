@@ -317,7 +317,7 @@
         "INVALID_EMAIL": "E-mail musí být platný!"
       },
       "payouts": {
-        "bank": "Bank Account",
+        "bank": "Bankovní účet",
         "paypal": "PayPal"
       },
       "success": "Platební údaje byly úspěšně aktualizovány!"
