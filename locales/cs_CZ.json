@@ -97,7 +97,7 @@
       "video": "Video"
     },
     "tier": "Úroveň",
-    "locked": "pro zobrazení příspěvku, se musíte přihlásit",
+    "locked": "pro zobrazení příspěvků je nutné se přihlásit",
     "buyTier": "Po zakoupení úrovně se odemkne",
     "or": "Nebo",
     "notFound": "Páni, tak prázdný...",
@@ -111,7 +111,7 @@
     "send": "Poslat",
     "reply": "Odpověď",
     "replies": "Odpovědi",
-    "login": "Přihlaste se pro zobrazení tohoto příspěvku",
+    "login": "Pro zobrazení se přihlašte",
     "add-comment": {
       "success": "Komentář zveřejněn.",
       "failed": "Došlo k chybě, komentář nebyl zveřejněn."
