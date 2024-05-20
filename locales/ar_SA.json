@@ -321,6 +321,58 @@
         "paypal": "PayPal"
       },
       "success": "Successfully updated billing info!"
+    },
+    "payouts": {
+      "label": "Payouts",
+      "table": {
+        "tooltip": {
+          "amountOut": {
+            "total": "Total:",
+            "fees": "Fees:",
+            "cut": "Cut:"
+          }
+        },
+        "head": {
+          "amountOut": "Amount out",
+          "currency": "Currency",
+          "state": "State",
+          "stripeState": "Stripe state"
+        }
+      },
+      "states": {
+        "CREATED": {
+          "name": "Created",
+          "explain": "The payout is created."
+        },
+        "PENDING": {
+          "name": "Pending",
+          "explain": "The payout is pending."
+        },
+        "PROCESSING": {
+          "name": "Processing",
+          "explain": "The payout is processing."
+        },
+        "PAID": {
+          "name": "Paid",
+          "explain": "The payout is paid."
+        },
+        "TO_BE_PAID": {
+          "name": "To be paid",
+          "explain": "The payout is to be paid."
+        },
+        "FAILED": {
+          "name": "Failed",
+          "explain": "The payout has failed."
+        },
+        "IN_TRANSIT": {
+          "name": "In transit",
+          "explain": "The payout is in transit."
+        },
+        "CANCELED": {
+          "name": "Canceled",
+          "explain": "The payout was canceled."
+        }
+      }
     }
   },
   "title": {
@@ -332,7 +384,8 @@
         "new": "New post",
         "edit": "Edit post"
       },
-      "tiers": "Tiers"
+      "tiers": "Tiers",
+      "payouts": "Payouts"
     }
   },
   "error": {
