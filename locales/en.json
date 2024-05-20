@@ -304,6 +304,10 @@
       "heading": "Billing information",
       "country": "Billing country",
       "payoutOption": "Payout option",
+      "company": "Company details",
+      "companyName": "Company name",
+      "taxId": "Tax ID",
+      "taxIdType": "Tax ID type",
       "options": {
         "iban": "IBAN",
         "routingNumber": "Routing number",
@@ -314,7 +318,10 @@
         "WRONG_LENGTH": "IBAN has to be %d characters long.",
         "NO_COUNTRY_CODE": "Country code is missing.",
         "NO_COUNTRY_CODE_START": "IBAN must start with country code of selected country!",
-        "INVALID_EMAIL": "Email must be valid!"
+        "INVALID_EMAIL": "Email must be valid!",
+        "EMPTY_TAX_ID": "Tax ID is required.",
+        "INVALID_TAX_ID": "Tax ID doesn't match selected format.",
+        "FAILED_COMPANY": "There was a problem saving company details."
       },
       "payouts": {
         "bank": "Bank Account",
