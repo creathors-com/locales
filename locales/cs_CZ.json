@@ -350,23 +350,23 @@
       "states": {
         "CREATED": {
           "name": "Created",
-          "explain": "The payout is created."
+          "explain": "Payout has been created and we're waiting for it's arrival to us."
         },
         "PENDING": {
           "name": "Pending",
-          "explain": "The payout is pending."
+          "explain": "Payout is pending. We're waiting for the funds to be sent to us."
         },
         "PROCESSING": {
           "name": "Processing",
-          "explain": "The payout is processing."
+          "explain": "We're processing the payout. Making sure everything is fine."
         },
         "PAID": {
           "name": "Paid",
-          "explain": "The payout is paid."
+          "explain": "Payout has been paid out."
         },
         "TO_BE_PAID": {
           "name": "To be paid",
-          "explain": "The payout is to be paid."
+          "explain": "Processing was successful and should be sent out to you shortly."
         },
         "FAILED": {
           "name": "Failed",
@@ -374,7 +374,7 @@
         },
         "IN_TRANSIT": {
           "name": "In transit",
-          "explain": "The payout is in transit."
+          "explain": "The payout is on it's way to our bank account."
         },
         "CANCELED": {
           "name": "Canceled",
