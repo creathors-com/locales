@@ -321,7 +321,8 @@
         "INVALID_EMAIL": "Email must be valid!",
         "EMPTY_TAX_ID": "Tax ID is required.",
         "INVALID_TAX_ID": "Tax ID doesn't match selected format.",
-        "FAILED_COMPANY": "There was a problem saving company details."
+        "FAILED_COMPANY": "There was a problem saving company details.",
+        "FAILED_NAME": "Error occured, couldn't save your name details."
       },
       "payouts": {
         "bank": "Bank Account",
