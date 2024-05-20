@@ -304,6 +304,10 @@
       "heading": "Fakturační údaje",
       "country": "Fakturační země",
       "payoutOption": "Možnost výplaty",
+      "company": "Company details",
+      "companyName": "Company name",
+      "taxId": "Tax ID",
+      "taxIdType": "Tax ID type",
       "options": {
         "iban": "IBAN",
         "routingNumber": "Směrový kód banky",
@@ -314,7 +318,11 @@
         "WRONG_LENGTH": "IBAN musí být dlouhý %d.",
         "NO_COUNTRY_CODE": "Chybí kód země.",
         "NO_COUNTRY_CODE_START": "IBAN musí začínat kódem vybrané země!",
-        "INVALID_EMAIL": "E-mail musí být platný!"
+        "INVALID_EMAIL": "E-mail musí být platný!",
+        "EMPTY_TAX_ID": "Tax ID is required.",
+        "INVALID_TAX_ID": "Tax ID doesn't match selected format.",
+        "FAILED_COMPANY": "There was a problem saving company details.",
+        "FAILED_NAME": "Error occured, couldn't save your name details."
       },
       "payouts": {
         "bank": "Bankovní účet",
