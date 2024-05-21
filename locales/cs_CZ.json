@@ -304,10 +304,10 @@
       "heading": "Fakturační údaje",
       "country": "Fakturační země",
       "payoutOption": "Možnost výplaty",
-      "company": "Company details",
-      "companyName": "Company name",
-      "taxId": "Tax ID",
-      "taxIdType": "Tax ID type",
+      "company": "Údaje o společnosti",
+      "companyName": "Název společnosti",
+      "taxId": "DIČ",
+      "taxIdType": "Typ DIČ",
       "options": {
         "iban": "IBAN",
         "routingNumber": "Směrový kód banky",
@@ -319,10 +319,10 @@
         "NO_COUNTRY_CODE": "Chybí kód země.",
         "NO_COUNTRY_CODE_START": "IBAN musí začínat kódem vybrané země!",
         "INVALID_EMAIL": "E-mail musí být platný!",
-        "EMPTY_TAX_ID": "Tax ID is required.",
-        "INVALID_TAX_ID": "Tax ID doesn't match selected format.",
-        "FAILED_COMPANY": "There was a problem saving company details.",
-        "FAILED_NAME": "Error occured, couldn't save your name details."
+        "EMPTY_TAX_ID": "DIČ je povinné.",
+        "INVALID_TAX_ID": "DIČ neodpovídá správnému vzoru.",
+        "FAILED_COMPANY": "Při ukládání údajů o společnosti došlo k chybě.",
+        "FAILED_NAME": "Nastala chyba, nebylo možné uložit Vaše jméno."
       },
       "payouts": {
         "bank": "Bankovní účet",
@@ -331,54 +331,54 @@
       "success": "Platební údaje byly úspěšně aktualizovány!"
     },
     "payouts": {
-      "label": "Payouts",
+      "label": "Výplaty",
       "table": {
         "tooltip": {
           "amountOut": {
-            "total": "Total:",
-            "fees": "Fees:",
-            "cut": "Cut:"
+            "total": "Celkem:",
+            "fees": "Poplatky:",
+            "cut": "Podíl:"
           }
         },
         "head": {
-          "amountOut": "Amount out",
-          "currency": "Currency",
-          "state": "State",
-          "stripeState": "Stripe state"
+          "amountOut": "Odeslaná částka",
+          "currency": "Měna",
+          "state": "Stav",
+          "stripeState": "Stripe stav"
         }
       },
       "states": {
         "CREATED": {
-          "name": "Created",
-          "explain": "Payout has been created and we're waiting for it's arrival to us."
+          "name": "Vytvořeno",
+          "explain": "Výplata byla vytvořena a čekáme na její doručení k nám."
         },
         "PENDING": {
-          "name": "Pending",
-          "explain": "Payout is pending. We're waiting for the funds to be sent to us."
+          "name": "Čekající",
+          "explain": "Čekáme, než se výplata dostane na náš účet."
         },
         "PROCESSING": {
-          "name": "Processing",
-          "explain": "We're processing the payout. Making sure everything is fine."
+          "name": "Zpracovávání",
+          "explain": "Zpracováváme výplatu. Kontrolujeme, že je všechno v pořádku."
         },
         "PAID": {
-          "name": "Paid",
-          "explain": "Payout has been paid out."
+          "name": "Vyplaceno",
+          "explain": "Payout byl vyplacen."
         },
         "TO_BE_PAID": {
-          "name": "To be paid",
-          "explain": "Processing was successful and should be sent out to you shortly."
+          "name": "K vyplacení",
+          "explain": "Zpracování proběhlo v pořádku a výplatu Vám brzy odešleme."
         },
         "FAILED": {
-          "name": "Failed",
-          "explain": "The payout has failed."
+          "name": "Selhání",
+          "explain": "Výplata selhala."
         },
         "IN_TRANSIT": {
-          "name": "In transit",
-          "explain": "The payout is on it's way to our bank account."
+          "name": "Na cestě",
+          "explain": "Výplata je na cestě na náš účet."
         },
         "CANCELED": {
-          "name": "Canceled",
-          "explain": "The payout was canceled."
+          "name": "Zrušeno",
+          "explain": "Výplata byla zrušena."
         }
       }
     }
@@ -393,7 +393,7 @@
         "edit": "Upravit příspěvek"
       },
       "tiers": "Úrovně",
-      "payouts": "Payouts"
+      "payouts": "Výplaty"
     }
   },
   "error": {
