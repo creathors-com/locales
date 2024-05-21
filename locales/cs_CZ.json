@@ -86,7 +86,9 @@
     "tier": {
       "tier": "ÚROVEŇ",
       "join": "Připojit se nyní"
-    }
+    },
+    "subscribers": "Subscribers",
+    "subscriber": "Subscriber"
   },
   "posts": {
     "join": "Připojit se",
