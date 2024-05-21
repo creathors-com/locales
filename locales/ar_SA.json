@@ -366,7 +366,7 @@
         },
         "TO_BE_PAID": {
           "name": "To be paid",
-          "explain": "Processing was successful and should be sent out to you shortly."
+          "explain": "Payout processing was successful and should be sent out to you shortly."
         },
         "FAILED": {
           "name": "Failed",
