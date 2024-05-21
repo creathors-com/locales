@@ -87,7 +87,8 @@
       "tier": "TIER",
       "join": "Join Now"
     },
-    "subscribers": "Subscribers"
+    "subscribers": "Subscribers",
+    "subscriber": "Subscriber"
   },
   "posts": {
     "join": "Join",
