@@ -360,7 +360,7 @@
         },
         "PROCESSING": {
           "name": "Processing",
-          "explain": "We're processing the payout. Making sure everything is fine."
+          "explain": "We're processing your payout. Making sure everything is fine."
         },
         "PAID": {
           "name": "Paid",
