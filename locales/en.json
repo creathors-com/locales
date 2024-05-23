@@ -337,9 +337,16 @@
       "table": {
         "tooltip": {
           "amountOut": {
-            "total": "Total:",
+            "gross": "Gross income:",
             "fees": "Fees:",
-            "cut": "Cut:"
+            "type": "Fee type",
+            "value": "Fee value",
+            "subtotal": "Subtotal",
+            "total": "Total:",
+            "feeTypes": {
+              "STRIPE_FEES": "Stripe fees",
+              "CUT": "Our cut"
+            }
           }
         },
         "head": {
