@@ -337,9 +337,16 @@
       "table": {
         "tooltip": {
           "amountOut": {
-            "total": "Celkem:",
+            "gross": "Gross income:",
             "fees": "Poplatky:",
-            "cut": "Podíl:"
+            "type": "Fee type",
+            "value": "Fee value",
+            "subtotal": "Subtotal",
+            "total": "Celkem:",
+            "feeTypes": {
+              "STRIPE_FEES": "Stripe fees",
+              "CUT": "Our cut"
+            }
           }
         },
         "head": {
