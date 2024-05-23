@@ -360,11 +360,11 @@
         },
         "PROCESSING": {
           "name": "Zpracovávání",
-          "explain": "Zpracováváme výplatu. Kontrolujeme, že je všechno v pořádku."
+          "explain": "Zpracováváme Vaši výplatu. Kontrolujeme, že je všechno v pořádku."
         },
         "PAID": {
           "name": "Vyplaceno",
-          "explain": "Payout byl vyplacen."
+          "explain": "Výplata byla vyplacena."
         },
         "TO_BE_PAID": {
           "name": "K vyplacení",
