@@ -337,15 +337,15 @@
       "table": {
         "tooltip": {
           "amountOut": {
-            "gross": "Gross income:",
+            "gross": "Hrubý příjem:",
             "fees": "Poplatky:",
-            "type": "Fee type",
-            "value": "Fee value",
-            "subtotal": "Subtotal",
+            "type": "Typ poplatku",
+            "value": "Hodnota poplatku",
+            "subtotal": "Mezisoučet",
             "total": "Celkem:",
             "feeTypes": {
-              "STRIPE_FEES": "Stripe fees",
-              "CUT": "Our cut"
+              "STRIPE_FEES": "Poplatky za Stripe",
+              "CUT": "Náš podíl"
             }
           }
         },
