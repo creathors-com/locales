@@ -344,7 +344,7 @@
             "subtotal": "Subtotal",
             "total": "Total:",
             "feeTypes": {
-              "STRIPE_FEES": "Stripe fees",
+              "STRIPE_FEE": "Stripe fees",
               "CUT": "Our cut"
             }
           }
@@ -389,6 +389,84 @@
           "name": "Canceled",
           "explain": "The payout was canceled."
         }
+      }
+    },
+    "coupons": {
+      "navItem": "Coupons",
+      "heading": {
+        "general": "General",
+        "duration": "Duration",
+        "discount": "Discount"
+      },
+      "table": {
+        "head": {
+          "name": "Name",
+          "code": "Code",
+          "amountOff": "Discount",
+          "discount": "Discount",
+          "duration": "Duration",
+          "redeemBy": "Redeem by",
+          "appliesTo": "Applies to tiers",
+          "maxRedemptions": "Max redemptions",
+          "action": "Actions"
+        },
+        "duration": {
+          "REPEATING": "Recurring for %d months",
+          "ONCE": "Use once",
+          "FOREVER": "Forever"
+        }
+      },
+      "field": {
+        "name": {
+          "label": "Name*",
+          "placeholder": "Name"
+        },
+        "code": {
+          "label": "Code*",
+          "placeholder": "50POFF"
+        },
+        "appliesTo": {
+          "label": "Applies to tiers",
+          "placeholder": "Select tiers"
+        },
+        "redeemBy": {
+          "label": "Redeem by",
+          "placeholder": "Redeem by"
+        },
+        "duration": {
+          "label": "Duration"
+        },
+        "durationInMonths": {
+          "label": "Duration in months",
+          "placeholder": "2"
+        },
+        "amountOff": {
+          "label": "Amount off*",
+          "placeholder": "1"
+        },
+        "percentOff": {
+          "label": "Percent off*",
+          "placeholder": "25"
+        },
+        "currency": "Currency"
+      },
+      "discount": {
+        "amountOff": "Amount off",
+        "percentOff": "Percent off"
+      },
+      "duration": {
+        "once": "Once",
+        "repeating": "Repeating",
+        "forever": "Forever"
+      },
+      "create": {
+        "label": "Create coupon",
+        "success": "Coupon created successfully!",
+        "failed": "Error occured, coupon wasn't created."
+      },
+      "delete": {
+        "success": "Coupon successfully deleted!",
+        "failed": "Error occured, coupon wasn't deleted."
       }
     }
   },
