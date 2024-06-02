@@ -429,6 +429,10 @@
           "label": "Applies to tiers",
           "placeholder": "Select tiers"
         },
+        "maxRedemptions": {
+          "label": "Max redemptions",
+          "placeholder": "10"
+        },
         "redeemBy": {
           "label": "Redeem by",
           "placeholder": "Redeem by"
