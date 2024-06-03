@@ -344,7 +344,7 @@
             "subtotal": "Mezisoučet",
             "total": "Celkem:",
             "feeTypes": {
-              "STRIPE_FEE": "Stripe fees",
+              "STRIPE_FEE": "Poplatky za Stripe",
               "CUT": "Náš podíl"
             }
           }
@@ -392,85 +392,85 @@
       }
     },
     "coupons": {
-      "navItem": "Coupons",
+      "navItem": "Kupóny",
       "heading": {
-        "general": "General",
-        "duration": "Duration",
-        "discount": "Discount"
+        "general": "Obecné",
+        "duration": "Doba trvání",
+        "discount": "Sleva"
       },
       "table": {
         "head": {
-          "name": "Name",
-          "code": "Code",
-          "amountOff": "Discount",
-          "discount": "Discount",
-          "duration": "Duration",
-          "redeemBy": "Redeem by",
-          "appliesTo": "Applies to tiers",
-          "maxRedemptions": "Max redemptions",
-          "action": "Actions"
+          "name": "Název",
+          "code": "Kód",
+          "amountOff": "Sleva",
+          "discount": "Sleva",
+          "duration": "Doba trvání",
+          "redeemBy": "Uplatnit do",
+          "appliesTo": "Vztahuje se na úrovně",
+          "maxRedemptions": "Maximální počet využití",
+          "action": "Akce"
         },
         "duration": {
-          "REPEATING": "Recurring for %d months",
-          "ONCE": "Use once",
-          "FOREVER": "Forever"
+          "REPEATING": "Opakování pro %d měsíců",
+          "ONCE": "Použít jednou",
+          "FOREVER": "Navždy"
         }
       },
       "field": {
         "name": {
-          "label": "Name*",
-          "placeholder": "Name"
+          "label": "Název*",
+          "placeholder": "Název"
         },
         "code": {
-          "label": "Code*",
+          "label": "Kód*",
           "placeholder": "50POFF"
         },
         "appliesTo": {
-          "label": "Applies to tiers",
-          "placeholder": "Select tiers"
+          "label": "Vztahuje se na úrovně",
+          "placeholder": "Vyberte úrovně"
         },
         "maxRedemptions": {
-          "label": "Max redemptions",
+          "label": "Maximální počet využití",
           "placeholder": "10"
         },
         "redeemBy": {
-          "label": "Redeem by",
-          "placeholder": "Redeem by"
+          "label": "Uplatnit do",
+          "placeholder": "Uplatnit do"
         },
         "duration": {
-          "label": "Duration"
+          "label": "Doba trvání"
         },
         "durationInMonths": {
-          "label": "Duration in months",
+          "label": "Doba trvání v měsících",
           "placeholder": "2"
         },
         "amountOff": {
-          "label": "Amount off*",
+          "label": "Částka slevy*",
           "placeholder": "1"
         },
         "percentOff": {
-          "label": "Percent off*",
+          "label": "Procenta slevy*",
           "placeholder": "25"
         },
-        "currency": "Currency"
+        "currency": "Měna"
       },
       "discount": {
-        "amountOff": "Amount off",
-        "percentOff": "Percent off"
+        "amountOff": "Částka slevy",
+        "percentOff": "Procenta slevy"
       },
       "duration": {
-        "once": "Once",
-        "repeating": "Repeating",
-        "forever": "Forever"
+        "once": "Jednou",
+        "repeating": "Opakující se",
+        "forever": "Napořád"
       },
       "create": {
-        "label": "Create coupon",
-        "success": "Coupon created successfully!",
-        "failed": "Error occured, coupon wasn't created."
+        "label": "Vytvořit kupón",
+        "success": "Kupón byl úspěšně vytvořen!",
+        "failed": "Došlo k chybě, kupón nebyl vytvořen."
       },
       "delete": {
-        "success": "Coupon successfully deleted!",
-        "failed": "Error occured, coupon wasn't deleted."
+        "success": "Kupón byl úspěšně smazán!",
+        "failed": "Došlo k chybě, kupón nebyl smazán."
       }
     }
   },
