@@ -125,6 +125,7 @@
   },
   "settings": {
     "tagLabels": {
+      "undefined": "No tags",
       "youtube": "YouTube",
       "twitch": "Stream",
       "podcasts": "Podcasts",
