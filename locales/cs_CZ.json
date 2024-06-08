@@ -29,7 +29,10 @@
     },
     "validation": {
       "required": "Toto pole je povinné.",
-      "notType": "Nesprávný typ hodnoty."
+      "notType": "Nesprávný typ hodnoty.",
+      "string": {
+        "max": "This field can be at most ${'{max}'} characters."
+      }
     },
     "combobox": {
       "empty": "Žádné možnosti"
