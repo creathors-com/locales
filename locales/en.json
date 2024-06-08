@@ -488,7 +488,10 @@
         "edit": "Edit post"
       },
       "tiers": "Tiers",
-      "payouts": "Payouts"
+      "payouts": "Payouts",
+      "coupons": {
+        "table": "Coupons"
+      }
     }
   },
   "error": {
