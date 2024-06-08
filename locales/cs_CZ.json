@@ -145,7 +145,7 @@
       "videoproduction": "Produkce videa",
       "finance": "Finance",
       "investing": "Investování",
-      "music": "Music"
+      "music": "Hudba"
     },
     "form": {
       "username": "Uživatelské jméno",
@@ -491,8 +491,8 @@
       "tiers": "Úrovně",
       "payouts": "Výplaty",
       "coupons": {
-        "table": "Coupons",
-        "new": "New coupon"
+        "table": "Kupóny",
+        "new": "Nový kupón"
       }
     }
   },
