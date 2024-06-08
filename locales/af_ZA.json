@@ -411,7 +411,10 @@
           "duration": "Duration",
           "redeemBy": "Redeem by",
           "appliesTo": "Applies to tiers",
-          "maxRedemptions": "Max redemptions",
+          "maxRedemptions": {
+            "label": "Max redemptions",
+            "placeholder": "0"
+          },
           "action": "Actions"
         },
         "duration": {
@@ -488,7 +491,11 @@
         "edit": "Edit post"
       },
       "tiers": "Tiers",
-      "payouts": "Payouts"
+      "payouts": "Payouts",
+      "coupons": {
+        "table": "Coupons",
+        "new": "New coupon"
+      }
     }
   },
   "error": {
