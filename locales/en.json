@@ -490,7 +490,8 @@
       "tiers": "Tiers",
       "payouts": "Payouts",
       "coupons": {
-        "table": "Coupons"
+        "table": "Coupons",
+        "new": "New coupon"
       }
     }
   },
