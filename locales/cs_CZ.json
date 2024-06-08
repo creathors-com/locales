@@ -31,7 +31,7 @@
       "required": "Toto pole je povinné.",
       "notType": "Nesprávný typ hodnoty.",
       "string": {
-        "max": "This field can be at most ${'{max}'} characters."
+        "max": "Toto pole může mít maximálně ${'{max}'} znaků."
       }
     },
     "combobox": {
@@ -128,7 +128,7 @@
   },
   "settings": {
     "tagLabels": {
-      "undefined": "No tags",
+      "undefined": "Bez štítků",
       "youtube": "YouTube",
       "twitch": "Stream",
       "podcasts": "Podcasty",
