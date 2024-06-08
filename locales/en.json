@@ -412,10 +412,7 @@
           "duration": "Duration",
           "redeemBy": "Redeem by",
           "appliesTo": "Applies to tiers",
-          "maxRedemptions": {
-            "label": "Max redemptions",
-            "placeholder": "0"
-          },
+          "maxRedemptions": "Max redemptions",
           "action": "Actions"
         },
         "duration": {
