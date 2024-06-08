@@ -144,7 +144,8 @@
       "photography": "Photography",
       "videoproduction": "Video Production",
       "finance": "Finance",
-      "investing": "Investing"
+      "investing": "Investing",
+      "music": "Music"
     },
     "form": {
       "username": "Username",
@@ -411,10 +412,7 @@
           "duration": "Duration",
           "redeemBy": "Redeem by",
           "appliesTo": "Applies to tiers",
-          "maxRedemptions": {
-            "label": "Max redemptions",
-            "placeholder": "0"
-          },
+          "maxRedemptions": "Max redemptions",
           "action": "Actions"
         },
         "duration": {
