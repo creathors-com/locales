@@ -29,7 +29,10 @@
     },
     "validation": {
       "required": "This field is required.",
-      "notType": "Wrong value type."
+      "notType": "Wrong value type.",
+      "string": {
+        "max": "This field can be at most ${'{max}'} characters."
+      }
     },
     "combobox": {
       "empty": "No options"
@@ -125,6 +128,7 @@
   },
   "settings": {
     "tagLabels": {
+      "undefined": "No tags",
       "youtube": "YouTube",
       "twitch": "Stream",
       "podcasts": "Podcasts",
@@ -428,6 +432,10 @@
         "appliesTo": {
           "label": "Applies to tiers",
           "placeholder": "Select tiers"
+        },
+        "maxRedemptions": {
+          "label": "Max redemptions",
+          "placeholder": "10"
         },
         "redeemBy": {
           "label": "Redeem by",
