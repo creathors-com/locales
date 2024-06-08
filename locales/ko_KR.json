@@ -29,7 +29,10 @@
     },
     "validation": {
       "required": "This field is required.",
-      "notType": "Wrong value type."
+      "notType": "Wrong value type.",
+      "string": {
+        "max": "This field can be at most ${'{max}'} characters."
+      }
     },
     "combobox": {
       "empty": "No options"
