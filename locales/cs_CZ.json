@@ -412,7 +412,7 @@
           "duration": "Doba trvání",
           "redeemBy": "Uplatnit do",
           "appliesTo": "Vztahuje se na úrovně",
-          "maxRedemptions": "Max redemptions",
+          "maxRedemptions": "Maximální počet využití",
           "action": "Akce"
         },
         "duration": {
