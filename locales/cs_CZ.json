@@ -144,7 +144,8 @@
       "photography": "Fotografování",
       "videoproduction": "Produkce videa",
       "finance": "Finance",
-      "investing": "Investování"
+      "investing": "Investování",
+      "music": "Music"
     },
     "form": {
       "username": "Uživatelské jméno",
@@ -411,10 +412,7 @@
           "duration": "Doba trvání",
           "redeemBy": "Uplatnit do",
           "appliesTo": "Vztahuje se na úrovně",
-          "maxRedemptions": {
-            "label": "Max redemptions",
-            "placeholder": "0"
-          },
+          "maxRedemptions": "Max redemptions",
           "action": "Akce"
         },
         "duration": {
