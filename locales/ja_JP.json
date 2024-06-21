@@ -319,6 +319,7 @@
       "options": {
         "iban": "IBAN",
         "routingNumber": "Routing number",
+        "bsbCode": "BSB Code",
         "accountNumber": "Account number",
         "email": "Email"
       },

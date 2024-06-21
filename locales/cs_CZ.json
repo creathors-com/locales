@@ -319,6 +319,7 @@
       "options": {
         "iban": "IBAN",
         "routingNumber": "Směrový kód banky",
+        "bsbCode": "BSB Code",
         "accountNumber": "Číslo účtu",
         "email": "Email"
       },
