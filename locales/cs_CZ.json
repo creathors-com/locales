@@ -337,7 +337,10 @@
         "bank": "Bankovní účet",
         "paypal": "PayPal"
       },
-      "success": "Platební údaje byly úspěšně aktualizovány!"
+      "success": {
+        "billing": "Platební údaje byly úspěšně aktualizovány!",
+        "address": "Adresa byla úspěšně aktualizována!"
+      }
     },
     "payouts": {
       "label": "Výplaty",
