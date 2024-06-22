@@ -340,7 +340,10 @@
       "success": {
         "billing": "Platební údaje byly úspěšně aktualizovány!",
         "address": "Adresa byla úspěšně aktualizována!"
-    }
+      },
+      "warning": {
+        "noAddress": "Nemáte nastavenou adresu!"
+      }
     },
     "payouts": {
       "label": "Výplaty",
