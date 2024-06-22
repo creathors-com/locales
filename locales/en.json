@@ -337,7 +337,13 @@
         "bank": "Bank Account",
         "paypal": "PayPal"
       },
-      "success": "Successfully updated billing info!"
+      "success": {
+        "billing": "Successfully updated billing info!",
+        "address": "Successfully updated your address!"
+      },
+      "warning": {
+        "noAddress": "You have no address set!"
+      }
     },
     "payouts": {
       "label": "Payouts",
