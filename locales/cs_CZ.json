@@ -99,7 +99,7 @@
     "type": "Typ",
     "types": {
       "image": "Obrázek",
-      "video": "Video / Audio"
+      "video": "Video"
     },
     "tier": "Úroveň",
     "locked": "pro zobrazení příspěvků je nutné se přihlásit",
@@ -237,7 +237,6 @@
       "upload": "Nahrát náhled",
       "image": "Obrázek",
       "video": "Video",
-      "video-audio": "Video / Audio",
       "ppv": {
         "title": "Platba za zhlédnutí",
         "price": "Cena",
