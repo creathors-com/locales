@@ -99,7 +99,7 @@
     "type": "Type",
     "types": {
       "image": "Image",
-      "video": "Video / Audio"
+      "video": "Video"
     },
     "tier": "Tier",
     "locked": "to view this post you have to log in",
@@ -237,7 +237,6 @@
       "upload": "Upload Thumbnail",
       "image": "Image",
       "video": "Video",
-      "video-audio": "Video / Audio",
       "ppv": {
         "title": "Pay Per View",
         "price": "Price",
