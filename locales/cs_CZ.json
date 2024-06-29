@@ -501,6 +501,17 @@
       "delete": {
         "success": "Kupón byl úspěšně smazán!",
         "failed": "Došlo k chybě, kupón nebyl smazán."
+      },
+      "donations": {
+        "navItem": "Darování",
+        "table": {
+          "head": {
+            "senderName": "Odesilatel",
+            "amount": "Částka",
+            "currency": "Měna",
+            "message": "Zpráva"
+          }
+        }
       }
     }
   },
@@ -518,7 +529,8 @@
       "coupons": {
         "table": "Kupóny",
         "new": "Nový kupón"
-      }
+      },
+      "donations": "Darování"
     }
   },
   "error": {
