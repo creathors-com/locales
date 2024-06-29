@@ -116,6 +116,7 @@
     "title": "Všechny příspěvky",
     "type": "Typ",
     "types": {
+      "text": "Text",
       "image": "Obrázek",
       "video": "Video",
       "audio": "Hudba"
