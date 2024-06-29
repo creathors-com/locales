@@ -502,6 +502,17 @@
         "success": "Kupón byl úspěšně smazán!",
         "failed": "Došlo k chybě, kupón nebyl smazán."
       }
+    },
+    "donations": {
+      "navItem": "Donations",
+      "table": {
+        "head": {
+          "senderName": "Sender name",
+          "amount": "Amount",
+          "currency": "Currency",
+          "message": "Message"
+        }
+      }
     }
   },
   "title": {
@@ -518,7 +529,8 @@
       "coupons": {
         "table": "Kupóny",
         "new": "Nový kupón"
-      }
+      },
+      "donations": "Darování"
     }
   },
   "error": {
