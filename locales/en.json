@@ -117,7 +117,8 @@
     "type": "Type",
     "types": {
       "image": "Image",
-      "video": "Video"
+      "video": "Video",
+      "audio": "Audio"
     },
     "tier": "Tier",
     "locked": "to view this post you have to log in",

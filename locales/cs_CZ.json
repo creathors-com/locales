@@ -117,7 +117,8 @@
     "type": "Typ",
     "types": {
       "image": "Obrázek",
-      "video": "Video"
+      "video": "Video",
+      "audio": "Hudba"
     },
     "tier": "Úroveň",
     "locked": "pro zobrazení příspěvků je nutné se přihlásit",
