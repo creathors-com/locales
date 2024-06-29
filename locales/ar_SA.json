@@ -90,6 +90,24 @@
       "tier": "TIER",
       "join": "Join Now"
     },
+    "donation": {
+      "button": "Support with donation",
+      "name": {
+        "label": "Name / Nickname",
+        "placeholder": "John"
+      },
+      "amount": {
+        "label": "Amount",
+        "placeholder": "5.00"
+      },
+      "currency": {
+        "label": "Currency"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Keep up the good work!"
+      }
+    },
     "subscribers": "Subscribers",
     "subscriber": "Subscriber"
   },
@@ -99,7 +117,7 @@
     "type": "Type",
     "types": {
       "image": "Image",
-      "video": "Video / Audio"
+      "video": "Video"
     },
     "tier": "Tier",
     "locked": "to view this post you have to log in",
@@ -237,7 +255,6 @@
       "upload": "Upload Thumbnail",
       "image": "Image",
       "video": "Video",
-      "video-audio": "Video / Audio",
       "ppv": {
         "title": "Pay Per View",
         "price": "Price",
@@ -337,7 +354,13 @@
         "bank": "Bank Account",
         "paypal": "PayPal"
       },
-      "success": "Successfully updated billing info!"
+      "success": {
+        "billing": "Successfully updated billing info!",
+        "address": "Successfully updated your address!"
+      },
+      "warning": {
+        "noAddress": "You have no address set!"
+      }
     },
     "payouts": {
       "label": "Payouts",
