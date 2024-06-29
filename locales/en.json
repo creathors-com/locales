@@ -90,6 +90,24 @@
       "tier": "TIER",
       "join": "Join Now"
     },
+    "donation": {
+      "button": "Support with donation",
+      "name": {
+        "label": "Name / Nickname",
+        "placeholder": "John"
+      },
+      "amount": {
+        "label": "Amount",
+        "placeholder": "5.00"
+      },
+      "currency": {
+        "label": "Currency"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Keep up the good work!"
+      }
+    },
     "subscribers": "Subscribers",
     "subscriber": "Subscriber"
   },

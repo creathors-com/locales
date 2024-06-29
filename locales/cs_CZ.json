@@ -90,6 +90,24 @@
       "tier": "ÚROVEŇ",
       "join": "Připojit se nyní"
     },
+    "donation": {
+      "button": "Podpořte tvůrce příspěvkem",
+      "name": {
+        "label": "Jméno / Přezdívka",
+        "placeholder": "Honza"
+      },
+      "amount": {
+        "label": "Částka",
+        "placeholder": "5.00"
+      },
+      "currency": {
+        "label": "Měna"
+      },
+      "message": {
+        "label": "Zpráva",
+        "placeholder": "Pokračujte v dobré práci!"
+      }
+    },
     "subscribers": "Předplatných",
     "subscriber": "Předplatné"
   },
