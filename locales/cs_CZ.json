@@ -91,7 +91,7 @@
       "join": "Připojit se nyní"
     },
     "donation": {
-      "button": "Podpořte tvůrce příspěvkem",
+      "button": "Podpořte tvůrce",
       "name": {
         "label": "Jméno / Přezdívka",
         "placeholder": "Honza"
@@ -105,7 +105,7 @@
       },
       "message": {
         "label": "Zpráva",
-        "placeholder": "Pokračujte v dobré práci!"
+        "placeholder": "Jen tak dál!"
       }
     },
     "subscribers": "Předplatných",
