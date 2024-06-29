@@ -297,7 +297,7 @@
         "add-tag": "Add Tag",
         "type-tag": "Type tag here..."
       },
-      "tiers": {
+    "tiers": {
         "tiers": "Tiers",
         "tier": "Tier",
         "name": "Name",
@@ -421,7 +421,7 @@
         }
       }
     },
-        "coupons": {
+    "coupons": {
       "navItem": "Coupons",
       "heading": {
         "general": "General",
@@ -502,6 +502,17 @@
         "success": "Coupon successfully deleted!",
         "failed": "Error occured, coupon wasn't deleted."
       }
+    },
+    "donations": {
+      "navItem": "Donations",
+      "table": {
+        "head": {
+          "senderName": "Sender name",
+          "amount": "Amount",
+          "currency": "Currency",
+          "message": "Message"
+        }
+      }
     }
   },
   "title": {
@@ -518,7 +529,8 @@
       "coupons": {
         "table": "Coupons",
         "new": "New coupon"
-      }
+      },
+      "donations": "Donations"
     }
   },
   "error": {
