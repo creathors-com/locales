@@ -117,7 +117,8 @@
     "type": "Typ",
     "types": {
       "image": "Obrázek",
-      "video": "Video / Audio"
+      "video": "Video / Audio",
+      "audio": "Hudba"
     },
     "tier": "Úroveň",
     "locked": "pro zobrazení příspěvků je nutné se přihlásit",
@@ -504,13 +505,13 @@
       }
     },
     "donations": {
-      "navItem": "Donations",
+      "navItem": "Darování",
       "table": {
         "head": {
-          "senderName": "Sender name",
-          "amount": "Amount",
-          "currency": "Currency",
-          "message": "Message"
+          "senderName": "Odesilatel",
+          "amount": "Částka",
+          "currency": "Měna",
+          "message": "Zpráva"
         }
       }
     }
