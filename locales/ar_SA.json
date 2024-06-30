@@ -36,6 +36,17 @@
     },
     "combobox": {
       "empty": "No options"
+    },
+    "confirm": {
+      "title": "Are you sure?",
+      "description": "This action is irreversible, selected data will be deleted. There is no coming back.",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "upload": {
+      "pending": "Uploading...",
+      "success": "Upload finished successfully!",
+      "error": "Upload failed, try again please."
     }
   },
   "landing": {
@@ -210,18 +221,22 @@
     "saved": "Settings saved!",
     "saving": {
       "tags": {
+        "pending": "Saving tags...",
         "success": "Tags saved!",
         "error": "Error occured, tags weren't saved..."
       },
       "socials": {
+        "pending": "Saving socials...",
         "success": "Socials saved!",
         "error": "Error occured, socials weren't saved..."
       },
       "profile": {
+        "pending": "Saving profile...",
         "success": "Profile saved!",
         "error": "Error occured, profile wasn't saved..."
       },
       "address": {
+        "pending": "Saving address...",
         "success": "Address saved!",
         "error": "Error occured, address wasn't saved..."
       }
