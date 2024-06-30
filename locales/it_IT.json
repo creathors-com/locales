@@ -324,6 +324,15 @@
       "label": {
         "edit": "Edit tier",
         "add": "Add tier"
+      },
+      "subscribers": {
+        "label": "${'{count}'} Subscribers",
+        "table": {
+          "head": {
+            "name": "Username",
+            "since": "Subscribing since"
+          }
+        }
       }
     },
     "billing": {
