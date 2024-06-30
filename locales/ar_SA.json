@@ -326,7 +326,7 @@
         "add": "Add tier"
       },
       "subscribers": {
-        "label": "${'{count}'} Subscribers",
+        "label": "{'{count}'} Subscribers",
         "table": {
           "head": {
             "name": "Username",
