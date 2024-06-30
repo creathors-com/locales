@@ -116,6 +116,7 @@
     "title": "All Posts",
     "type": "Type",
     "types": {
+      "text": "Text",
       "image": "Image",
       "video": "Video",
       "audio": "Audio"
