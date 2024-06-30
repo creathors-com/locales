@@ -36,6 +36,17 @@
     },
     "combobox": {
       "empty": "Žádné možnosti"
+    },
+    "confirm": {
+      "title": "Are you sure?",
+      "description": "This action is irreversible, selected data will be deleted. There is no coming back.",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "upload": {
+      "pending": "Uploading...",
+      "success": "Upload finished successfully!",
+      "error": "Upload failed, try again please."
     }
   },
   "landing": {
@@ -210,18 +221,22 @@
     "saved": "Nastavení uloženo!",
     "saving": {
       "tags": {
+        "pending": "Saving tags...",
         "success": "Štítky uloženy!",
         "error": "Došlo k chybě, štítky nebyly uloženy..."
       },
       "socials": {
+        "pending": "Saving socials...",
         "success": "Společnosti uloženy!",
         "error": "Došlo k chybě, sociální sítě nebyly uloženy..."
       },
       "profile": {
+        "pending": "Saving profile...",
         "success": "Profil uložen!",
         "error": "Došlo k chybě, profil nebyl uložen..."
       },
       "address": {
+        "pending": "Saving address...",
         "success": "Adresa uložena!",
         "error": "Došlo k chybě, adresa nebyla uložena..."
       }
