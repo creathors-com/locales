@@ -326,7 +326,7 @@
         "add": "Přidat úroveň"
       },
       "subscribers": {
-        "label": "${'{count}'} Předplatitelů",
+        "label": "{'{count}'} Předplatitelů",
         "table": {
           "head": {
             "name": "Přezdívka",
