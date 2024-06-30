@@ -324,6 +324,15 @@
       "label": {
         "edit": "Upravit úroveň",
         "add": "Přidat úroveň"
+      },
+      "subscribers": {
+        "label": "${'{count}'} Předplatitelů",
+        "table": {
+          "head": {
+            "name": "Přezdívka",
+            "since": "Počátek předplatného"
+          }
+        }
       }
     },
     "billing": {
