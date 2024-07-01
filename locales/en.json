@@ -32,6 +32,10 @@
       "notType": "Wrong value type.",
       "string": {
         "max": "This field can be at most ${'{max}'} characters."
+      },
+      "number": {
+        "max": "Number can't be higher than ${'{max}'}",
+        "min": "Number can't be lower than ${'{min}'}"
       }
     },
     "combobox": {
