@@ -34,8 +34,8 @@
         "max": "Toto pole může mít maximálně ${'{max}'} znaků."
       },
       "number": {
-        "max": "Number can't be higher than ${'{max}'}",
-        "min": "Number can't be lower than ${'{min}'}"
+        "max": "Číslo nemůže být vyšší než ${'{max}'}",
+        "min": "Číslo nemůže být nižší než ${'{min}'}"
       }
     },
     "combobox": {
