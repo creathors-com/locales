@@ -32,6 +32,10 @@
       "notType": "Nesprávný typ hodnoty.",
       "string": {
         "max": "Toto pole může mít maximálně ${'{max}'} znaků."
+      },
+      "number": {
+        "max": "Číslo nemůže být vyšší než ${'{max}'}",
+        "min": "Číslo nemůže být nižší než ${'{min}'}"
       }
     },
     "combobox": {
