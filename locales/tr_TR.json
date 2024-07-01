@@ -531,12 +531,17 @@
     },
     "donations": {
       "navItem": "Donations",
+      "thanks": {
+        "button": "Send a thank you",
+        "message-placeholder": "Thanks for your support!"
+      },
       "table": {
         "head": {
           "senderName": "Sender name",
           "amount": "Amount",
           "currency": "Currency",
-          "message": "Message"
+          "message": "Message",
+          "thanks": "Thank you message"
         }
       }
     }
