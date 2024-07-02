@@ -570,18 +570,24 @@
         "edit": "Upravit příspěvek"
       },
       "tiers": "Úrovně",
-      "payouts": "Výplaty",
       "coupons": {
-        "table": "Kupóny",
         "new": "Nový kupón"
-      },
-      "donations": "Darování"
+      }
     }
   },
   "tab": {
     "settings": {
       "profile": "Profil",
       "emails": "Emaily"
+    },
+    "tiers": {
+      "tiers": "Úrovně",
+      "coupons": "Kupóny"
+    },
+    "billing": {
+      "billing": "Fakturace",
+      "payouts": "Výplaty",
+      "donations": "Darování"
     }
   },
   "error": {
