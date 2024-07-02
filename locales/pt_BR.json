@@ -249,7 +249,10 @@
       "props": "Tags",
       "info": "Profile",
       "address": "Address",
-      "socials": "Socials"
+      "socials": "Socials",
+      "emails": {
+        "notifications": "Notifications"
+      }
     },
     "settings": "Settings",
     "profile-info": "Profile information",
@@ -548,6 +551,13 @@
           "thanks": "Thank you message"
         }
       }
+    },
+    "emails": {
+      "template-labels": {
+        "NOTIFY_NEW_POST": "New post notifications",
+        "NOTIFY_DONATION": "New donation notifications",
+        "THANKS_DONATION": "Thank you message for donations"
+      }
     }
   },
   "title": {
@@ -566,6 +576,12 @@
         "new": "New coupon"
       },
       "donations": "Donations"
+    }
+  },
+  "tab": {
+    "settings": {
+      "profile": "Profile",
+      "emails": "Emails"
     }
   },
   "error": {
