@@ -563,6 +563,12 @@
       "donations": "Darování"
     }
   },
+  "tab": {
+    "settings": {
+      "profile": "Profil",
+      "emails": "Emaily"
+    }
+  },
   "error": {
     "not-logged-in": "Nejste přihlášen(a)!",
     "message": "Omlouváme se, došlo k potížím při přístupu na tuto stránku.",
