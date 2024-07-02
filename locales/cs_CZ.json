@@ -42,15 +42,15 @@
       "empty": "Žádné možnosti"
     },
     "confirm": {
-      "title": "Are you sure?",
-      "description": "This action is irreversible, selected data will be deleted. There is no coming back.",
-      "yes": "Yes",
-      "no": "No"
+      "title": "Jste si jistý?",
+      "description": "Tato akce je nevratná, vybraná data budou smazána. Neexistuje žádný návrat.",
+      "yes": "Ano",
+      "no": "Ne"
     },
     "upload": {
-      "pending": "Uploading...",
-      "success": "Upload finished successfully!",
-      "error": "Upload failed, try again please."
+      "pending": "Nahrávání...",
+      "success": "Aktualizace byla úspěšně dokončena!",
+      "error": "Nahrávání se nezdařilo, zkuste to prosím znovu."
     }
   },
   "landing": {
@@ -225,22 +225,22 @@
     "saved": "Nastavení uloženo!",
     "saving": {
       "tags": {
-        "pending": "Saving tags...",
+        "pending": "Ukládání štítků...",
         "success": "Štítky uloženy!",
         "error": "Došlo k chybě, štítky nebyly uloženy..."
       },
       "socials": {
-        "pending": "Saving socials...",
+        "pending": "Ukládání sociálních sítí...",
         "success": "Společnosti uloženy!",
         "error": "Došlo k chybě, sociální sítě nebyly uloženy..."
       },
       "profile": {
-        "pending": "Saving profile...",
+        "pending": "Probíhá ukládání profilu...",
         "success": "Profil uložen!",
         "error": "Došlo k chybě, profil nebyl uložen..."
       },
       "address": {
-        "pending": "Saving address...",
+        "pending": "Ukládání adresy...",
         "success": "Adresa uložena!",
         "error": "Došlo k chybě, adresa nebyla uložena..."
       }
@@ -349,7 +349,7 @@
         "table": {
           "head": {
             "name": "Přezdívka",
-            "since": "Počátek předplatného"
+            "since": "Předplatné od"
           }
         }
       }
@@ -536,7 +536,7 @@
     "donations": {
       "navItem": "Darování",
       "thanks": {
-        "button": "Pošlete poděkování",
+        "button": "Poslat poděkování",
         "message-placeholder": "Děkuji za Vaši podporu!"
       },
       "table": {
