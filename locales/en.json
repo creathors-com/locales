@@ -570,18 +570,24 @@
         "edit": "Edit post"
       },
       "tiers": "Tiers",
-      "payouts": "Payouts",
       "coupons": {
-        "table": "Coupons",
         "new": "New coupon"
-      },
-      "donations": "Donations"
+      }
     }
   },
   "tab": {
     "settings": {
       "profile": "Profile",
       "emails": "Emails"
+    },
+    "tiers": {
+      "tiers": "Tiers",
+      "coupons": "Coupons"
+    },
+    "billing": {
+      "billing": "Billing",
+      "payouts": "Payouts",
+      "donations": "Donations"
     }
   },
   "error": {
