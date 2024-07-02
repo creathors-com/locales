@@ -234,7 +234,10 @@
       "props": "Štítky",
       "info": "Profil",
       "address": "Adresa",
-      "socials": "Sociální sítě"
+      "socials": "Sociální sítě",
+      "emails": {
+        "notifications": "Notifikace"
+      }
     },
     "settings": "Nastavení",
     "profile-info": "Informace o profilu",
@@ -533,7 +536,13 @@
           "thanks": "Děkovná zpráva"
         }
       }
-    }
+    },
+    "emails": {
+      "template-labels": {
+        "NOTIFY_NEW_POST": "Notifikace o novém příspěvku",
+        "NOTIFY_DONATION": "Notifikace o novém darování",
+        "THANKS_DONATION": "Děkovná zpráva za darování"
+      }
   },
   "title": {
     "profile": {
