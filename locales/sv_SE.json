@@ -580,6 +580,12 @@
       },
       "creator": {
         "label": "Creator"
+      },
+      "subscriptions": {
+        "delete": {
+          "success": "Successfully canceled subscription.",
+          "error": "There was an error trying to cancel your subscription."
+        }
       }
     }
   },
