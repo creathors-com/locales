@@ -254,8 +254,8 @@
         "notifications": "Notifikace"
       },
       "payments": {
-        "subscriptions": "Subscriptions",
-        "invoices": "Invoices"
+        "subscriptions": "Předplatná",
+        "invoices": "Faktury"
       }
     },
     "settings": "Nastavení",
@@ -566,20 +566,26 @@
       "table": {
         "invoice": {
           "head": {
-            "number": "Number",
-            "total": "Total",
-            "currency": "Currency",
-            "paid": "Paid state",
+            "number": "Číslo",
+            "total": "Celkem",
+            "currency": "Měna",
+            "paid": "Stav",
             "detail": "Detail"
           },
           "paid": {
-            "true": "Paid",
-            "false": "Unpaid"
+            "true": "Zaplaceno",
+            "false": "Nezaplaceno"
           }
         }
       },
       "creator": {
-        "label": "Creator"
+        "label": "Tvůrce"
+      },
+      "subscriptions": {
+        "delete": {
+          "success": "Předplatné zrušeno.",
+          "error": "Předplatné se nepodařilo zrušit."
+        }
       }
     }
   },
