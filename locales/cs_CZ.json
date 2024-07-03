@@ -121,7 +121,8 @@
       "message": {
         "label": "Zpráva",
         "placeholder": "Jen tak dál!"
-      }
+      },
+      "success": "Příspěvek úspěšně odeslán!"
     },
     "subscribers": "Předplatných",
     "subscriber": "Předplatné"
