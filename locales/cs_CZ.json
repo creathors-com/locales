@@ -237,6 +237,10 @@
       "socials": "Sociální sítě",
       "emails": {
         "notifications": "Notifikace"
+      },
+      "payments": {
+        "subscriptions": "Předplatná",
+        "invoices": "Faktury"
       }
     },
     "settings": "Nastavení",
@@ -253,7 +257,6 @@
     "confirm-pw": "Potvrdit nové heslo",
     "change-pw": "Změnit heslo",
     "logout": "Odhlásit se",
-    "payments": "Platby",
     "subscriptions": "Moje předplatné",
     "posts": "Já",
     "home": "Domů",
@@ -543,7 +546,26 @@
         "NOTIFY_DONATION": "Notifikace o novém darování",
         "THANKS_DONATION": "Děkovná zpráva za darování"
       }
-    }
+    },
+    "payments": {
+      "table": {
+        "invoice": {
+          "head": {
+            "number": "Číslo",
+            "total": "Celkem",
+            "currency": "Měna",
+            "paid": "Stav",
+            "detail": "Detail"
+          },
+          "paid": {
+            "true": "Zaplaceno",
+            "false": "Nezaplaceno"
+          }
+        }
+      },
+      "creator": {
+        "label": "Creator"
+      }
   },
   "title": {
     "profile": {
