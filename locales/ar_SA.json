@@ -121,7 +121,8 @@
       "message": {
         "label": "Message",
         "placeholder": "Keep up the good work!"
-      }
+      },
+      "success": "Donation successfully sent!"
     },
     "subscribers": "Subscribers",
     "subscriber": "Subscriber"
