@@ -110,7 +110,8 @@
       "message": {
         "label": "Zpráva",
         "placeholder": "Pokračujte v dobré práci!"
-      }
+      },
+      "success": "Příspěvek úspěšně odeslán!"
     },
     "subscribers": "Předplatných",
     "subscriber": "Předplatné"
