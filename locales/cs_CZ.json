@@ -565,6 +565,12 @@
       },
       "creator": {
         "label": "Tvůrce"
+      },
+      "subscriptions": {
+        "delete": {
+          "success": "Předplatné zrušeno.",
+          "error": "Předplatné se nepodařilo zrušit."
+        }
       }
     }
   },
