@@ -40,6 +40,17 @@
     },
     "combobox": {
       "empty": "Žádné možnosti"
+    },
+    "confirm": {
+      "title": "Jste si jistý?",
+      "description": "Tato akce je nevratná, vybraná data budou smazána. Neexistuje žádný návrat.",
+      "yes": "Ano",
+      "no": "Ne"
+    },
+    "upload": {
+      "pending": "Nahrávání...",
+      "success": "Aktualizace byla úspěšně dokončena!",
+      "error": "Nahrávání se nezdařilo, zkuste to prosím znovu."
     }
   },
   "landing": {
@@ -215,18 +226,22 @@
     "saved": "Nastavení uloženo!",
     "saving": {
       "tags": {
+        "pending": "Ukládání štítků...",
         "success": "Štítky uloženy!",
         "error": "Došlo k chybě, štítky nebyly uloženy..."
       },
       "socials": {
+        "pending": "Ukládání sociálních sítí...",
         "success": "Společnosti uloženy!",
         "error": "Došlo k chybě, sociální sítě nebyly uloženy..."
       },
       "profile": {
+        "pending": "Probíhá ukládání profilu...",
         "success": "Profil uložen!",
         "error": "Došlo k chybě, profil nebyl uložen..."
       },
       "address": {
+        "pending": "Ukládání adresy...",
         "success": "Adresa uložena!",
         "error": "Došlo k chybě, adresa nebyla uložena..."
       }

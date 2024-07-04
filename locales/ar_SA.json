@@ -32,10 +32,25 @@
       "notType": "Wrong value type.",
       "string": {
         "max": "This field can be at most ${'{max}'} characters."
+      },
+      "number": {
+        "max": "Number can't be higher than ${'{max}'}",
+        "min": "Number can't be lower than ${'{min}'}"
       }
     },
     "combobox": {
       "empty": "No options"
+    },
+    "confirm": {
+      "title": "Are you sure?",
+      "description": "This action is irreversible, selected data will be deleted. There is no coming back.",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "upload": {
+      "pending": "Uploading...",
+      "success": "Upload finished successfully!",
+      "error": "Upload failed, try again please."
     }
   },
   "landing": {
@@ -90,6 +105,25 @@
       "tier": "TIER",
       "join": "Join Now"
     },
+    "donation": {
+      "button": "Support with donation",
+      "name": {
+        "label": "Name / Nickname",
+        "placeholder": "John"
+      },
+      "amount": {
+        "label": "Amount",
+        "placeholder": "5.00"
+      },
+      "currency": {
+        "label": "Currency"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Keep up the good work!"
+      },
+      "success": "Donation successfully sent!"
+    },
     "subscribers": "Subscribers",
     "subscriber": "Subscriber"
   },
@@ -98,8 +132,10 @@
     "title": "All Posts",
     "type": "Type",
     "types": {
+      "text": "Text",
       "image": "Image",
-      "video": "Video / Audio"
+      "video": "Video / Audio",
+      "audio": "Audio"
     },
     "tier": "Tier",
     "locked": "to view this post you have to log in",
@@ -190,18 +226,22 @@
     "saved": "Settings saved!",
     "saving": {
       "tags": {
+        "pending": "Saving tags...",
         "success": "Tags saved!",
         "error": "Error occured, tags weren't saved..."
       },
       "socials": {
+        "pending": "Saving socials...",
         "success": "Socials saved!",
         "error": "Error occured, socials weren't saved..."
       },
       "profile": {
+        "pending": "Saving profile...",
         "success": "Profile saved!",
         "error": "Error occured, profile wasn't saved..."
       },
       "address": {
+        "pending": "Saving address...",
         "success": "Address saved!",
         "error": "Error occured, address wasn't saved..."
       }
@@ -210,7 +250,14 @@
       "props": "Tags",
       "info": "Profile",
       "address": "Address",
-      "socials": "Socials"
+      "socials": "Socials",
+      "emails": {
+        "notifications": "Notifications"
+      },
+      "payments": {
+        "subscriptions": "Subscriptions",
+        "invoices": "Invoices"
+      }
     },
     "settings": "Settings",
     "profile-info": "Profile information",
@@ -226,7 +273,6 @@
     "confirm-pw": "Confirm new password",
     "change-pw": "Change password",
     "logout": "Logout",
-    "payments": "Payments",
     "subscriptions": "My subscriptions",
     "posts": "Me",
     "home": "Home",
@@ -237,7 +283,6 @@
       "upload": "Upload Thumbnail",
       "image": "Image",
       "video": "Video",
-      "video-audio": "Video / Audio",
       "ppv": {
         "title": "Pay Per View",
         "price": "Price",
@@ -305,6 +350,15 @@
       "label": {
         "edit": "Edit tier",
         "add": "Add tier"
+      },
+      "subscribers": {
+        "label": "{'{count}'} Subscribers",
+        "table": {
+          "head": {
+            "name": "Username",
+            "since": "Subscribing since"
+          }
+        }
       }
     },
     "billing": {
@@ -337,7 +391,13 @@
         "bank": "Bank Account",
         "paypal": "PayPal"
       },
-      "success": "Successfully updated billing info!"
+      "success": {
+        "billing": "Successfully updated billing info!",
+        "address": "Successfully updated your address!"
+      },
+      "warning": {
+        "noAddress": "You have no address set!"
+      }
     },
     "payouts": {
       "label": "Payouts",
@@ -479,6 +539,56 @@
         "success": "Coupon successfully deleted!",
         "failed": "Error occured, coupon wasn't deleted."
       }
+    },
+    "donations": {
+      "navItem": "Donations",
+      "thanks": {
+        "button": "Send a thank you",
+        "message-placeholder": "Thanks for your support!"
+      },
+      "table": {
+        "head": {
+          "senderName": "Sender name",
+          "amount": "Amount",
+          "currency": "Currency",
+          "message": "Message",
+          "thanks": "Thank you message"
+        }
+      }
+    },
+    "emails": {
+      "template-labels": {
+        "NOTIFY_NEW_POST": "New post notifications",
+        "NOTIFY_DONATION": "New donation notifications",
+        "THANKS_DONATION": "Thank you message for donations"
+      }
+    },
+    "payments": {
+      "table": {
+        "invoice": {
+          "head": {
+            "number": "Number",
+            "total": "Total",
+            "currency": "Currency",
+            "paid": "Paid state",
+            "detail": "Detail",
+            "createdAt": "Created at"
+          },
+          "paid": {
+            "true": "Paid",
+            "false": "Unpaid"
+          }
+        }
+      },
+      "creator": {
+        "label": "Creator"
+      },
+      "subscriptions": {
+        "delete": {
+          "success": "Successfully canceled subscription.",
+          "error": "There was an error trying to cancel your subscription."
+        }
+      }
     }
   },
   "title": {
@@ -491,11 +601,24 @@
         "edit": "Edit post"
       },
       "tiers": "Tiers",
-      "payouts": "Payouts",
       "coupons": {
-        "table": "Coupons",
         "new": "New coupon"
       }
+    }
+  },
+  "tab": {
+    "settings": {
+      "profile": "Profile",
+      "emails": "Emails"
+    },
+    "tiers": {
+      "tiers": "Tiers",
+      "coupons": "Coupons"
+    },
+    "billing": {
+      "billing": "Billing",
+      "payouts": "Payouts",
+      "donations": "Donations"
     }
   },
   "error": {
