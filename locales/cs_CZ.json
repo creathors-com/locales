@@ -106,7 +106,7 @@
       "join": "Připojit se nyní"
     },
     "donation": {
-      "button": "Podpořte tvůrce",
+      "button": "Podpořte tvůrce příspěvkem",
       "name": {
         "label": "Jméno / Přezdívka",
         "placeholder": "Honza"
@@ -120,7 +120,7 @@
       },
       "message": {
         "label": "Zpráva",
-        "placeholder": "Jen tak dál!"
+        "placeholder": "Pokračujte v dobré práci!"
       },
       "success": "Příspěvek úspěšně odeslán!"
     },
@@ -134,7 +134,7 @@
     "types": {
       "text": "Text",
       "image": "Obrázek",
-      "video": "Video / Audio",
+      "video": "Video",
       "audio": "Hudba"
     },
     "tier": "Úroveň",
@@ -356,7 +356,7 @@
         "table": {
           "head": {
             "name": "Přezdívka",
-            "since": "Předplatné od"
+            "since": "Počátek předplatného"
           }
         }
       }
@@ -543,7 +543,7 @@
     "donations": {
       "navItem": "Darování",
       "thanks": {
-        "button": "Poslat poděkování",
+        "button": "Pošlete poděkování",
         "message-placeholder": "Děkuji za Vaši podporu!"
       },
       "table": {
