@@ -283,6 +283,7 @@
       "upload": "Upload Thumbnail",
       "image": "Image",
       "video": "Video",
+      "audio": "Audio",
       "ppv": {
         "title": "Pay Per View",
         "price": "Price",
