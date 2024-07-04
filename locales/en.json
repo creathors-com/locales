@@ -571,7 +571,8 @@
             "total": "Total",
             "currency": "Currency",
             "paid": "Paid state",
-            "detail": "Detail"
+            "detail": "Detail",
+            "createdAt": "Created at"
           },
           "paid": {
             "true": "Paid",

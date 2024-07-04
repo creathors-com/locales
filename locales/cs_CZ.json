@@ -556,7 +556,8 @@
             "total": "Celkem",
             "currency": "Měna",
             "paid": "Stav",
-            "detail": "Detail"
+            "detail": "Detail",
+            "createdAt": "Datum vytvoření"
           },
           "paid": {
             "true": "Zaplaceno",
