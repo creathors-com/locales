@@ -488,11 +488,13 @@
       "field": {
         "name": {
           "label": "Název*",
-          "placeholder": "Název"
+          "placeholder": "Název",
+          "error": "Name '{'{name}'}' already exists."
         },
         "code": {
           "label": "Kód*",
-          "placeholder": "50POFF"
+          "placeholder": "50POFF",
+          "error": "Code '{'{code}'}' already exists."
         },
         "appliesTo": {
           "label": "Vztahuje se na úrovně",
