@@ -144,7 +144,8 @@
     "notFound": "Páni, tak prázdný...",
     "ppv": {
       "unlock": "Odemknout příspěvek za"
-    }
+    },
+    "tag": "Tag"
   },
   "post": {
     "comments": "Komentáře",
