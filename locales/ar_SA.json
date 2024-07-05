@@ -144,7 +144,8 @@
     "notFound": "Wow, such empty...",
     "ppv": {
       "unlock": "Unlock post for"
-    }
+    },
+    "tag": "Tag"
   },
   "post": {
     "comments": "Comments",
