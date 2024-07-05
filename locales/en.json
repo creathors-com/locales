@@ -488,11 +488,13 @@
       "field": {
         "name": {
           "label": "Name*",
-          "placeholder": "Name"
+          "placeholder": "Name",
+          "error": "Name '{'{name}'}' already exists."
         },
         "code": {
           "label": "Code*",
-          "placeholder": "50POFF"
+          "placeholder": "50POFF",
+          "error": "Code '{'{code}'}' already exists."
         },
         "appliesTo": {
           "label": "Applies to tiers",
