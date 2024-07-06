@@ -346,7 +346,7 @@
         "error": "Došlo k chybě, úroveň nebyla aktualizována."
       },
       "delete": {
-        "success": "Úroveň smazání!",
+        "success": "Úroveň smazána!",
         "error": "Došlo k chybě, úroveň nebyla odstraněna."
       },
       "label": {
@@ -489,12 +489,12 @@
         "name": {
           "label": "Název*",
           "placeholder": "Název",
-          "error": "Name '{'{name}'}' already exists."
+          "error": "Název '{'{name}'}' již existuje."
         },
         "code": {
           "label": "Kód*",
           "placeholder": "50POFF",
-          "error": "Code '{'{code}'}' already exists."
+          "error": "Kód '{'{code}'}' již existuje."
         },
         "appliesTo": {
           "label": "Vztahuje se na úrovně",
