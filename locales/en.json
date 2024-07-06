@@ -346,7 +346,7 @@
           "error": "Error occured, tier wasn't updated."
         },
         "delete": {
-          "success": "Tier delete!",
+          "success": "Tier deleted!",
           "error": "Error occured, tier wasn't deleted."
         },
         "label": {
