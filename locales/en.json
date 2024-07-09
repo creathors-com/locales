@@ -2,6 +2,7 @@
   "global": {
     "navbar": {
       "creators": "Discover",
+      "pricing": "Pricing",
       "search-creators": "Search creators...",
       "sign-in": "Sign in",
       "get-started": "Get started",
@@ -51,6 +52,13 @@
       "pending": "Uploading...",
       "success": "Upload finished successfully!",
       "error": "Upload failed, try again please."
+    }
+  },
+  "pricing": {
+    "hero": {
+      "subtitle": "Unbeatable Value, Exceptional Service",
+      "paragraph": "At Creathors, we believe in offering transparent and fair pricing. Our 9% commission on all payments is among the most competitive in the industry. No hidden fees, no surprises—just straightforward pricing that supports your growth.",
+      "detail": "Want an even better deal? Reach out to us at"
     }
   },
   "landing": {
