@@ -2,6 +2,7 @@
   "global": {
     "navbar": {
       "creators": "Procházet",
+      "pricing": "Pricing",
       "search-creators": "Vyhledat tvůrce...",
       "sign-in": "Přihlásit se",
       "get-started": "Začít",
@@ -51,6 +52,13 @@
       "pending": "Nahrávání...",
       "success": "Aktualizace byla úspěšně dokončena!",
       "error": "Nahrávání se nezdařilo, zkuste to prosím znovu."
+    }
+  },
+  "pricing": {
+    "hero": {
+      "subtitle": "Unbeatable Value, Exceptional Service",
+      "paragraph": "At Creathors, we believe in offering transparent and fair pricing. Our 9% commission on all payments is among the most competitive in the industry. No hidden fees, no surprises—just straightforward pricing that supports your growth.",
+      "detail": "Want an even better deal? Reach out to us at"
     }
   },
   "landing": {
