@@ -343,7 +343,7 @@
       "price": "Cena",
       "currency": "Měna",
       "weight": "Váha",
-      "weight-tooltip": "Weight sets the order in which tiers are displayed.",
+      "weight-tooltip": "Váha nastavuje pořadí, ve kterém jsou úrovně zobrazeny.",
       "name-placeholder": "VIP",
       "description-placeholder": "Zde zadejte svůj popis...",
       "add": {
