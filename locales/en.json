@@ -343,6 +343,7 @@
         "price": "Price",
         "currency": "Currency",
         "weight": "Weight",
+        "weight-tooltip": "Weight sets the order in which tiers are displayed.",
         "name-placeholder": "VIP",
         "description-placeholder": "Type your description here...",
         "add": {
