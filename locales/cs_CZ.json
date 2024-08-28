@@ -57,7 +57,7 @@
   "pricing": {
     "hero": {
       "subtitle": "Bezkonkurenční hodnota, mimořádná služba",
-      "paragraph": "V Creators věříme v nabízení transparentního a spravedlivého cenového modelu. Naše provize ve výši 9 % ze všech plateb patří mezi nejkonkurenceschopnější na trhu. Žádné skryté poplatky, žádná překvapení—jen přímé ceny, které podporují váš růst.",
+      "paragraph": "V Creators věříme v nabízení transparentního a spravedlivého cenového modelu. Naše provize ve výši 9% (*0% pro přímé příspěvky) ze všech plateb patří mezi nejkonkurenceschopnější na trhu. Žádné skryté poplatky, žádná překvapení—jen přímé ceny, které podporují váš růst.",
       "detail": "Chcete ještě lepší nabídku? Kontaktujte nás na"
     }
   },
@@ -74,7 +74,7 @@
       "1": {
         "subtitle": "Krok 1: Vytvoření účtu",
         "title": "Začněte svou cestu Creathora",
-        "paragraph": "Ponořte se do inkluzivní platformy, kde se setkává tvůrčí duch s příležitostí. S konkurenčními 9% poplatky je naše platforma navržena pro tvůrce všech typů. Zaujměte své publikum pomocí anket, Q&A sessions a soukromými zprávami, zatímco si užíváte atraktivní finanční odměnu za svůj úsilný výkon. Proměňte svou vášeň na zisk v komunitě, kde kreativitě nejsou kladeny žádné meze.",
+        "paragraph": "Ponořte se do inkluzivní platformy, kde se setkává tvůrčí duch s příležitostí. S konkurenčními 0-9% poplatky je naše platforma navržena pro tvůrce všech typů. Zaujměte své publikum pomocí anket, Q&A sessions a soukromými zprávami, zatímco si užíváte atraktivní finanční odměnu za svůj úsilný výkon. Proměňte svou vášeň na zisk v komunitě, kde kreativitě nejsou kladeny žádné meze.",
         "button": "Začněte svou cestu"
       },
       "2": {
