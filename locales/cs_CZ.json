@@ -645,53 +645,53 @@
   "reports": {
     "type": {
       "INAPPROPRIATE_CONTENT": {
-        "label": "Inappropriate Content"
+        "label": "Nevhodný obsah"
       },
       "NUDITY_OR_SEXUAL_CONTENT": {
-        "label": "Nudity or Sexual Content"
+        "label": "Nudita nebo Sexuální obsah"
       },
       "SPAM_OR_SCAM": {
-        "label": "Spam or Scam"
+        "label": "Spam nebo podvod"
       },
       "HARASSMENT_OR_ABUSE": {
-        "label": "Harassment or Abuse"
+        "label": "Obtěžování nebo zneužívání"
       },
       "HATE_SPEECH": {
-        "label": "Hate Speech"
+        "label": "Projevy nenávisti"
       },
       "COPYRIGHT": {
-        "label": "Copyright or Intellectual Property Violation"
+        "label": "Porušování autorského práva nebo duševního vlastnictví"
       },
       "SELF_HARM_OR_HARM": {
-        "label": "Self-harm or Harm to Others"
+        "label": "Sebepoškozovaní nebo poškozování druhých"
       },
       "MISINFORMATION": {
-        "label": "Misinformation"
+        "label": "Dezinformace"
       },
       "IMPERSONATION": {
-        "label": "Impersonation"
+        "label": "Zosobnění"
       },
       "VIOLENCE_OR_GORE": {
-        "label": "Violence or Gore"
+        "label": "Násilí nebo gore"
       },
       "ILLEGAL_ACTIVITY": {
-        "label": "Illegal Activity"
+        "label": "Nezákonná aktivita"
       }
     },
     "form": {
       "summary": {
-        "label": "Summary",
-        "placeholder": "The name is inappropriate"
+        "label": "Shrnutí",
+        "placeholder": "Název je nevhodný"
       },
       "url": {
         "label": "URL",
         "placeholder": "https://creathors.com"
       },
       "type": {
-        "label": "Report Type"
+        "label": "Typ nahlášení"
       },
       "description": {
-        "placeholder": "The name of this post/user is inappropriate."
+        "placeholder": "Jméno tohoto příspěvku/uživatele je nevhodné."
       }
     }
   }
