@@ -4,120 +4,120 @@
       "default": {
         "search": {
           "links": {
-            "label": "Go to"
+            "label": "Přejít na"
           }
         },
         "sidebar": {
           "search": {
-            "label": "Search..."
+            "label": "Hledat..."
           },
           "footer": {
             "links": {
               "help-and-support": {
-                "label": "Help & Support"
+                "label": "Nápověda & Podpora"
               }
             }
           },
           "colors": {
-            "label": "Colors",
+            "label": "Barvy",
             "children": {
               "green": {
-                "label": "Green"
+                "label": "Zelená"
               },
               "teal": {
-                "label": "Teal"
+                "label": "Modrozelená"
               },
               "cyan": {
-                "label": "Cyan"
+                "label": "Tyrkysová"
               },
               "sky": {
-                "label": "Sky"
+                "label": "Nebeská"
               },
               "blue": {
-                "label": "Blue"
+                "label": "Modrá"
               },
               "indigo": {
-                "label": "Indigo"
+                "label": "Tmavě modrá"
               },
               "violet": {
-                "label": "Violet"
+                "label": "Fialová"
               }
             }
           },
           "language": {
-            "label": "Language"
+            "label": "Jazyk"
           }
         }
       }
     },
     "navigation": {
       "settings": {
-        "label": "Settings",
+        "label": "Nastavení",
         "general": {
-          "label": "General"
+          "label": "Obecné"
         },
         "billing": {
-          "label": "Billing"
+          "label": "Fakturace"
         },
         "notifications": {
-          "label": "Notifications"
+          "label": "Notifikace"
         },
         "documentation": {
-          "label": "Documentation"
+          "label": "Dokumentace"
         }
       },
       "tiers": {
-        "label": "Tiers"
+        "label": "Úrovně"
       },
       "payments": {
-        "label": "Payments"
+        "label": "Platby"
       },
       "coupons": {
-        "label": "Coupons"
+        "label": "Kupóny"
       },
       "posts": {
-        "label": "Posts"
+        "label": "Příspěvky"
       },
       "home": {
-        "label": "Home"
+        "label": "Domů"
       },
       "payouts": {
-        "label": "Payouts"
+        "label": "Výplaty"
       }
     },
     "pages": {
       "index": {
-        "title": "Home",
-        "notifications": "Notifications"
+        "title": "Domů",
+        "notifications": "Notifikace"
       },
       "settings": {
         "index": {
           "theme": {
-            "title": "Theme",
-            "description": "Customize the look and feel of your dashboard."
+            "title": "Vzhled",
+            "description": "Přizpůsobte si vzhled a pocit Vašeho dashboardu."
           },
           "profile": {
-            "title": "Title",
-            "description": "This information will be displayed publicly, so be careful what you share. (Except email)",
+            "title": "Nadpis",
+            "description": "Tyto informace budou zobrazeny veřejně, takže buďte opatrní, co sdílíte. (Kromě e-mailu)",
             "button": {
               "save": {
-                "label": "Save changes",
+                "label": "Uložit změny",
                 "toast": {
                   "success": {
-                    "default": "Profile saved successfully.",
-                    "partial": "Profile saved partially."
+                    "default": "Profil byl úspěšně uložen.",
+                    "partial": "Profil byl částečně uložen."
                   },
                   "error": {
-                    "default": "Something went wrong while saving profile.",
+                    "default": "Při ukládání profilu se něco pokazilo.",
                     "bio": {
-                      "default": "Something went wrong while saving bio."
+                      "default": "Při ukládání bia se něco pokazilo."
                     },
                     "tags": {
-                      "default": "Something went wrong while saving tags."
+                      "default": "Při ukládání štítků nastala chyba."
                     },
                     "username": {
-                      "default": "Something went wrong while saving username.",
-                      "conflict": "Username already exists."
+                      "default": "Při ukládání uživatelského jména se něco pokazilo.",
+                      "conflict": "Uživatelské jméno již existuje."
                     }
                   }
                 }
@@ -125,72 +125,72 @@
             },
             "form": {
               "bio": {
-                "label": "Bio",
-                "description": "Description for your profile."
+                "label": "O mně",
+                "description": "Popis Vašeho profilu."
               },
               "background": {
-                "label": "Background",
+                "label": "Pozadí",
                 "button": {
                   "upload": {
-                    "label": "Upload background",
+                    "label": "Nahrát pozadí",
                     "toast": {
                       "success": {
-                        "default": "Background successfully uploaded."
+                        "default": "Pozadí bylo úspěšně nahráno."
                       },
                       "error": {
-                        "default": "Something went wrong while uploading background."
+                        "default": "Při nahrávání pozadí se něco pokazilo."
                       }
                     }
                   }
                 }
               },
               "avatar": {
-                "label": "Avatar",
+                "label": "Profilový obrázek",
                 "button": {
                   "upload": {
-                    "label": "Upload avatar",
+                    "label": "Nahrát profilový obrázek",
                     "toast": {
                       "success": {
-                        "default": "Avatar successfully uploaded."
+                        "default": "Profilový obrázek byl úspěšně nahrán."
                       },
                       "error": {
-                        "default": "Something went wrong while uploading avatar."
+                        "default": "Při nahrávání profilového obrázeku se něco pokazilo."
                       }
                     }
                   }
                 }
               },
               "username": {
-                "label": "Username",
-                "description": "Your unique username for your profile URL."
+                "label": "Uživatelské jméno",
+                "description": "Vaše jedinečné uživatelské jméno pro URL Vašeho profilu."
               },
               "email": {
                 "label": "Email",
-                "description": "Used to sign in, for email receipts and product updates."
+                "description": "Používá se k přihlášení, pro e-mailové potvrzení a aktualizace produktů."
               }
             }
           },
           "delete": {
-            "title": "Delete Account",
-            "description": "No longer want to use our service? You can delete your account here. This action is not reversible. All information related to this account will be deleted permanently.",
+            "title": "Smazat účet",
+            "description": "Nechcete nadále využívat naše služby? Zde můžete smazat svůj účet. Tato akce je nevratná. Všechny informace související s tímto účtem budou trvale odsraněny.",
             "button": {
               "delete": {
-                "label": "Delete"
+                "label": "Smazat"
               }
             }
           },
           "socials": {
-            "title": "Socials",
-            "description": "Other social medias where fans can find you.",
+            "title": "Sociální Média",
+            "description": "Jiná sociální média, kde Vás fanoušci mohou najít.",
             "button": {
               "save": {
-                "label": "Save changes",
+                "label": "Uložit změny",
                 "toast": {
                   "success": {
-                    "default": "Socials saved successfully."
+                    "default": "Sociální sítě úspěšně uloženy."
                   },
                   "error": {
-                    "default": "Something went wrong while saving socials."
+                    "default": "Při ukládání sociálních sítí nastala chyba."
                   }
                 }
               }
@@ -214,37 +214,37 @@
             }
           },
           "tags": {
-            "title": "Tags",
-            "description": "Add tags to describe your profile and make it easier for others to find you.",
+            "title": "Štítky",
+            "description": "Přidejte štítky, pro popis vašeho profilu a jednoduššího vyhledávání.",
             "button": {
               "save": {
-                "label": "Save changes",
+                "label": "Uložit změny",
                 "toast": {
                   "success": {
-                    "default": "Tags saved successfully."
+                    "default": "Štítky úspěšně uloženy."
                   },
                   "error": {
-                    "default": "Something went wrong while saving tags."
+                    "default": "Při ukládání štítků nastala chyba."
                   }
                 }
               }
             },
             "form": {
               "maintag": {
-                "label": "Main Tag",
-                "description": "Main tag that will be displayed next to your name.",
+                "label": "Hlavní Štítek",
+                "description": "Hlavní štítek, který se zobrazí vedle vašeho jména.",
                 "button": {
                   "select": {
-                    "label": "Choose main tag"
+                    "label": "Vyberte hlavní štítek"
                   }
                 }
               },
               "tags": {
-                "label": "Tags",
-                "description": "Other tags used for filtering when searching.",
+                "label": "Štítky",
+                "description": "Jiné štítky používané pro filtrování při vyhledávání.",
                 "button": {
                   "select": {
-                    "label": "Choose tags.."
+                    "label": "Zvolte štítky.."
                   }
                 }
               }
@@ -253,133 +253,133 @@
         },
         "notifications": {
           "emails": {
-            "title": "Email Notifications",
-            "description": "Toggle notifications that will be sent to your email address.",
+            "title": "E-mailová upozornění",
+            "description": "Přepněte oznámení, která budou odeslána na vaši e-mailovou adresu.",
             "form": {
               "NOTIFY_NEW_POST": {
-                "label": "New Post",
-                "description": "Notification about subscribed creator's new post(s)."
+                "label": "Nový Příspěvek",
+                "description": "Oznámení o nových příspěvcích odebíraných tvůrcu."
               },
               "NOTIFY_DONATION": {
-                "label": "New Donation",
-                "description": "Notification about receiving a new donation."
+                "label": "Nový dar",
+                "description": "Oznámení o obdržení nového daru."
               },
               "THANKS_DONATION": {
-                "label": "Thanks for Donation",
-                "description": "Notification about creator reacting to your donation."
+                "label": "Díky za dar",
+                "description": "Upozornění o tom, že tvůrce reaguje na Váš dar."
               }
             }
           }
         },
         "billing": {
           "personal": {
-            "title": "Personal",
-            "description": "Information about yourself.",
+            "title": "Osobní",
+            "description": "Informace o Vás.",
             "form": {
               "name": {
-                "label": "Name",
-                "description": "Your full name.",
+                "label": "Název",
+                "description": "Vaše celé jméno.",
                 "given-name": {
-                  "placeholder": "Given name"
+                  "placeholder": "Křestní jméno"
                 },
                 "last-name": {
-                  "placeholder": "Last name"
+                  "placeholder": "Příjmení"
                 }
               }
             },
             "button": {
               "save": {
-                "label": "Save personal",
+                "label": "Uložit osobní údaje",
                 "toast": {
                   "success": {
-                    "default": "Personal details successfully saved."
+                    "default": "Osobní údaje byly úspěšně uloženy."
                   },
                   "error": {
-                    "default": "Something went wrong while saving personal details."
+                    "default": "Při ukládání osobních údajů se něco pokazilo."
                   }
                 }
               }
             }
           },
           "address": {
-            "title": "Address",
-            "description": "This address will be used for your invoices.",
+            "title": "Adresa",
+            "description": "Tato adresa bude použita pro Vaše faktury.",
             "form": {
               "country": {
-                "label": "Country"
+                "label": "Země"
               },
               "city": {
-                "label": "City"
+                "label": "Město"
               },
               "line1": {
-                "label": "Line 1"
+                "label": "Detail Adresy 1"
               },
               "line2": {
-                "label": "Line 2"
+                "label": "Detail Adresy 2"
               },
               "state": {
-                "label": "State"
+                "label": "Kraj"
               }
             },
             "button": {
               "save": {
-                "label": "Save address",
+                "label": "Uložit adresu",
                 "toast": {
                   "success": {
-                    "default": "Address successfully saved."
+                    "default": "Adresa úspěšně uložena."
                   },
                   "error": {
-                    "default": "Something went wrong while saving address."
+                    "default": "Při ukládání adresy se něco pokazilo."
                   }
                 }
               }
             }
           },
           "company": {
-            "title": "Company",
-            "description": "Details about your company. (Will be used instead of your name for invoices)",
+            "title": "Společnost",
+            "description": "Podrobnosti o Vaší společnosti. (Použito místo Vašeho jména pro faktury)",
             "form": {
               "name": {
-                "label": "Company name"
+                "label": "Název společnosti"
               },
               "tax-type": {
-                "label": "Tax ID Type",
+                "label": "Typ DIČ",
                 "button": {
                   "select": {
-                    "label": "Choose Tax ID Type"
+                    "label": "Zvolte typ DIČ"
                   }
                 }
               },
               "tax-id": {
-                "label": "Tax ID"
+                "label": "DIČ"
               }
             },
             "button": {
               "save": {
-                "label": "Save company",
+                "label": "Uložit společnost",
                 "success": {
-                  "default": "Successfully saved company details."
+                  "default": "Údaje o společnosti byly úspěšně uloženy."
                 },
                 "error": {
-                  "default": "Something went wrong while saving company details."
+                  "default": "Při ukládání údajů o společnosti nastala chyba."
                 }
               }
             }
           },
           "bank": {
-            "title": "Bank",
-            "description": "Details about where to deposit your payouts.",
+            "title": "Banka",
+            "description": "Podrobnosti o tom, kam se budou posílat vaše výplaty.",
             "form": {
               "payout-option": {
-                "label": "Payout option",
+                "label": "Možnost výplaty",
                 "button": {
                   "select": {
-                    "label": "Choose payout option"
+                    "label": "Vyberte možnost výplaty"
                   }
                 },
                 "option": {
                   "bank-account": {
-                    "label": "Bank Account"
+                    "label": "Bankovní účet"
                   },
                   "paypal": {
                     "label": "PayPal"
@@ -393,36 +393,36 @@
               },
               "bank-account": {
                 "country": {
-                  "label": "Account country",
+                  "label": "Země účtu",
                   "button": {
                     "select": {
-                      "label": "Choose bank account country"
+                      "label": "Vyberte zemi bankovního účtu"
                     }
                   }
                 },
                 "account-number": {
-                  "label": "Account number"
+                  "label": "Číslo účtu"
                 },
                 "routing-number": {
-                  "label": "Routing number"
+                  "label": "Směrový kód banky"
                 },
                 "bsb-code": {
-                  "label": "BSB Code"
+                  "label": "BSB kód"
                 },
                 "iban": {
                   "label": "IBAN",
-                  "description": "International Bank Account Number"
+                  "description": "Číslo mezinárodního bankovního účtu"
                 }
               }
             },
             "button": {
               "save": {
-                "label": "Save bank details",
+                "label": "Uložit bankovní údaje",
                 "success": {
-                  "default": "Successfully saved bank details."
+                  "default": "Bankovní údaje úspěšně uloženy."
                 },
                 "error": {
-                  "default": "Something went wrong while saving bank details."
+                  "default": "Při ukládání bankovních údajů nastala chyba."
                 }
               }
             }
@@ -430,131 +430,131 @@
         }
       },
       "tiers": {
-        "title": "Tiers",
+        "title": "Úrovně",
         "modal": {
           "new": {
-            "title": "New tier",
-            "description": "Create a brand new tier."
+            "title": "Nová úroveň",
+            "description": "Vytvořit novou úroveň."
           },
           "edit": {
-            "title": "Edit tier",
-            "description": "Modify already existing tier."
+            "title": "Upravit úroveň",
+            "description": "Upravit již existující úroveň."
           }
         },
         "table": {
           "column": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "description": {
-              "label": "Description"
+              "label": "Popis"
             },
             "price": {
-              "label": "Price"
+              "label": "Cena"
             },
             "weight": {
-              "label": "Weight"
+              "label": "Váha"
             }
           },
           "button": {
             "delete": {
-              "label": "Delete tier | Delete tier | Delete {n} tiers",
+              "label": "Odstranit úroveň | Odstranit úroveň | Odstranit {n} úrovní",
               "confirm": {
-                "title": "Delete tier | Delete {n} tiers",
-                "description": "Are you sure you want to delete the tier? | Are you sure you want to delete {n} tiers?"
+                "title": "Odstranit úroveň | Odstranit {n} úrovní",
+                "description": "Jste si jisti, že chcete odstranit tuto úroveň? | Jste si jisti, že chcete smazat {n} úrovní?"
               },
               "toast": {
                 "success": {
-                  "default": "Tier '{name}' successfully deleted."
+                  "default": "Úroveň '{name}' byla úspěšně smazána."
                 },
                 "error": {
-                  "default": "There was an error deleting tier '{name}'."
+                  "default": "Při odstraňování úrovně '{name} ' došlo k chybě."
                 }
               }
             },
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             }
           }
         },
         "button": {
           "new": {
-            "label": "New tier"
+            "label": "Nová úroveň"
           }
         }
       },
       "payments": {
-        "title": "Payments",
+        "title": "Platby",
         "subscriptions": {
-          "title": "Subscriptions"
+          "title": "Předplatná"
         },
         "invoices": {
-          "title": "Invoices"
+          "title": "Faktury"
         }
       },
       "coupons": {
-        "title": "Coupons",
+        "title": "Kupóny",
         "table": {
           "column": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "code": {
-              "label": "Code"
+              "label": "Kód"
             },
             "amount-off": {
-              "label": "Discount amount"
+              "label": "Hodnota slevy"
             },
             "duration": {
-              "label": "Duration",
+              "label": "Doba trvání",
               "value": {
                 "ONCE": {
-                  "label": "Applies only once"
+                  "label": "Použije se pouze jednou"
                 },
                 "FOREVER": {
-                  "label": "Applies forever"
+                  "label": "Použije se vždy"
                 },
                 "REPEATING": {
-                  "label": "Applies for {n} months"
+                  "label": "Použije se pro {n} měsíců"
                 }
               }
             },
             "redeem-by": {
-              "label": "Redeem by",
+              "label": "Uplatnit do",
               "value": {
                 "none": {
-                  "label": "Never expires"
+                  "label": "Nikdy nevyprší"
                 }
               }
             },
             "applies-to": {
-              "label": "Applies to"
+              "label": "Platí pro"
             },
             "max-redemptions": {
-              "label": "Max redemptions",
+              "label": "Maximální počet využití",
               "value": {
                 "none": {
-                  "label": "Unlimited uses"
+                  "label": "Neomezená použití"
                 }
               }
             }
           },
           "button": {
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             },
             "delete": {
-              "label": "Delete coupon | Delete coupon | Delete {n} coupons",
+              "label": "Odstranit kupón | Odstranit kupón | Odstranit {n} kupónů",
               "confirm": {
-                "title": "Delete coupon | Delete {n} coupons",
-                "description": "Are you sure you want to delete the coupon? | Are you sure you want to delete {n} coupons?"
+                "title": "Odstranit kupón | Odstranit {n} kupónů",
+                "description": "Jste si jisti, že chcete odstranit tento kupón? | Opravdu chcete smazat {n} kupónů?"
               },
               "toast": {
                 "success": {
-                  "default": "Coupon '{name}' successfully deleted."
+                  "default": "Kupón '{name}' byl úspěšně odstraněn."
                 },
                 "error": {
-                  "default": "Couldn't delete coupon '{name}'."
+                  "default": "Kupón '{name} ' nelze odstranit."
                 }
               }
             }
@@ -562,57 +562,57 @@
         },
         "modal": {
           "new": {
-            "title": "Create coupon",
-            "description": "Create a new coupon for your tier(s)."
+            "title": "Vytvořit kupón",
+            "description": "Vytvořte nový kupón pro Vaše úrovně."
           },
           "edit": {
-            "title": "Edit coupon",
-            "description": "You can edit the coupon's name."
+            "title": "Upravit kupón",
+            "description": "Název kupónu můžete upravovat."
           }
         },
         "button": {
           "new": {
-            "label": "New coupon"
+            "label": "Nový kupón"
           }
         }
       },
       "posts": {
-        "title": "Posts",
+        "title": "Příspěvky",
         "table": {
           "column": {
             "name": {
-              "label": "Name",
-              "tooltip": "{name} is pinned"
+              "label": "Název",
+              "tooltip": "{name} je připnutý"
             },
             "price": {
-              "label": "Price"
+              "label": "Cena"
             },
             "likes": {
-              "label": "Likes"
+              "label": "Lajky"
             },
             "comments": {
-              "label": "Comments"
+              "label": "Komentáře"
             },
             "created-at": {
-              "label": "Created at"
+              "label": "Datum vytvoření"
             }
           },
           "button": {
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             },
             "delete": {
-              "label": "Delete post | Delete post | Delete {n} posts",
+              "label": "Odstranit příspěvek | Odstranit příspěvek | Odstranit {n} příspěvků",
               "confirm": {
-                "title": "Delete post | Delete {n} posts",
-                "description": "Are you sure you want to delete the post? | Are you sure you want to delete {n} posts?"
+                "title": "Odstranit příspěvek | Odstranit {n} příspěvků",
+                "description": "Jste si jisti, že chcete odstranit tento příspěvek? | Jste si jisti, že chcete odstranit {n} příspěvků?"
               },
               "toast": {
                 "success": {
-                  "default": "Post '{name}' successfully deleted."
+                  "default": "Příspěvek '{name}' byl úspěšně smazán."
                 },
                 "error": {
-                  "default": "Couldn't delete post '{name}'."
+                  "default": "Nepodařilo se odstranit příspěvek '{name}'."
                 }
               }
             }
@@ -620,102 +620,93 @@
         },
         "button": {
           "new": {
-            "label": "New post"
+            "label": "Nový příspěvek"
           }
         },
         "modal": {
           "new": {
-            "title": "New post",
-            "description": "Create a brand new post."
+            "title": "Nový příspěvek",
+            "description": "Vytvořit zbrusu nový příspěvek."
           }
         }
       },
       "payouts": {
         "access": {
-          "title": "Access Your Stripe Dashboard",
-          "description": "Your account details are up to date. Manage payouts directly through your Stripe Express Dashboard.",
-          "button": "Go to Stripe Dashboard"
+          "title": "Přístup k Vašemu Stripe Dashboardu",
+          "description": "Údaje o vašem účtu jsou aktuální. Spravujte výplaty přímo prostřednictvím Stripe Express.",
+          "button": "Přejít na Stripe Dashboard"
         },
         "pending": {
-          "title": "Complete Your Stripe Onboarding",
-          "description": "Your account has pending or missing details. Please complete the onboarding process to manage payouts.",
-          "button": "Complete Onboarding"
+          "title": "Dokončete váš přistup do Stripe",
+          "description": "Váš účet má nevyřízené nebo chybějící údaje. Dokončete proces zapojení pro správu plateb.",
+          "button": "Dokončit Zapojení"
         },
         "create": {
-          "title": "Set Up Your Stripe Account",
-          "description": "You need to create and connect a Stripe account to receive payouts. Start now to begin the setup process.",
-          "button": "Create Stripe Account",
-          "warning": "Make sure you choose your country. You will not be able to change it later, and an incorrect choice may render your account unusable."
-        },
-        "title": {
-          "access": "Access Your Stripe Dashboard",
-          "pending": "Complete Your Stripe Onboarding",
-          "create": "Set Up Your Stripe Account"
-        },
-        "description": {
-          "access": "Your account details are up to date. Manage payouts directly through your Stripe Express Dashboard.",
-          "pending": "Your account has pending or missing details. Please complete the onboarding process to manage payouts.",
-          "create": "You need to create and connect a Stripe account to receive payouts. Start now to begin the setup process."
-        },
-        "button": {
-          "access": "Go to Stripe Dashboard",
-          "pending": "Complete Onboarding",
-          "create": "Create Stripe Account"
+          "title": "Nastavte Váš Stripe účet",
+          "description": "Musíte vytvořit a připojit Stripe účet, abyste mohli přijímat výplaty. Začněte proces nastavení nyní.",
+          "button": "Vytvořit Stripe účet",
+          "warning": "Ujistěte se, že jste vybrali svou zemi. Později si ji nebudete moci změnit a nesprávná volba může způsobit nepoužitelnost Vašeho účtu."
         }
       }
     },
     "components": {
       "help-slideover": {
         "help": {
-          "title": "Help & Support",
-          "documentation": "Documentation",
-          "discord": "Discord"
+          "title": {
+            "label": "Nápověda & Podpora"
+          },
+          "documentation": {
+            "label": "Dokumentace"
+          },
+          "discord": {
+            "label": "Discord"
+          }
         }
       },
       "user-dropdown": {
-        "signed-in-as": "Signed in as",
-        "sign-out": "Sign out",
-        "settings": "Settings",
-        "help-and-support": "Help & Support",
-        "documentation": "Documentation",
-        "command-menu": "Command Menu"
+        "signed-in-as": "Přihlášen/a jako",
+        "sign-out": "Odhlásit se",
+        "settings": "Nastavení",
+        "help-and-support": "Nápověda & Podpora",
+        "documentation": "Dokumentace",
+        "command-menu": "Nabídka příkazů"
       },
       "home": {
         "home-stat-type-select": {
           "options": {
-            "donation_amount": "Donations Amount",
-            "donation_count": "Donations Count",
-            "donation_new": "New Donations",
-            "ppv_amount": "PPV Amount",
-            "ppv_count": "PPV Count",
-            "ppv_new": "New PPVs",
-            "subscription_amount": "Subscriptions Amount",
-            "subscription_count": "Subscriptions Count",
-            "subscription_new": "New Subscriptions"
+            "donation_amount": "Částka Darů",
+            "donation_count": "Počet Darů",
+            "donation_new": "Nové Dary",
+            "ppv_amount": "Částka PPV",
+            "ppv_count": "Počet PPV",
+            "ppv_new": "Nové PPV",
+            "subscription_amount": "Částka Předplatných",
+            "subscription_count": "Počet Předplatných",
+            "subscription_new": "Nové Předplatné"
           }
         },
         "home-period-select": {
           "options": {
-            "daily": "Daily",
-            "weekly": "Weekly",
-            "monthly": "Monthly"
+            "daily": "Denní",
+            "weekly": "Týdenní",
+            "monthly": "Měsíční"
           }
         },
         "home-date-range-picker": {
-          "label": "Range"
+          "label": "Rozsah"
         },
         "home-chart": {
           "title": {
-            "default": "Statistic",
-            "donation_amount": "Revenue",
-            "donation_count": "Donors",
-            "donation_new": "New Donors",
-            "ppv_amount": "Revenue",
-            "ppv_count": "PPVs",
-            "ppv_new": "New PPVs",
-            "subscription_amount": "Revenue",
-            "subscription_count": "Subscribers",
-            "subscription_new": "New Subscribers"
+            "default": "Statistika",
+            "donation_amount": "Výdělek",
+            "donation_count": "Dárci",
+            "donation_new": "Noví Dárci",
+            "ppv_amount": "Výdělek",
+            "ppv_count": "PPV-čka",
+            "ppv_new": "Nové PPV",
+            "subscription_amount": "Výdělek",
+            "subscription_count": "Předplatné",
+            "subscription_new": "Noví Předplatitelé"
           }
         }
       },
@@ -723,51 +714,51 @@
         "tiers-select-menu": {
           "button": {
             "select": {
-              "label": "Choose tiers.."
+              "label": "Zvolte úrovně.."
             }
           }
         },
         "tier-form": {
           "form": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "weight": {
-              "label": "Weight"
+              "label": "Váha"
             },
             "price": {
-              "label": "Price"
+              "label": "Cena"
             },
             "currency": {
-              "label": "Currency"
+              "label": "Měna"
             },
             "description": {
-              "label": "Description"
+              "label": "Popis"
             },
             "button": {
               "cancel": {
-                "label": "Cancel"
+                "label": "Zrušit"
               },
               "create": {
-                "label": "Create",
+                "label": "Vytvořit",
                 "toast": {
                   "success": {
-                    "default": "Tier '{name}' successfully created."
+                    "default": "Úroveň '{name}' byla úspěšně vytvořena."
                   },
                   "error": {
-                    "default": "Something went wrong while creating '{name}'.",
-                    "conflict": "Tier '{name}' already exists."
+                    "default": "Při vytváření '{name} ' se něco pokazilo.",
+                    "conflict": "Úroveň '{name}' již existuje."
                   }
                 }
               },
               "update": {
-                "label": "Update",
+                "label": "Aktualizovat",
                 "toast": {
                   "success": {
-                    "default": "Tier '{name}' successfully updated."
+                    "default": "Úroveň '{name}' byla úspěšně aktualizována."
                   },
                   "error": {
-                    "default": "Something went wrong while updating '{name}'."
+                    "default": "Při aktualizaci '{name} ' se něco pokazilo."
                   }
                 }
               }
@@ -780,19 +771,19 @@
           "table": {
             "column": {
               "number": {
-                "label": "Number"
+                "label": "Číslo"
               },
               "created-at": {
-                "label": "Created At"
+                "label": "Vytvořeno"
               },
               "total": {
-                "label": "Total"
+                "label": "Celkem"
               },
               "state": {
-                "label": "State",
+                "label": "Stav",
                 "value": {
-                  "paid": "Paid",
-                  "unpaid": "Unpaid"
+                  "paid": "Zaplaceno",
+                  "unpaid": "Nezaplaceno"
                 }
               }
             }
@@ -801,62 +792,62 @@
         "subscriptions-grid": {
           "badge": {
             "to-be-cancelled": {
-              "label": "Set to cancel at the end of period."
+              "label": "Nastaveno na zrušení na konci období."
             }
           },
           "button": {
             "resume": {
-              "label": "Resume",
-              "tooltip": "Don't cancel",
+              "label": "Pokračovat",
+              "tooltip": "Nerušit",
               "confirm": {
-                "title": "Resume subscription",
-                "description": "Are you sure you want to resume the subscription? You will continue to be billed."
+                "title": "Obnovit předplatné",
+                "description": "Jste si jisti, že chcete obnovit předplatné? Budete nadále účtováni."
               },
               "toast": {
                 "success": {
-                  "default": "Successfully resumed the subscription."
+                  "default": "Předplatné úspěšně obnoveno."
                 },
                 "error": {
-                  "default": "There was an error resuming the subscription."
+                  "default": "Při obnovování odběru došlo k chybě."
                 }
               }
             },
             "cancel": {
               "now": {
-                "label": "Cancel now",
-                "tooltip": "Cancel immediately",
+                "label": "Zrušit nyní",
+                "tooltip": "Zrušit okamžitě",
                 "confirm": {
-                  "title": "Cancel subscription",
-                  "description": "Are you sure you want to immediately cancel the subscription? (You will be credited for the remainder of the time)"
+                  "title": "Zrušit předplatné",
+                  "description": "Jste si jisti, že chcete okamžitě zrušit předplatné? (Bude Vám připsán kredit za zbývající dobu)"
                 },
                 "toast": {
                   "success": {
-                    "default": "Successfully canceled the subscription."
+                    "default": "Předplatné úspěšně zrušeno."
                   },
                   "error": {
-                    "default": "There was an error trying to cancel the subscription."
+                    "default": "Při pokusu o zrušení odběru došlo k chybě."
                   }
                 }
               },
               "later": {
-                "label": "Cancel later",
-                "tooltip": "Cancel at the end of billing period",
+                "label": "Zrušit později",
+                "tooltip": "Zrušit na konci fakturačního období",
                 "confirm": {
-                  "title": "Cancel subscription",
-                  "description": "Are you sure you want to cancel the subscription at the end of the billing period?"
+                  "title": "Zrušit předplatné",
+                  "description": "Opravdu chcete zrušit odběr na konci fakturačního období?"
                 },
                 "toast": {
                   "success": {
-                    "default": "Successfully set the subscription to cancel."
+                    "default": "Úspěšně nastaveno zrušení předplatného."
                   },
                   "error": {
-                    "default": "There was an error trying to set the subscription to cancel."
+                    "default": "Došlo k chybě při pokusu o nastavení zrušení předplatného."
                   }
                 }
               }
             },
             "creator": {
-              "label": "Creator"
+              "label": "Tvůrce"
             }
           }
         }
@@ -864,10 +855,10 @@
       "confirm-modal": {
         "button": {
           "cancel": {
-            "label": "Cancel"
+            "label": "Zrušit"
           },
           "confirm": {
-            "label": "Confirm"
+            "label": "Potvrdit"
           }
         }
       },
@@ -875,73 +866,73 @@
         "coupon-form": {
           "form": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "code": {
-              "label": "Code"
+              "label": "Kód"
             },
             "discount-type": {
-              "label": "Discount type",
+              "label": "Typ slevy",
               "FIXED": {
-                "label": "Fixed"
+                "label": "Pevně"
               },
               "PERCENTAGE": {
-                "label": "Percentage"
+                "label": "Procentuálně"
               }
             },
             "duration": {
-              "label": "Duration",
+              "label": "Doba trvání",
               "ONCE": {
-                "label": "Once"
+                "label": "Jednou"
               },
               "FOREVER": {
-                "label": "Forever"
+                "label": "Navždy"
               },
               "REPEATING": {
-                "label": "Repeating"
+                "label": "Opakující se"
               }
             },
             "amount-off": {
-              "label": "Discount amount"
+              "label": "Hodnota slevy"
             },
             "currency": {
-              "label": "Currency"
+              "label": "Měna"
             },
             "redeem-by": {
-              "label": "Redeem by",
+              "label": "Uplatnit do",
               "value": {
-                "none": "None selected"
+                "none": "Nevybrané"
               }
             },
             "duration-in-months": {
-              "label": "Number of months",
+              "label": "Počet měsíců",
               "input": {
-                "trailing": "months"
+                "trailing": "měsíců"
               }
             },
             "applies-to": {
-              "label": "Applies to tiers",
+              "label": "Vztahuje se na úrovně",
               "button": {
                 "select": {
-                  "label": "Choose tiers.."
+                  "label": "Zvolte úrovně.."
                 }
               }
             },
             "max-redemptions": {
-              "label": "Max redemptions"
+              "label": "Maximální počet využití"
             },
             "percent-off": {
-              "label": "Percentage off"
+              "label": "Procentuální sleva"
             },
             "button": {
               "create": {
-                "label": "Create"
+                "label": "Vytvořit"
               },
               "update": {
-                "label": "Update"
+                "label": "Aktualizovat"
               },
               "cancel": {
-                "label": "Cancel"
+                "label": "Zrušit"
               }
             }
           }
@@ -951,27 +942,27 @@
         "post-form": {
           "form": {
             "pinned": {
-              "label": "Pinned"
+              "label": "Připnutí"
             },
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "text": {
-              "label": "Description"
+              "label": "Popis"
             },
             "image": {
-              "label": "Image",
+              "label": "Obrázek",
               "button": {
                 "upload": {
-                  "label": "Choose image"
+                  "label": "Zvolte obrázek"
                 }
               }
             },
             "audio": {
-              "label": "Audio",
+              "label": "Zvuk",
               "button": {
                 "upload": {
-                  "label": "Choose audio file"
+                  "label": "Zvolte zvukový soubor"
                 }
               }
             },
@@ -979,7 +970,7 @@
               "label": "Video",
               "button": {
                 "upload": {
-                  "label": "Choose video file"
+                  "label": "Zvolte video soubor"
                 }
               }
             },
@@ -987,21 +978,21 @@
               "label": "Video URL"
             },
             "product-ids": {
-              "label": "Tiers"
+              "label": "Úrovně"
             },
             "tag-ids": {
-              "label": "Tags"
+              "label": "Štítky"
             },
             "price": {
-              "label": "PPV Price"
+              "label": "PPV Cena"
             },
             "currency": {
-              "label": "Currency"
+              "label": "Měna"
             },
             "type": {
               "tabs": {
                 "audio": {
-                  "label": "Audio"
+                  "label": "Zvuk"
                 },
                 "video": {
                   "label": "Video"
@@ -1010,19 +1001,19 @@
                   "label": "URL"
                 },
                 "image": {
-                  "label": "Image"
+                  "label": "Obrázek"
                 }
               }
             },
             "button": {
               "cancel": {
-                "label": "Cancel"
+                "label": "Zrušit"
               },
               "create": {
-                "label": "Create"
+                "label": "Vytvořit"
               },
               "update": {
-                "label": "Update"
+                "label": "Aktualizovat"
               }
             }
           }
@@ -1031,7 +1022,7 @@
           "tags-select-menu": {
             "button": {
               "select": {
-                "label": "Choose tags.."
+                "label": "Zvolte štítky.."
               }
             }
           }
@@ -1040,10 +1031,10 @@
       "vue-showdown-text-area": {
         "tabs": {
           "edit": {
-            "label": "Write"
+            "label": "Psát"
           },
           "preview": {
-            "label": "Preview"
+            "label": "Náhled"
           }
         }
       }
@@ -1053,24 +1044,24 @@
     "tag": {
       "user": {
         "label": {
-          "undefined": "No tags",
+          "undefined": "Bez štítků",
           "youtube": "YouTube",
           "twitch": "Stream",
-          "podcasts": "Podcasts",
-          "tipstricks": "Tips & Tricks",
-          "guides": "Guides",
-          "cooking": "Cooking",
-          "graphics": "Graphics",
-          "videoediting": "Video Editing",
-          "3dmodeling": "3D Modeling",
-          "education": "Education",
-          "programming": "Programming",
-          "automotive": "Automotive",
-          "photography": "Photography",
-          "videoproduction": "Video Production",
+          "podcasts": "Podcasty",
+          "tipstricks": "Tipy & Triky",
+          "guides": "Návody",
+          "cooking": "Vaření",
+          "graphics": "Grafika",
+          "videoediting": "Střih Videí",
+          "3dmodeling": "3D Modelování",
+          "education": "Vzdělávání",
+          "programming": "Programování",
+          "automotive": "Motorismus",
+          "photography": "Fotografování",
+          "videoproduction": "Produkce Videa",
           "finance": "Finance",
-          "investing": "Investing",
-          "music": "Music"
+          "investing": "Investování",
+          "music": "Hudba"
         }
       }
     },
@@ -1104,15 +1095,15 @@
     },
     "validation": {
       "mixed": {
-        "required": "This field is required.",
-        "notType": "Wrong value type."
+        "required": "Toto pole je povinné.",
+        "notType": "Nesprávný typ hodnoty."
       },
       "string": {
-        "email": "Please enter a valid email address.",
+        "email": "Prosím, zadejte platnou e-mailovou adresu.",
         "max": "Toto pole může mít maximálně ${'{max}'} znaků."
       },
       "number": {
-        "integer": "Must be a whole number.",
+        "integer": "Musí být celé číslo.",
         "max": "Číslo nemůže být vyšší než ${'{max}'}",
         "min": "Číslo nemůže být nižší než ${'{min}'}"
       }
