@@ -693,7 +693,27 @@
           }
         },
         "home-date-range-picker": {
-          "label": "Rozsah"
+          "label": "Rozsah",
+          "options": {
+            "7-days": {
+              "label": "Last 7 days"
+            },
+            "14-days": {
+              "label": "Last 14 days"
+            },
+            "30-days": {
+              "label": "Last 30 days"
+            },
+            "3-months": {
+              "label": "Last 3 months"
+            },
+            "6-months": {
+              "label": "Last 6 months"
+            },
+            "year": {
+              "label": "Last year"
+            }
+          }
         },
         "home-chart": {
           "title": {
@@ -926,10 +946,27 @@
             },
             "button": {
               "create": {
-                "label": "Vytvořit"
+                "label": "Vytvořit",
+                "toast": {
+                  "success": {
+                    "default": "Successfully created coupon '{name}'."
+                  },
+                  "error": {
+                    "default": "There was an error creating coupon '{name}'.",
+                    "conflict": "Coupon '{name}' already exists."
+                  }
+                }
               },
               "update": {
-                "label": "Aktualizovat"
+                "label": "Aktualizovat",
+                "toast": {
+                  "success": {
+                    "default": "Successfully updated coupon '{name}'."
+                  },
+                  "error": {
+                    "default": "There was an error updating coupon '{name}'."
+                  }
+                }
               },
               "cancel": {
                 "label": "Zrušit"
@@ -1010,10 +1047,26 @@
                 "label": "Zrušit"
               },
               "create": {
-                "label": "Vytvořit"
+                "label": "Vytvořit",
+                "toast": {
+                  "success": {
+                    "default": "Successfully created post '{name}'."
+                  },
+                  "error": {
+                    "default": "There was an error creating post '{name}'."
+                  }
+                }
               },
               "update": {
-                "label": "Aktualizovat"
+                "label": "Aktualizovat",
+                "toast": {
+                  "success": {
+                    "default": "Successfully updated post '{name}'."
+                  },
+                  "error": {
+                    "default": "There was an error updating post '{name}'."
+                  }
+                }
               }
             }
           }
