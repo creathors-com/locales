@@ -4,120 +4,120 @@
       "default": {
         "search": {
           "links": {
-            "label": "Go to"
+            "label": "Přejít na"
           }
         },
         "sidebar": {
           "search": {
-            "label": "Search..."
+            "label": "Hledat..."
           },
           "footer": {
             "links": {
               "help-and-support": {
-                "label": "Help & Support"
+                "label": "Nápověda & Podpora"
               }
             }
           },
           "colors": {
-            "label": "Colors",
+            "label": "Barvy",
             "children": {
               "green": {
-                "label": "Green"
+                "label": "Zelená"
               },
               "teal": {
-                "label": "Teal"
+                "label": "Modrozelená"
               },
               "cyan": {
-                "label": "Cyan"
+                "label": "Tyrkysová"
               },
               "sky": {
-                "label": "Sky"
+                "label": "Nebeská"
               },
               "blue": {
-                "label": "Blue"
+                "label": "Modrá"
               },
               "indigo": {
-                "label": "Indigo"
+                "label": "Tmavě modrá"
               },
               "violet": {
-                "label": "Violet"
+                "label": "Fialová"
               }
             }
           },
           "language": {
-            "label": "Language"
+            "label": "Jazyk"
           }
         }
       }
     },
     "navigation": {
       "settings": {
-        "label": "Settings",
+        "label": "Nastavení",
         "general": {
-          "label": "General"
+          "label": "Obecné"
         },
         "billing": {
-          "label": "Billing"
+          "label": "Fakturace"
         },
         "notifications": {
-          "label": "Notifications"
+          "label": "Notifikace"
         },
         "documentation": {
-          "label": "Documentation"
+          "label": "Dokumentace"
         }
       },
       "tiers": {
-        "label": "Tiers"
+        "label": "Úrovně"
       },
       "payments": {
-        "label": "Payments"
+        "label": "Platby"
       },
       "coupons": {
-        "label": "Coupons"
+        "label": "Kupóny"
       },
       "posts": {
-        "label": "Posts"
+        "label": "Příspěvky"
       },
       "home": {
-        "label": "Home"
+        "label": "Domů"
       },
       "payouts": {
-        "label": "Payouts"
+        "label": "Výplaty"
       }
     },
     "pages": {
       "index": {
-        "title": "Home",
-        "notifications": "Notifications"
+        "title": "Domů",
+        "notifications": "Notifikace"
       },
       "settings": {
         "index": {
           "theme": {
-            "title": "Theme",
-            "description": "Customize the look and feel of your dashboard."
+            "title": "Vzhled",
+            "description": "Přizpůsobte si vzhled a pocit Vašeho dashboardu."
           },
           "profile": {
-            "title": "Title",
-            "description": "This information will be displayed publicly, so be careful what you share. (Except email)",
+            "title": "Nadpis",
+            "description": "Tyto informace budou zobrazeny veřejně, takže buďte opatrní, co sdílíte. (Kromě e-mailu)",
             "button": {
               "save": {
-                "label": "Save changes",
+                "label": "Uložit změny",
                 "toast": {
                   "success": {
-                    "default": "Profile saved successfully.",
-                    "partial": "Profile saved partially."
+                    "default": "Profil byl úspěšně uložen.",
+                    "partial": "Profil byl částečně uložen."
                   },
                   "error": {
-                    "default": "Something went wrong while saving profile.",
+                    "default": "Při ukládání profilu se něco pokazilo.",
                     "bio": {
-                      "default": "Something went wrong while saving bio."
+                      "default": "Při ukládání bia se něco pokazilo."
                     },
                     "tags": {
-                      "default": "Something went wrong while saving tags."
+                      "default": "Při ukládání štítků nastala chyba."
                     },
                     "username": {
-                      "default": "Something went wrong while saving username.",
-                      "conflict": "Username already exists."
+                      "default": "Při ukládání uživatelského jména se něco pokazilo.",
+                      "conflict": "Uživatelské jméno již existuje."
                     }
                   }
                 }
@@ -125,44 +125,44 @@
             },
             "form": {
               "bio": {
-                "label": "Bio",
-                "description": "Description for your profile."
+                "label": "O mně",
+                "description": "Popis Vašeho profilu."
               },
               "background": {
-                "label": "Background",
+                "label": "Pozadí",
                 "button": {
                   "upload": {
-                    "label": "Upload background",
+                    "label": "Nahrát pozadí",
                     "toast": {
                       "success": {
-                        "default": "Background successfully uploaded."
+                        "default": "Pozadí bylo úspěšně nahráno."
                       },
                       "error": {
-                        "default": "Something went wrong while uploading background."
+                        "default": "Při nahrávání pozadí se něco pokazilo."
                       }
                     }
                   }
                 }
               },
               "avatar": {
-                "label": "Avatar",
+                "label": "Profilový obrázek",
                 "button": {
                   "upload": {
-                    "label": "Upload avatar",
+                    "label": "Nahrát profilový obrázek",
                     "toast": {
                       "success": {
-                        "default": "Avatar successfully uploaded."
+                        "default": "Profilový obrázek byl úspěšně nahrán."
                       },
                       "error": {
-                        "default": "Something went wrong while uploading avatar."
+                        "default": "Při nahrávání profilového obrázeku se něco pokazilo."
                       }
                     }
                   }
                 }
               },
               "username": {
-                "label": "Username",
-                "description": "Your unique username for your profile URL."
+                "label": "Uživatelské jméno",
+                "description": "Vaše jedinečné uživatelské jméno pro URL Vašeho profilu."
               },
               "email": {
                 "label": "Email",
@@ -326,60 +326,60 @@
                 "label": "Save address",
                 "toast": {
                   "success": {
-                    "default": "Address successfully saved."
+                    "default": "Adresa úspěšně uložena."
                   },
                   "error": {
-                    "default": "Something went wrong while saving address."
+                    "default": "Při ukládání adresy se něco pokazilo."
                   }
                 }
               }
             }
           },
           "company": {
-            "title": "Company",
-            "description": "Details about your company. (Will be used instead of your name for invoices)",
+            "title": "Společnost",
+            "description": "Podrobnosti o Vaší společnosti. (Použito místo Vašeho jména pro faktury)",
             "form": {
               "name": {
-                "label": "Company name"
+                "label": "Název společnosti"
               },
               "tax-type": {
-                "label": "Tax ID Type",
+                "label": "Typ DIČ",
                 "button": {
                   "select": {
-                    "label": "Choose Tax ID Type"
+                    "label": "Zvolte typ DIČ"
                   }
                 }
               },
               "tax-id": {
-                "label": "Tax ID"
+                "label": "DIČ"
               }
             },
             "button": {
               "save": {
-                "label": "Save company",
+                "label": "Uložit společnost",
                 "success": {
-                  "default": "Successfully saved company details."
+                  "default": "Údaje o společnosti byly úspěšně uloženy."
                 },
                 "error": {
-                  "default": "Something went wrong while saving company details."
+                  "default": "Při ukládání údajů o společnosti nastala chyba."
                 }
               }
             }
           },
           "bank": {
-            "title": "Bank",
-            "description": "Details about where to deposit your payouts.",
+            "title": "Banka",
+            "description": "Podrobnosti o tom, kam vložit Vaše výplaty.",
             "form": {
               "payout-option": {
-                "label": "Payout option",
+                "label": "Možnost výplaty",
                 "button": {
                   "select": {
-                    "label": "Choose payout option"
+                    "label": "Vyberte možnost výplaty"
                   }
                 },
                 "option": {
                   "bank-account": {
-                    "label": "Bank Account"
+                    "label": "Bankovní účet"
                   },
                   "paypal": {
                     "label": "PayPal"
@@ -393,36 +393,36 @@
               },
               "bank-account": {
                 "country": {
-                  "label": "Account country",
+                  "label": "Země účtu",
                   "button": {
                     "select": {
-                      "label": "Choose bank account country"
+                      "label": "Vyberte zemi bankovního účtu"
                     }
                   }
                 },
                 "account-number": {
-                  "label": "Account number"
+                  "label": "Číslo účtu"
                 },
                 "routing-number": {
-                  "label": "Routing number"
+                  "label": "Směrový kód banky"
                 },
                 "bsb-code": {
-                  "label": "BSB Code"
+                  "label": "BSB kód"
                 },
                 "iban": {
                   "label": "IBAN",
-                  "description": "International Bank Account Number"
+                  "description": "Číslo mezinárodního bankovního účtu"
                 }
               }
             },
             "button": {
               "save": {
-                "label": "Save bank details",
+                "label": "Uložit bankovní údaje",
                 "success": {
-                  "default": "Successfully saved bank details."
+                  "default": "Bankovní údaje úspěšně uloženy."
                 },
                 "error": {
-                  "default": "Something went wrong while saving bank details."
+                  "default": "Při ukládání bankovních údajů nastala chyba."
                 }
               }
             }
@@ -430,77 +430,77 @@
         }
       },
       "tiers": {
-        "title": "Tiers",
+        "title": "Úrovně",
         "modal": {
           "new": {
-            "title": "New tier",
-            "description": "Create a brand new tier."
+            "title": "Nová úroveň",
+            "description": "Vytvořit zbrusu novou úroveň."
           },
           "edit": {
-            "title": "Edit tier",
-            "description": "Modify already existing tier."
+            "title": "Upravit úroveň",
+            "description": "Upravit již existující úroveň."
           }
         },
         "table": {
           "column": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "description": {
-              "label": "Description"
+              "label": "Popis"
             },
             "price": {
-              "label": "Price"
+              "label": "Cena"
             },
             "weight": {
-              "label": "Weight"
+              "label": "Váha"
             }
           },
           "button": {
             "delete": {
-              "label": "Delete tier | Delete tier | Delete {n} tiers",
+              "label": "Odstranit úroveň | Odstranit úroveň | Odstranit {n} úrovní",
               "confirm": {
-                "title": "Delete tier | Delete {n} tiers",
-                "description": "Are you sure you want to delete the tier? | Are you sure you want to delete {n} tiers?"
+                "title": "Odstranit úroveň | Odstranit {n} úrovní",
+                "description": "Jste si jisti, že chcete odstranit tuto úroveň? | Jste si jisti, že chcete smazat {n} úrovní?"
               },
               "toast": {
                 "success": {
-                  "default": "Tier '{name}' successfully deleted."
+                  "default": "Úroveň '{name}' byla úspěšně smazána."
                 },
                 "error": {
-                  "default": "There was an error deleting tier '{name}'."
+                  "default": "Při odstraňování úrovně '{name} ' došlo k chybě."
                 }
               }
             },
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             }
           }
         },
         "button": {
           "new": {
-            "label": "New tier"
+            "label": "Nová úroveň"
           }
         }
       },
       "payments": {
-        "title": "Payments",
+        "title": "Platby",
         "subscriptions": {
-          "title": "Subscriptions"
+          "title": "Předplatná"
         },
         "invoices": {
-          "title": "Invoices"
+          "title": "Faktury"
         }
       },
       "coupons": {
-        "title": "Coupons",
+        "title": "Kupóny",
         "table": {
           "column": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "code": {
-              "label": "Code"
+              "label": "Kód"
             },
             "amount-off": {
               "label": "Discount amount"
@@ -653,14 +653,14 @@
           "create": "Set Up Your Stripe Account"
         },
         "description": {
-          "access": "Your account details are up to date. Manage payouts directly through your Stripe Express Dashboard.",
-          "pending": "Your account has pending or missing details. Please complete the onboarding process to manage payouts.",
-          "create": "You need to create and connect a Stripe account to receive payouts. Start now to begin the setup process."
+          "access": "Údaje o vašem účtu jsou aktuální. Spravujte výplaty přímo prostřednictvím Stripe Express.",
+          "pending": "Váš účet má nevyřízené nebo chybějící údaje. Dokončete proces zapojení pro správu plateb.",
+          "create": "Musíte vytvořit a připojit Stripe účet, abyste mohli přijímat výplaty. Začněte proces nastavení nyní."
         },
         "button": {
-          "access": "Go to Stripe Dashboard",
-          "pending": "Complete Onboarding",
-          "create": "Create Stripe Account"
+          "access": "Přejít na Stripe Dashboard",
+          "pending": "Dokončit zapojení",
+          "create": "Vytvořit Stripe účet"
         }
       }
     },
@@ -668,10 +668,10 @@
       "help-slideover": {
         "help": {
           "title": {
-            "label": "Help & Support"
+            "label": "Nápověda & Podpora"
           },
           "documentation": {
-            "label": "Documentation"
+            "label": "Dokumentace"
           },
           "discord": {
             "label": "Discord"
@@ -679,42 +679,42 @@
         }
       },
       "user-dropdown": {
-        "signed-in-as": "Signed in as",
-        "sign-out": "Sign out",
-        "settings": "Settings",
-        "help-and-support": "Help & Support",
-        "documentation": "Documentation",
-        "command-menu": "Command Menu"
+        "signed-in-as": "Přihlášen/a jako",
+        "sign-out": "Odhlásit se",
+        "settings": "Nastavení",
+        "help-and-support": "Nápověda & Podpora",
+        "documentation": "Dokumentace",
+        "command-menu": "Nabídka příkazů"
       },
       "home": {
         "home-stat-type-select": {
           "options": {
-            "donation_amount": "Donations Amount",
-            "donation_count": "Donations Count",
-            "donation_new": "New Donations",
-            "ppv_amount": "PPV Amount",
-            "ppv_count": "PPV Count",
-            "ppv_new": "New PPVs",
-            "subscription_amount": "Subscriptions Amount",
-            "subscription_count": "Subscriptions Count",
-            "subscription_new": "New Subscriptions"
+            "donation_amount": "Částka Darů",
+            "donation_count": "Počet Darů",
+            "donation_new": "Nové Dary",
+            "ppv_amount": "Částka PPV",
+            "ppv_count": "Počet PPV",
+            "ppv_new": "Nové PPV",
+            "subscription_amount": "Částka Předplatných",
+            "subscription_count": "Počet Předplatných",
+            "subscription_new": "Nové Předplatné"
           }
         },
         "home-period-select": {
           "options": {
-            "daily": "Daily",
-            "weekly": "Weekly",
-            "monthly": "Monthly"
+            "daily": "Denní",
+            "weekly": "Týdenní",
+            "monthly": "Měsíční"
           }
         },
         "home-date-range-picker": {
-          "label": "Range"
+          "label": "Rozsah"
         },
         "home-chart": {
           "title": {
-            "default": "Statistic",
-            "donation_amount": "Revenue",
-            "donation_count": "Donors",
+            "default": "Statistika",
+            "donation_amount": "Výdělek",
+            "donation_count": "Dárci",
             "donation_new": "New Donors",
             "ppv_amount": "Revenue",
             "ppv_count": "PPVs",
