@@ -646,21 +646,6 @@
           "description": "You need to create and connect a Stripe account to receive payouts. Start now to begin the setup process.",
           "button": "Create Stripe Account",
           "warning": "Make sure you choose your country. You will not be able to change it later, and an incorrect choice may render your account unusable."
-        },
-        "title": {
-          "access": "Access Your Stripe Dashboard",
-          "pending": "Complete Your Stripe Onboarding",
-          "create": "Set Up Your Stripe Account"
-        },
-        "description": {
-          "access": "Your account details are up to date. Manage payouts directly through your Stripe Express Dashboard.",
-          "pending": "Your account has pending or missing details. Please complete the onboarding process to manage payouts.",
-          "create": "You need to create and connect a Stripe account to receive payouts. Start now to begin the setup process."
-        },
-        "button": {
-          "access": "Go to Stripe Dashboard",
-          "pending": "Complete Onboarding",
-          "create": "Create Stripe Account"
         }
       }
     },
