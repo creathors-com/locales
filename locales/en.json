@@ -667,9 +667,15 @@
     "components": {
       "help-slideover": {
         "help": {
-          "title": "Help & Support",
-          "documentation": "Documentation",
-          "discord": "Discord"
+          "title": {
+            "label": "Help & Support"
+          },
+          "documentation": {
+            "label": "Documentation"
+          },
+          "discord": {
+            "label": "Discord"
+          }
         }
       },
       "user-dropdown": {
