@@ -83,6 +83,9 @@
       },
       "payouts": {
         "label": "Výplaty"
+      },
+      "tags": {
+        "label": "Tags"
       }
     },
     "pages": {
@@ -627,6 +630,10 @@
           "new": {
             "title": "Nový příspěvek",
             "description": "Vytvořit zbrusu nový příspěvek."
+          },
+          "edit": {
+            "title": "Edit post",
+            "description": "Customize already existing post."
           }
         }
       },
@@ -646,6 +653,54 @@
           "description": "Musíte vytvořit a připojit Stripe účet, abyste mohli přijímat výplaty. Začněte proces nastavení nyní.",
           "button": "Vytvořit Stripe účet",
           "warning": "Ujistěte se, že jste vybrali svou zemi. Později si ji nebudete moci změnit a nesprávná volba může způsobit nepoužitelnost Vašeho účtu."
+        }
+      },
+      "tags": {
+        "title": "Tags",
+        "button": {
+          "new": {
+            "label": "New tag"
+          }
+        },
+        "table": {
+          "column": {
+            "name": {
+              "label": "Name"
+            },
+            "uses": {
+              "label": "Uses"
+            }
+          },
+          "button": {
+            "delete": {
+              "label": "Delete tag | Delete tag | Delete {n} tags",
+              "confirm": {
+                "title": "Delete tag | Delete {n} tags",
+                "description": "Are you sure you want to delete the tag? | Are you sure you want to delete {n} tags?"
+              },
+              "toast": {
+                "success": {
+                  "default": "Successfully deleted tag '{name}'."
+                },
+                "error": {
+                  "default": "There was an error deleting tag '{name}'."
+                }
+              }
+            },
+            "edit": {
+              "label": "Edit"
+            }
+          }
+        },
+        "modal": {
+          "edit": {
+            "title": "Edit tag",
+            "description": "Edit the name of the tag."
+          },
+          "new": {
+            "title": "Create tag",
+            "description": "Create a brand new tag."
+          }
         }
       }
     },
@@ -1076,6 +1131,42 @@
             "button": {
               "select": {
                 "label": "Zvolte štítky.."
+              }
+            }
+          },
+          "tag-form": {
+            "form": {
+              "name": {
+                "label": "Name"
+              },
+              "button": {
+                "create": {
+                  "label": "Create tag",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully created tag '{name}'."
+                    },
+                    "error": {
+                      "default": "There was an error trying to create '{name}'.",
+                      "conflict": "Tag '{name}' already exists."
+                    }
+                  }
+                },
+                "update": {
+                  "label": "Update tag",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully updated tag '{name}'."
+                    },
+                    "error": {
+                      "default": "There was an error trying to update '{name}'.",
+                      "conflict": "Tag '{name}' already exists."
+                    }
+                  }
+                },
+                "cancel": {
+                  "label": "Cancel"
+                }
               }
             }
           }
