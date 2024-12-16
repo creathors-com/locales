@@ -83,6 +83,9 @@
       },
       "payouts": {
         "label": "Payouts"
+      },
+      "tags": {
+        "label": "Tags"
       }
     },
     "pages": {
@@ -627,6 +630,10 @@
           "new": {
             "title": "New post",
             "description": "Create a brand new post."
+          },
+          "edit": {
+            "title": "Edit post",
+            "description": "Customize already existing post."
           }
         }
       },
@@ -646,6 +653,54 @@
           "description": "You need to create and connect a Stripe account to receive payouts. Start now to begin the setup process.",
           "button": "Create Stripe Account",
           "warning": "Make sure you choose your country. You will not be able to change it later, and an incorrect choice may render your account unusable."
+        }
+      },
+      "tags": {
+        "title": "Tags",
+        "button": {
+          "new": {
+            "label": "New tag"
+          }
+        },
+        "table": {
+          "column": {
+            "name": {
+              "label": "Name"
+            },
+            "uses": {
+              "label": "Uses"
+            }
+          },
+          "button": {
+            "delete": {
+              "label": "Delete tag | Delete tag | Delete {n} tags",
+              "confirm": {
+                "title": "Delete tag | Delete {n} tags",
+                "description": "Are you sure you want to delete the tag? | Are you sure you want to delete {n} tags?"
+              },
+              "toast": {
+                "success": {
+                  "default": "Successfully deleted tag '{name}'."
+                },
+                "error": {
+                  "default": "There was an error deleting tag '{name}'."
+                }
+              }
+            },
+            "edit": {
+              "label": "Edit"
+            }
+          }
+        },
+        "modal": {
+          "edit": {
+            "title": "Edit tag",
+            "description": "Edit the name of the tag."
+          },
+          "new": {
+            "title": "Create tag",
+            "description": "Create a brand new tag."
+          }
         }
       }
     },
@@ -1076,6 +1131,42 @@
             "button": {
               "select": {
                 "label": "Choose tags.."
+              }
+            }
+          },
+          "tag-form": {
+            "form": {
+              "name": {
+                "label": "Name"
+              },
+              "button": {
+                "create": {
+                  "label": "Create tag",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully created tag '{name}'."
+                    },
+                    "error": {
+                      "default": "There was an error trying to create '{name}'.",
+                      "conflict": "Tag '{name}' already exists."
+                    }
+                  }
+                },
+                "update": {
+                  "label": "Update tag",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully updated tag '{name}'."
+                    },
+                    "error": {
+                      "default": "There was an error trying to update '{name}'.",
+                      "conflict": "Tag '{name}' already exists."
+                    }
+                  }
+                },
+                "cancel": {
+                  "label": "Cancel"
+                }
               }
             }
           }
