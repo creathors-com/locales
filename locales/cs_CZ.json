@@ -1250,6 +1250,9 @@
         "integer": "Musí být celé číslo.",
         "max": "Číslo nemůže být vyšší než ${'{max}'}",
         "min": "Číslo nemůže být nižší než ${'{min}'}"
+      },
+      "date": {
+        "is-future": "Date must be in future."
       }
     },
     "combobox": {
