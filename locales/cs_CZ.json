@@ -1160,12 +1160,12 @@
                     },
                     "error": {
                       "default": "Při pokusu o aktualizaci '{name} ' došlo k chybě.",
-                      "conflict": "Tag '{name}' already exists."
+                      "conflict": "Štítek '{name}' již existuje."
                     }
                   }
                 },
                 "cancel": {
-                  "label": "Cancel"
+                  "label": "Zrušit"
                 }
               }
             }
@@ -1252,7 +1252,7 @@
         "min": "Číslo nemůže být nižší než ${'{min}'}"
       },
       "date": {
-        "is-future": "Date must be in future."
+        "is-future": "Datum musí být v budoucnu."
       }
     },
     "combobox": {
