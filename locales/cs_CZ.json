@@ -85,7 +85,7 @@
         "label": "Výplaty"
       },
       "tags": {
-        "label": "Tags"
+        "label": "Štítky"
       }
     },
     "pages": {
@@ -632,8 +632,8 @@
             "description": "Vytvořit zbrusu nový příspěvek."
           },
           "edit": {
-            "title": "Edit post",
-            "description": "Customize already existing post."
+            "title": "Upravit příspěvek",
+            "description": "Upravit již existující příspěvek."
           }
         }
       },
@@ -656,50 +656,50 @@
         }
       },
       "tags": {
-        "title": "Tags",
+        "title": "Štítky",
         "button": {
           "new": {
-            "label": "New tag"
+            "label": "Nový štítek"
           }
         },
         "table": {
           "column": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "uses": {
-              "label": "Uses"
+              "label": "Využití"
             }
           },
           "button": {
             "delete": {
-              "label": "Delete tag | Delete tag | Delete {n} tags",
+              "label": "Odstranit štítek | Odstranit štítek | Odstranit {n} štítků",
               "confirm": {
-                "title": "Delete tag | Delete {n} tags",
-                "description": "Are you sure you want to delete the tag? | Are you sure you want to delete {n} tags?"
+                "title": "Odstranit štítek | Odstranit {n} štítků",
+                "description": "Jste si jisti, že chcete odstranit štítek? | Jste si jisti, že chcete smazat {n} štítků?"
               },
               "toast": {
                 "success": {
-                  "default": "Successfully deleted tag '{name}'."
+                  "default": "Úspěšně smazán štítek '{name}'."
                 },
                 "error": {
-                  "default": "There was an error deleting tag '{name}'."
+                  "default": "Při odstraňování štítku '{name} ' došlo k chybě."
                 }
               }
             },
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             }
           }
         },
         "modal": {
           "edit": {
-            "title": "Edit tag",
-            "description": "Edit the name of the tag."
+            "title": "Upravit štítek",
+            "description": "Upravit název štítku."
           },
           "new": {
-            "title": "Create tag",
-            "description": "Create a brand new tag."
+            "title": "Vytvořit štítek",
+            "description": "Vytvořit zbrusu nový štítek."
           }
         }
       }
@@ -751,22 +751,22 @@
           "label": "Rozsah",
           "options": {
             "7-days": {
-              "label": "Last 7 days"
+              "label": "Posledních 7 dní"
             },
             "14-days": {
-              "label": "Last 14 days"
+              "label": "Posledních 14 dní"
             },
             "30-days": {
-              "label": "Last 30 days"
+              "label": "Posledních 30 dní"
             },
             "3-months": {
-              "label": "Last 3 months"
+              "label": "Poslední 3 měsíce"
             },
             "6-months": {
-              "label": "Last 6 months"
+              "label": "Posledních 6 měsíců"
             },
             "year": {
-              "label": "Last year"
+              "label": "Poslední rok"
             }
           }
         },
@@ -1004,11 +1004,11 @@
                 "label": "Vytvořit",
                 "toast": {
                   "success": {
-                    "default": "Successfully created coupon '{name}'."
+                    "default": "Kupón '{name}' byl úspěšně vytvořen."
                   },
                   "error": {
-                    "default": "There was an error creating coupon '{name}'.",
-                    "conflict": "Coupon '{name}' already exists."
+                    "default": "Při vytváření kupónu '{name} ' došlo k chybě.",
+                    "conflict": "Kupón '{name}' již existuje."
                   }
                 }
               },
@@ -1016,10 +1016,10 @@
                 "label": "Aktualizovat",
                 "toast": {
                   "success": {
-                    "default": "Successfully updated coupon '{name}'."
+                    "default": "Kupón '{name} ' byl úspěšně aktualizován."
                   },
                   "error": {
-                    "default": "There was an error updating coupon '{name}'."
+                    "default": "Při aktualizaci kupónu '{name} ' došlo k chybě."
                   }
                 }
               },
@@ -1105,10 +1105,10 @@
                 "label": "Vytvořit",
                 "toast": {
                   "success": {
-                    "default": "Successfully created post '{name}'."
+                    "default": "Příspěvek '{name} ' byl úspěšně vytvořen."
                   },
                   "error": {
-                    "default": "There was an error creating post '{name}'."
+                    "default": "Při vytváření příspěvku '{name} \" došlo k chybě."
                   }
                 }
               },
@@ -1116,10 +1116,10 @@
                 "label": "Aktualizovat",
                 "toast": {
                   "success": {
-                    "default": "Successfully updated post '{name}'."
+                    "default": "Příspěvek '{name} ' byl úspěšně aktualizován."
                   },
                   "error": {
-                    "default": "There was an error updating post '{name}'."
+                    "default": "Při aktualizaci příspěvku '{name} ' došlo k chybě."
                   }
                 }
               }
@@ -1137,29 +1137,29 @@
           "tag-form": {
             "form": {
               "name": {
-                "label": "Name"
+                "label": "Název"
               },
               "button": {
                 "create": {
-                  "label": "Create tag",
+                  "label": "Vytvořit štítek",
                   "toast": {
                     "success": {
-                      "default": "Successfully created tag '{name}'."
+                      "default": "Úspěšně vytvořen štítek '{name}'."
                     },
                     "error": {
-                      "default": "There was an error trying to create '{name}'.",
-                      "conflict": "Tag '{name}' already exists."
+                      "default": "Došlo k chybě při pokusu o vytvoření '{name}'.",
+                      "conflict": "Štítek '{name}' již existuje."
                     }
                   }
                 },
                 "update": {
-                  "label": "Update tag",
+                  "label": "Aktualizovat štítek",
                   "toast": {
                     "success": {
-                      "default": "Successfully updated tag '{name}'."
+                      "default": "Štítek '{name} ' byl úspěšně aktualizován."
                     },
                     "error": {
-                      "default": "There was an error trying to update '{name}'.",
+                      "default": "Při pokusu o aktualizaci '{name} ' došlo k chybě.",
                       "conflict": "Tag '{name}' already exists."
                     }
                   }
