@@ -708,10 +708,10 @@
       "data": {
         "table": {
           "empty-state": {
-            "label": "No items."
+            "label": "Žádné položky."
           },
           "loading-state": {
-            "label": "Loading..."
+            "label": "Načítání…"
           }
         }
       },
