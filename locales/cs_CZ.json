@@ -680,7 +680,7 @@
               },
               "toast": {
                 "success": {
-                  "default": "Úspěšně smazán štítek '{name}'."
+                  "default": "Štítek '{name}' úspěšně smazán."
                 },
                 "error": {
                   "default": "Při odstraňování štítku '{name} ' došlo k chybě."
@@ -705,6 +705,16 @@
       }
     },
     "components": {
+      "data": {
+        "table": {
+          "empty-state": {
+            "label": "No items."
+          },
+          "loading-state": {
+            "label": "Loading..."
+          }
+        }
+      },
       "help-slideover": {
         "help": {
           "title": {
@@ -1144,7 +1154,7 @@
                   "label": "Vytvořit štítek",
                   "toast": {
                     "success": {
-                      "default": "Úspěšně vytvořen štítek '{name}'."
+                      "default": "Štítek '{name}' úspěšně vytvořen."
                     },
                     "error": {
                       "default": "Došlo k chybě při pokusu o vytvoření '{name}'.",
