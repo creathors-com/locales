@@ -705,6 +705,16 @@
       }
     },
     "components": {
+      "data": {
+        "table": {
+          "empty-state": {
+            "label": "No items."
+          },
+          "loading-state": {
+            "label": "Loading..."
+          }
+        }
+      },
       "help-slideover": {
         "help": {
           "title": {
