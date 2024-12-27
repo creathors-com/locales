@@ -456,7 +456,8 @@
               "label": "Cena"
             },
             "weight": {
-              "label": "Váha"
+              "label": "Váha",
+              "description": "Weight sets the order in which tiers are displayed."
             }
           },
           "button": {
