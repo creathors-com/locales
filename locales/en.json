@@ -456,7 +456,8 @@
               "label": "Price"
             },
             "weight": {
-              "label": "Weight"
+              "label": "Weight (Order)",
+              "description": "Weight sets the order in which tiers are displayed."
             }
           },
           "button": {
