@@ -1073,7 +1073,15 @@
               "label": "Video",
               "button": {
                 "upload": {
-                  "label": "Zvolte video soubor"
+                  "label": "Zvolte video soubor",
+                  "toast": {
+                    "success": {
+                      "default": "Video was successfully uploaded."
+                    },
+                    "error": {
+                      "default": "There was an error uploading the video."
+                    }
+                  }
                 }
               }
             },
