@@ -456,8 +456,8 @@
               "label": "Cena"
             },
             "weight": {
-              "label": "Váha",
-              "description": "Weight sets the order in which tiers are displayed."
+              "label": "Váha (Pořadí)",
+              "description": "Váha nastavuje pořadí, ve kterém jsou úrovně zobrazeny."
             }
           },
           "button": {
