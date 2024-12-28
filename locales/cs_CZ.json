@@ -637,8 +637,8 @@
             "description": "Upravit již existující příspěvek."
           },
           "stats": {
-            "title": "Statistics",
-            "description": "Statistics related to your post."
+            "title": "Statistiky",
+            "description": "Statistiky související s Vaším příspěvkem."
           }
         }
       },
@@ -1080,10 +1080,10 @@
                   "label": "Zvolte video soubor",
                   "toast": {
                     "success": {
-                      "default": "Video was successfully uploaded."
+                      "default": "Video bylo úspěšně nahráno."
                     },
                     "error": {
-                      "default": "There was an error uploading the video."
+                      "default": "Při nahrávání videa došlo k chybě."
                     }
                   }
                 }
@@ -1208,18 +1208,18 @@
       "videos": {
         "show-options": {
           "hourly": {
-            "label": "Hourly"
+            "label": "Hodinově"
           },
           "daily": {
-            "label": "Daily"
+            "label": "Denně"
           }
         },
         "video-stats": {
           "views-chart": {
-            "title": "Video views"
+            "title": "Zobrazení videa"
           },
           "watch-time-chart": {
-            "title": "Video watch time"
+            "title": "Doba sledování videa"
           }
         }
       }
