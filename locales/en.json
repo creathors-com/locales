@@ -635,6 +635,10 @@
           "edit": {
             "title": "Edit post",
             "description": "Customize already existing post."
+          },
+          "stats": {
+            "title": "Statistics",
+            "description": "Statistics related to your post."
           }
         }
       },
@@ -1198,6 +1202,24 @@
           },
           "preview": {
             "label": "Preview"
+          }
+        }
+      },
+      "videos": {
+        "show-options": {
+          "hourly": {
+            "label": "Hourly"
+          },
+          "daily": {
+            "label": "Daily"
+          }
+        },
+        "video-stats": {
+          "views-chart": {
+            "title": "Video views"
+          },
+          "watch-time-chart": {
+            "title": "Video watch time"
           }
         }
       }
