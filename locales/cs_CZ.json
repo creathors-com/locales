@@ -459,7 +459,7 @@
               "label": "Váha (Pořadí)"
             },
             "buyers-count": {
-              "label": "Buyers count"
+              "label": "Počet kupujících"
             }
           },
           "button": {
@@ -817,7 +817,7 @@
             },
             "weight": {
               "label": "Váha",
-              "description": "Weight sets the order in which tiers are displayed."
+              "description": "Váha nastavuje pořadí, ve kterém jsou úrovně zobrazeny."
             },
             "price": {
               "label": "Cena"
