@@ -456,8 +456,10 @@
               "label": "Price"
             },
             "weight": {
-              "label": "Weight (Order)",
-              "description": "Weight sets the order in which tiers are displayed."
+              "label": "Weight (Order)"
+            },
+            "buyers-count": {
+              "label": "Buyers count"
             }
           },
           "button": {
@@ -814,7 +816,8 @@
               "label": "Name"
             },
             "weight": {
-              "label": "Weight"
+              "label": "Weight",
+              "description": "Weight sets the order in which tiers are displayed."
             },
             "price": {
               "label": "Price"
