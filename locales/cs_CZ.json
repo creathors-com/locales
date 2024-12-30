@@ -456,8 +456,10 @@
               "label": "Cena"
             },
             "weight": {
-              "label": "Váha (Pořadí)",
-              "description": "Váha nastavuje pořadí, ve kterém jsou úrovně zobrazeny."
+              "label": "Váha (Pořadí)"
+            },
+            "buyers-count": {
+              "label": "Buyers count"
             }
           },
           "button": {
@@ -751,7 +753,7 @@
             "ppv_count": "Počet PPV",
             "ppv_new": "Nové PPV",
             "subscription_amount": "Částka Předplatných",
-            "subscription_count": "Počet Předplatných",
+            "subscription_count": "Počet Předplatitelů",
             "subscription_new": "Nové Předplatné"
           }
         },
@@ -814,7 +816,8 @@
               "label": "Název"
             },
             "weight": {
-              "label": "Váha"
+              "label": "Váha",
+              "description": "Weight sets the order in which tiers are displayed."
             },
             "price": {
               "label": "Cena"
