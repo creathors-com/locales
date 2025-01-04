@@ -458,8 +458,10 @@
               "label": "Cena"
             },
             "weight": {
-              "label": "Váha (Pořadí)",
-              "description": "Weight sets the order in which tiers are displayed."
+              "label": "Váha (Pořadí)"
+            },
+            "buyers-count": {
+              "label": "Buyers count"
             }
           },
           "button": {
@@ -816,7 +818,8 @@
               "label": "Název"
             },
             "weight": {
-              "label": "Váha"
+              "label": "Váha",
+              "description": "Weight sets the order in which tiers are displayed."
             },
             "price": {
               "label": "Cena"
