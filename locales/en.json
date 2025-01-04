@@ -287,7 +287,7 @@
                 },
                 "last-name": {
                   "label": "Last name",
-                  "description": "Your legal last name",
+                  "description": "Your legal last name.",
                   "placeholder": "Doe"
                 }
               }
