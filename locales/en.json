@@ -458,10 +458,8 @@
               "label": "Price"
             },
             "weight": {
-              "label": "Weight (Order)"
-            },
-            "buyers-count": {
-              "label": "Buyers count"
+              "label": "Weight (Order)",
+              "description": "Weight sets the order in which tiers are displayed."
             }
           },
           "button": {
@@ -755,7 +753,7 @@
             "ppv_count": "PPV Count",
             "ppv_new": "New PPVs",
             "subscription_amount": "Subscriptions Amount",
-            "subscription_count": "Subscribers Count",
+            "subscription_count": "Subscriptions Count",
             "subscription_new": "New Subscriptions"
           }
         },
@@ -818,8 +816,7 @@
               "label": "Name"
             },
             "weight": {
-              "label": "Weight",
-              "description": "Weight sets the order in which tiers are displayed."
+              "label": "Weight"
             },
             "price": {
               "label": "Price"
