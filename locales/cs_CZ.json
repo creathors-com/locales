@@ -283,12 +283,12 @@
                 "given-name": {
                   "label": "Křestní jméno",
                   "description": "Vaše právní jméno.",
-                  "placeholder": "Křestní jméno"
+                  "placeholder": "Honza"
                 },
                 "last-name": {
                   "label": "Příjmení",
                   "description": "Vaše právní příjmení.",
-                  "placeholder": "Příjmení"
+                  "placeholder": "Hrouda"
                 }
               }
             },
@@ -458,10 +458,8 @@
               "label": "Cena"
             },
             "weight": {
-              "label": "Váha (Pořadí)"
-            },
-            "buyers-count": {
-              "label": "Buyers count"
+              "label": "Váha (Pořadí)",
+              "description": "Weight sets the order in which tiers are displayed."
             }
           },
           "button": {
@@ -818,8 +816,7 @@
               "label": "Název"
             },
             "weight": {
-              "label": "Váha",
-              "description": "Weight sets the order in which tiers are displayed."
+              "label": "Váha"
             },
             "price": {
               "label": "Cena"
