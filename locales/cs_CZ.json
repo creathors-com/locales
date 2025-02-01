@@ -461,19 +461,19 @@
               "label": "Váha (Pořadí)"
             },
             "buyers-count": {
-              "label": "Buyers count"
+              "label": "Počet kupujících"
             },
             "tax-behavior": {
-              "label": "Tax behavior",
+              "label": "Daňové chování",
               "value": {
                 "AUTOMATIC": {
-                  "label": "Automatic"
+                  "label": "Automaticky"
                 },
                 "INCLUSIVE": {
-                  "label": "Inclusive"
+                  "label": "Zahrnuta"
                 },
                 "EXCLUSIVE": {
-                  "label": "Exclusive"
+                  "label": "Exkluzivní"
                 }
               }
             }
@@ -833,7 +833,7 @@
             },
             "weight": {
               "label": "Váha",
-              "description": "Weight sets the order in which tiers are displayed."
+              "description": "Váha nastavuje pořadí, ve kterém jsou úrovně zobrazeny."
             },
             "price": {
               "label": "Cena"
@@ -842,19 +842,19 @@
               "label": "Měna"
             },
             "tax-behavior": {
-              "label": "Tax behavior",
+              "label": "Daňové chování",
               "value": {
                 "AUTOMATIC": {
-                  "label": "Automatic",
-                  "description": "We will automatically include or exclude tax based on the currency of the purchase. For USD and CAD, tax will be excluded from the price, so it will be added on top of the price. For all other currencies, tax will be included in the price."
+                  "label": "Automaticky",
+                  "description": "Daňové chování bude nastaveno podle měny nákupu. Při USD a CAD se použije daň exkluzivní, takže bude přičtena k ceně. U všech ostatních měn bude daň zahrnuta do ceny."
                 },
                 "INCLUSIVE": {
-                  "label": "Inclusive",
-                  "description": "Tax will be included in the purchase price - the price will include the tax amount."
+                  "label": "Zahrnuta",
+                  "description": "Daň bude zahrnuta do kupní ceny - cena bude obsahovat výši daně."
                 },
                 "EXCLUSIVE": {
-                  "label": "Exclusive",
-                  "description": "Tax will not be included in the purchase price – tax will be added on top of the price."
+                  "label": "Exkluzivní",
+                  "description": "Daň nebude zahrnuta do kupní ceny – k ceně bude připočtena daň."
                 }
               }
             },
