@@ -462,6 +462,20 @@
             },
             "buyers-count": {
               "label": "Buyers count"
+            },
+            "tax-behavior": {
+              "label": "Tax behavior",
+              "value": {
+                "AUTOMATIC": {
+                  "label": "Automatic"
+                },
+                "INCLUSIVE": {
+                  "label": "Inclusive"
+                },
+                "EXCLUSIVE": {
+                  "label": "Exclusive"
+                }
+              }
             }
           },
           "button": {
@@ -826,6 +840,23 @@
             },
             "currency": {
               "label": "Currency"
+            },
+            "tax-behavior": {
+              "label": "Tax behavior",
+              "value": {
+                "AUTOMATIC": {
+                  "label": "Automatic",
+                  "description": "We will automatically include or exclude tax based on the currency of the purchase. For USD and CAD, tax will be excluded from the price, so it will be added on top of the price. For all other currencies, tax will be included in the price."
+                },
+                "INCLUSIVE": {
+                  "label": "Inclusive",
+                  "description": "Tax will be included in the purchase price - the price will include the tax amount."
+                },
+                "EXCLUSIVE": {
+                  "label": "Exclusive",
+                  "description": "Tax will not be included in the purchase price – tax will be added on top of the price."
+                }
+              }
             },
             "description": {
               "label": "Description"
