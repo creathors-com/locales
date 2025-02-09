@@ -51,6 +51,18 @@
       }
     },
     "navigation": {
+      "alerts": {
+        "label": "Alerts",
+        "general": {
+          "label": "General"
+        },
+        "subscribe": {
+          "label": "Subscribe"
+        },
+        "documentation": {
+          "label": "Documentation"
+        }
+      },
       "settings": {
         "label": "Settings",
         "general": {
@@ -89,6 +101,80 @@
       }
     },
     "pages": {
+      "alerts": {
+        "subscribe": {
+          "config": {
+            "title": "Config",
+            "description": "Configuration for Subscribe alerts.",
+            "form": {
+              "message": {
+                "label": "Message",
+                "description": "Available parameters: {'{buyerName}'} - name of the buyer, {'{productName}'} - name of the product, {'{productPrice}'} - price of the product."
+              }
+            },
+            "button": {
+              "test": {
+                "label": "Send test"
+              },
+              "save": {
+                "toast": {
+                  "success": {
+                    "default": "Successfully the Subscribe config."
+                  },
+                  "error": {
+                    "default": "There was an error saving the Subscribe config."
+                  }
+                },
+                "label": "Save config"
+              }
+            }
+          }
+        },
+        "index": {
+          "config": {
+            "title": "Alerts Config",
+            "description": "General configuration for all alerts.",
+            "form": {
+              "delay": {
+                "label": "Delay",
+                "description": "How long until we show received alert."
+              },
+              "parries": {
+                "label": "Alert Parries",
+                "description": "Whether new alerts should interrupt the on screen alert."
+              },
+              "profanity-filter": {
+                "label": "Profanity Filter",
+                "description": "Whether to censor bad words in messages."
+              },
+              "bad-words": {
+                "label": "Bad Words",
+                "description": "List of bad words to censor in messages.",
+                "button": {
+                  "select": {
+                    "label": "Select bad words",
+                    "searchable-placeholder": "Search or create...",
+                    "create-placeholder": "Add '{word}'"
+                  }
+                }
+              }
+            },
+            "button": {
+              "save": {
+                "label": "Save config",
+                "toast": {
+                  "success": {
+                    "default": "Successfully updated the alerts config."
+                  },
+                  "error": {
+                    "default": "There was an error while saving the alerts config."
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
       "index": {
         "title": "Home",
         "notifications": "Notifications"
@@ -728,6 +814,48 @@
       }
     },
     "components": {
+      "alerts": {
+        "title": "Received alerts",
+        "alerts-table": {
+          "table": {
+            "column": {
+              "type": {
+                "label": "Type"
+              },
+              "message": {
+                "label": "Message"
+              }
+            },
+            "button": {
+              "resend": {
+                "label": "Send again",
+                "toast": {
+                  "success": {
+                    "default": "Alert was successfully re-sent."
+                  },
+                  "error": {
+                    "default": "There was an error while resending the alert."
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "copy-button": {
+        "button": {
+          "copy": {
+            "click": {
+              "label": "Copied!"
+            },
+            "toast": {
+              "success": {
+                "default": "Copied to clipboard!"
+              }
+            }
+          }
+        }
+      },
       "data": {
         "table": {
           "empty-state": {
