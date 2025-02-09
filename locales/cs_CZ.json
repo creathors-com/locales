@@ -52,15 +52,15 @@
     },
     "navigation": {
       "alerts": {
-        "label": "Alerts",
+        "label": "Oznámení",
         "general": {
-          "label": "General"
+          "label": "Obecné"
         },
         "subscribe": {
-          "label": "Subscribe"
+          "label": "Odběr"
         },
         "documentation": {
-          "label": "Documentation"
+          "label": "Dokumentace"
         }
       },
       "settings": {
@@ -104,70 +104,70 @@
       "alerts": {
         "subscribe": {
           "config": {
-            "title": "Config",
-            "description": "Configuration for Subscribe alerts.",
+            "title": "Konfigurace",
+            "description": "Konfigurace pro upozornění o odběru.",
             "form": {
               "message": {
-                "label": "Message",
-                "description": "Available parameters: {'{buyerName}'} - name of the buyer, {'{productName}'} - name of the product, {'{productPrice}'} - price of the product."
+                "label": "Zpráva",
+                "description": "Dostupné parametry: {'{buyerName}'} - jméno kupujícího, {'{productName}'} - název produktu, {'{productPrice}'} - cena produktu."
               }
             },
             "button": {
               "test": {
-                "label": "Send test"
+                "label": "Poslat zkoušku"
               },
               "save": {
                 "toast": {
                   "success": {
-                    "default": "Successfully the Subscribe config."
+                    "default": "Konfigurace odběru úspěšná uložena."
                   },
                   "error": {
-                    "default": "There was an error saving the Subscribe config."
+                    "default": "Při ukládání konfigurace odběru nastala chyba."
                   }
                 },
-                "label": "Save config"
+                "label": "Uložit konfiguraci"
               }
             }
           }
         },
         "index": {
           "config": {
-            "title": "Alerts Config",
-            "description": "General configuration for all alerts.",
+            "title": "Nastavení oznámení",
+            "description": "Obecná konfigurace pro všechna upozornění.",
             "form": {
               "delay": {
-                "label": "Delay",
-                "description": "How long until we show received alert."
+                "label": "Zpoždění",
+                "description": "Jak dlouho čekat před zobrazením upozornění."
               },
               "parries": {
-                "label": "Alert Parries",
-                "description": "Whether new alerts should interrupt the on screen alert."
+                "label": "Blokace upozornění",
+                "description": "Zda by nová upozornění měla přerušit aktuální upozornění na obrazovce."
               },
               "profanity-filter": {
-                "label": "Profanity Filter",
-                "description": "Whether to censor bad words in messages."
+                "label": "Filtr vulgarit",
+                "description": "Zda cenzurovat špatná slova ve zprávách."
               },
               "bad-words": {
-                "label": "Bad Words",
-                "description": "List of bad words to censor in messages.",
+                "label": "Špatná slova",
+                "description": "Seznam špatných slov pro cenzuru zpráv.",
                 "button": {
                   "select": {
-                    "label": "Select bad words",
-                    "searchable-placeholder": "Search or create...",
-                    "create-placeholder": "Add '{word}'"
+                    "label": "Vyberte špatná slova",
+                    "searchable-placeholder": "Hledat nebo vytvořit...",
+                    "create-placeholder": "Přidat '{word}'"
                   }
                 }
               }
             },
             "button": {
               "save": {
-                "label": "Save config",
+                "label": "Uložit konfiguraci",
                 "toast": {
                   "success": {
-                    "default": "Successfully updated the alerts config."
+                    "default": "Konfigurace upozornění byla úspěšně aktualizována."
                   },
                   "error": {
-                    "default": "There was an error while saving the alerts config."
+                    "default": "Při ukládání nastavení upozornění došlo k chybě."
                   }
                 }
               }
@@ -815,26 +815,26 @@
     },
     "components": {
       "alerts": {
-        "title": "Received alerts",
+        "title": "Přijatá upozornění",
         "alerts-table": {
           "table": {
             "column": {
               "type": {
-                "label": "Type"
+                "label": "Typ"
               },
               "message": {
-                "label": "Message"
+                "label": "Zpráva"
               }
             },
             "button": {
               "resend": {
-                "label": "Send again",
+                "label": "Poslat znovu",
                 "toast": {
                   "success": {
-                    "default": "Alert was successfully re-sent."
+                    "default": "Upozornění bylo úspěšně odesláno."
                   },
                   "error": {
-                    "default": "There was an error while resending the alert."
+                    "default": "Při opětovném odesílání upozornění došlo k chybě."
                   }
                 }
               }
@@ -846,11 +846,11 @@
         "button": {
           "copy": {
             "click": {
-              "label": "Copied!"
+              "label": "Zkopírováno!"
             },
             "toast": {
               "success": {
-                "default": "Copied to clipboard!"
+                "default": "Zkopírováno do schránky!"
               }
             }
           }
