@@ -107,6 +107,14 @@
             "title": "Config",
             "description": "Configuration for Subscribe alerts.",
             "form": {
+              "text-font": {
+                "label": "Text font",
+                "description": "What font should the text use."
+              },
+              "text-size": {
+                "label": "Text size",
+                "description": "Size of the displayed text."
+              },
               "message": {
                 "label": "Message",
                 "description": "Available parameters: {'{buyerName}'} - name of the buyer, {'{productName}'} - name of the product, {'{productPrice}'} - price of the product."
@@ -115,6 +123,7 @@
                 "label": "Sound",
                 "button": {
                   "upload": {
+                    "label": "Upload sound",
                     "toast": {
                       "success": {
                         "default": "Successfully uploaded '{name}'."
@@ -130,6 +139,7 @@
                 "label": "Image",
                 "button": {
                   "upload": {
+                    "label": "Upload image",
                     "toast": {
                       "success": {
                         "default": "Successfully uploaded '{name}'."
