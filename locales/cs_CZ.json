@@ -107,6 +107,14 @@
             "title": "Konfigurace",
             "description": "Konfigurace pro upozornění o odběru.",
             "form": {
+              "text-font": {
+                "label": "Text font",
+                "description": "What font should the text use."
+              },
+              "text-size": {
+                "label": "Text size",
+                "description": "Size of the displayed text."
+              },
               "message": {
                 "label": "Zpráva",
                 "description": "Dostupné parametry: {'{buyerName}'} - jméno kupujícího, {'{productName}'} - název produktu, {'{productPrice}'} - cena produktu."
@@ -115,6 +123,7 @@
                 "label": "Zvuk",
                 "button": {
                   "upload": {
+                    "label": "Upload sound",
                     "toast": {
                       "success": {
                         "default": "Úspěšně nahráno '{name}'."
@@ -130,6 +139,7 @@
                 "label": "Obrázek",
                 "button": {
                   "upload": {
+                    "label": "Upload image",
                     "toast": {
                       "success": {
                         "default": "Úspěšně nahráno '{name}'."
