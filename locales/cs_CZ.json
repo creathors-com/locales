@@ -167,15 +167,7 @@
             },
             "button": {
               "test": {
-                "label": "Poslat zkoušku",
-                "toast": {
-                  "success": {
-                    "default": "Successfully sent a test alert."
-                  },
-                  "error": {
-                    "default": "There was an error sending a test alert."
-                  }
-                }
+                "label": "Poslat zkoušku"
               },
               "save": {
                 "toast": {
