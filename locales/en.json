@@ -167,15 +167,7 @@
             },
             "button": {
               "test": {
-                "label": "Send test",
-                "toast": {
-                  "success": {
-                    "default": "Successfully sent a test alert."
-                  },
-                  "error": {
-                    "default": "There was an error sending a test alert."
-                  }
-                }
+                "label": "Send test"
               },
               "save": {
                 "toast": {
