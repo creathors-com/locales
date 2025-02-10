@@ -112,62 +112,70 @@
                 "description": "Dostupné parametry: {'{buyerName}'} - jméno kupujícího, {'{productName}'} - název produktu, {'{productPrice}'} - cena produktu."
               },
               "sound": {
-                "label": "Sound",
+                "label": "Zvuk",
                 "button": {
                   "upload": {
                     "toast": {
                       "success": {
-                        "default": "Successfully uploaded '{name}'."
+                        "default": "Úspěšně nahráno '{name}'."
                       },
                       "error": {
-                        "default": "There was an error uploading '{name}'."
+                        "default": "Došlo k chybě při nahrávání '{name}'."
                       }
                     }
                   }
                 }
               },
               "image": {
-                "label": "Image",
+                "label": "Obrázek",
                 "button": {
                   "upload": {
                     "toast": {
                       "success": {
-                        "default": "Successfully uploaded '{name}'."
+                        "default": "Úspěšně nahráno '{name}'."
                       },
                       "error": {
-                        "default": "There was an error uploading '{name}'."
+                        "default": "Došlo k chybě při nahrávání '{name}'."
                       }
                     }
                   }
                 }
               },
               "text-color": {
-                "label": "Text color",
-                "description": "HEX color for the text."
+                "label": "Barva textu",
+                "description": "HEX barva pro text."
               },
               "highlight-color": {
-                "label": "Highlight color",
-                "description": "HEX color for parameters in the text."
+                "label": "Barva zvýraznění",
+                "description": "HEX barva pro parametry v textu."
               },
               "image-position": {
-                "label": "Image position",
-                "description": "Where should the image be positioned.",
+                "label": "Pozice obrázku",
+                "description": "Kde by měl být obrázek umístěn.",
                 "options": {
                   "ABOVE_TEXT": {
-                    "label": "Above text"
+                    "label": "Nad textem"
                   },
                   "OVER_TEXT": {
-                    "label": "Over text"
+                    "label": "Přes text"
                   },
                   "LEFT_TO_TEXT": {
-                    "label": "Left to text"
+                    "label": "Zleva k textu"
                   }
                 }
               }
             },
             "button": {
               "test": {
-                "label": "Poslat zkoušku"
+                "label": "Poslat zkoušku",
+                "toast": {
+                  "success": {
+                    "default": "Successfully sent a test alert."
+                  },
+                  "error": {
+                    "default": "There was an error sending a test alert."
+                  }
+                }
               },
               "save": {
                 "toast": {
@@ -1503,7 +1511,7 @@
       "string": {
         "email": "Prosím, zadejte platnou e-mailovou adresu.",
         "max": "Toto pole může mít maximálně ${'{max}'} znaků.",
-        "matches": "Field doesn't match required format!"
+        "matches": "Pole neodpovídá požadovanému formátu!"
       },
       "number": {
         "integer": "Musí být celé číslo.",
