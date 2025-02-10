@@ -108,12 +108,12 @@
             "description": "Konfigurace pro upozornění o odběru.",
             "form": {
               "text-font": {
-                "label": "Text font",
-                "description": "What font should the text use."
+                "label": "Font písma",
+                "description": "Jaký font by měl text používat."
               },
               "text-size": {
-                "label": "Text size",
-                "description": "Size of the displayed text."
+                "label": "Velikost písma",
+                "description": "Velikost zobrazeného textu."
               },
               "message": {
                 "label": "Zpráva",
@@ -123,7 +123,7 @@
                 "label": "Zvuk",
                 "button": {
                   "upload": {
-                    "label": "Upload sound",
+                    "label": "Nahrát zvuk",
                     "toast": {
                       "success": {
                         "default": "Úspěšně nahráno '{name}'."
@@ -139,7 +139,7 @@
                 "label": "Obrázek",
                 "button": {
                   "upload": {
-                    "label": "Upload image",
+                    "label": "Nahrát obrázek",
                     "toast": {
                       "success": {
                         "default": "Úspěšně nahráno '{name}'."
