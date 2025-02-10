@@ -170,10 +170,10 @@
                 "label": "Poslat zkoušku",
                 "toast": {
                   "success": {
-                    "default": "Successfully sent a test alert."
+                    "default": "Testovací upozornění bylo úspěšně odesláno."
                   },
                   "error": {
-                    "default": "There was an error sending a test alert."
+                    "default": "Při odesílání oznámení došlo k chybě."
                   }
                 }
               },
