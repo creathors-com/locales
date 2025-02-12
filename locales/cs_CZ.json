@@ -1312,7 +1312,7 @@
               "label": "Video",
               "divider": {
                 "unused": {
-                  "label": "Or"
+                  "label": "Nebo"
                 }
               },
               "button": {
@@ -1328,7 +1328,7 @@
                   }
                 },
                 "unused": {
-                  "label": "Choose from uploaded files"
+                  "label": "Vybrat z nahraných souborů"
                 }
               }
             },
