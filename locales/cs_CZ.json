@@ -133,8 +133,8 @@
                 "description": "Velikost zobrazeného textu."
               },
               "text-font": {
-                "label": "Text font",
-                "description": "What font should the text use."
+                "label": "Font písma",
+                "description": "Jaký font by měl text používat."
               }
             },
             "button": {
