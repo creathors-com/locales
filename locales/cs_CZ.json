@@ -63,7 +63,7 @@
           "label": "Dokumentace"
         },
         "labels": {
-          "label": "Labels"
+          "label": "Popisky"
         }
       },
       "settings": {
@@ -107,38 +107,42 @@
       "alerts": {
         "labels": {
           "SUBSCRIBERS_LATEST_NAME": {
-            "title": "Latest subscriber name",
-            "description": "Name of the latest subscriber"
+            "title": "Jméno posledního předplatitele",
+            "description": "Jméno posledního účastníka"
           },
           "SUBSCRIBERS_COUNT": {
-            "title": "Subscribers count",
-            "description": "Current count of unique subscribers"
+            "title": "Počet Předplatitelů",
+            "description": "Aktuální počet unikátních předplatitelů"
           },
           "config": {
             "form": {
               "message": {
-                "label": "Message",
-                "description": "Full message of the label. Use '{'{value}'}' for the actual value of the label."
+                "label": "Zpráva",
+                "description": "Úplná zpráva popisku. Použijte '{'{value}'}' pro aktuální hodnotu."
               },
               "text-color": {
-                "label": "Text color",
-                "description": "HEX color for the text."
+                "label": "Barva textu",
+                "description": "HEX barva textu."
               },
               "highlight-color": {
-                "label": "Highlight color",
-                "description": "HEX color for parameters in the text."
+                "label": "Barva zvýraznění",
+                "description": "HEX barva pro parametry v textu."
               },
               "text-size": {
-                "label": "Text size",
-                "description": "Size of the displayed text."
+                "label": "Velikost písma",
+                "description": "Velikost zobrazeného textu."
+              },
+              "text-font": {
+                "label": "Text font",
+                "description": "What font should the text use."
               }
             },
             "button": {
               "save": {
-                "label": "Save configuration",
+                "label": "Uložit nastavení",
                 "toast": {
                   "success": {
-                    "default": "Successfully saved the label configuration."
+                    "default": "Nastavení popisku bylo úspěšně uloženo."
                   }
                 }
               }
