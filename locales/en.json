@@ -61,6 +61,9 @@
         },
         "documentation": {
           "label": "Documentation"
+        },
+        "labels": {
+          "label": "Labels"
         }
       },
       "settings": {
@@ -102,6 +105,46 @@
     },
     "pages": {
       "alerts": {
+        "labels": {
+          "SUBSCRIBERS_LATEST_NAME": {
+            "title": "Latest subscriber name",
+            "description": "Name of the latest subscriber"
+          },
+          "SUBSCRIBERS_COUNT": {
+            "title": "Subscribers count",
+            "description": "Current count of unique subscribers"
+          },
+          "config": {
+            "form": {
+              "message": {
+                "label": "Message",
+                "description": "Full message of the label. Use '{'{value}'}' for the actual value of the label."
+              },
+              "text-color": {
+                "label": "Text color",
+                "description": "HEX color for the text."
+              },
+              "highlight-color": {
+                "label": "Highlight color",
+                "description": "HEX color for parameters in the text."
+              },
+              "text-size": {
+                "label": "Text size",
+                "description": "Size of the displayed text."
+              }
+            },
+            "button": {
+              "save": {
+                "label": "Save configuration",
+                "toast": {
+                  "success": {
+                    "default": "Successfully saved the label configuration."
+                  }
+                }
+              }
+            }
+          }
+        },
         "subscribe": {
           "config": {
             "title": "Config",
