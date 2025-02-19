@@ -131,6 +131,10 @@
               "text-size": {
                 "label": "Text size",
                 "description": "Size of the displayed text."
+              },
+              "text-font": {
+                "label": "Text font",
+                "description": "What font should the text use."
               }
             },
             "button": {
