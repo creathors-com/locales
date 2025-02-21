@@ -143,6 +143,9 @@
                 "toast": {
                   "success": {
                     "default": "Nastavení popisku bylo úspěšně uloženo."
+                  },
+                  "error": {
+                    "default": "There was an error while saving the label configuration."
                   }
                 }
               }
