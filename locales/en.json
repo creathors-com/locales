@@ -143,6 +143,9 @@
                 "toast": {
                   "success": {
                     "default": "Successfully saved the label configuration."
+                  },
+                  "error": {
+                    "default": "There was an error while saving the label configuration."
                   }
                 }
               }
