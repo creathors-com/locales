@@ -15,6 +15,9 @@
             "links": {
               "help-and-support": {
                 "label": "Help & Support"
+              },
+              "documentation": {
+                "label": "Documentation"
               }
             }
           },
@@ -52,7 +55,7 @@
     },
     "navigation": {
       "alerts": {
-        "label": "Alerts",
+        "label": "Live Alerts",
         "general": {
           "label": "General"
         },
@@ -569,11 +572,13 @@
             "button": {
               "save": {
                 "label": "Save company",
-                "success": {
-                  "default": "Successfully saved company details."
-                },
-                "error": {
-                  "default": "Something went wrong while saving company details."
+                "toast": {
+                  "success": {
+                    "default": "Successfully saved company details."
+                  },
+                  "error": {
+                    "default": "Something went wrong while saving company details."
+                  }
                 }
               }
             }
@@ -683,11 +688,14 @@
                   "label": "Exclusive"
                 }
               }
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
             "delete": {
-              "label": "Delete tier | Delete tier | Delete {n} tiers",
+              "label": "Delete",
               "confirm": {
                 "title": "Delete tier | Delete {n} tiers",
                 "description": "Are you sure you want to delete the tier? | Are you sure you want to delete {n} tiers?"
@@ -766,6 +774,9 @@
                   "label": "Unlimited uses"
                 }
               }
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
@@ -773,7 +784,7 @@
               "label": "Edit"
             },
             "delete": {
-              "label": "Delete coupon | Delete coupon | Delete {n} coupons",
+              "label": "Delete",
               "confirm": {
                 "title": "Delete coupon | Delete {n} coupons",
                 "description": "Are you sure you want to delete the coupon? | Are you sure you want to delete {n} coupons?"
@@ -824,14 +835,20 @@
             },
             "created-at": {
               "label": "Created at"
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
+            "stats": {
+              "label": "Statistics"
+            },
             "edit": {
               "label": "Edit"
             },
             "delete": {
-              "label": "Delete post | Delete post | Delete {n} posts",
+              "label": "Delete",
               "confirm": {
                 "title": "Delete post | Delete {n} posts",
                 "description": "Are you sure you want to delete the post? | Are you sure you want to delete {n} posts?"
@@ -844,6 +861,9 @@
                   "default": "Couldn't delete post '{name}'."
                 }
               }
+            },
+            "preview": {
+              "label": "Preview"
             }
           }
         },
@@ -899,11 +919,14 @@
             },
             "uses": {
               "label": "Uses"
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
             "delete": {
-              "label": "Delete tag | Delete tag | Delete {n} tags",
+              "label": "Delete",
               "confirm": {
                 "title": "Delete tag | Delete {n} tags",
                 "description": "Are you sure you want to delete the tag? | Are you sure you want to delete {n} tags?"
@@ -1004,9 +1027,32 @@
         "signed-in-as": "Signed in as",
         "sign-out": "Sign out",
         "settings": "Settings",
+        "payments": "Payments",
         "help-and-support": "Help & Support",
         "documentation": "Documentation",
-        "command-menu": "Command Menu"
+        "command-menu": "Command Menu",
+        "language": {
+          "label": "Language",
+          "options": {
+            "EN": {
+              "label": "English"
+            },
+            "CS": {
+              "label": "Czech"
+            }
+          }
+        },
+        "appearance": {
+          "label": "Appearance",
+          "options": {
+            "light": {
+              "label": "Light"
+            },
+            "dark": {
+              "label": "Dark"
+            }
+          }
+        }
       },
       "home": {
         "home-stat-type-select": {
@@ -1346,7 +1392,15 @@
               "label": "Image",
               "button": {
                 "upload": {
-                  "label": "Choose image"
+                  "label": "Choose image",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully uploaded post image."
+                    },
+                    "error": {
+                      "default": "There was an error uploading post image."
+                    }
+                  }
                 }
               }
             },
@@ -1355,6 +1409,14 @@
               "button": {
                 "upload": {
                   "label": "Choose audio file"
+                },
+                "toast": {
+                  "success": {
+                    "default": "Successfully uploaded post audio."
+                  },
+                  "error": {
+                    "default": "There was an error uploading post audio."
+                  }
                 }
               }
             },
@@ -1414,6 +1476,9 @@
               }
             },
             "button": {
+              "preview": {
+                "label": "Preview"
+              },
               "cancel": {
                 "label": "Cancel"
               },
