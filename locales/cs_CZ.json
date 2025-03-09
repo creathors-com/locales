@@ -15,6 +15,9 @@
             "links": {
               "help-and-support": {
                 "label": "Nápověda & Podpora"
+              },
+              "documentation": {
+                "label": "Documentation"
               }
             }
           },
@@ -569,11 +572,13 @@
             "button": {
               "save": {
                 "label": "Uložit společnost",
-                "success": {
-                  "default": "Údaje o společnosti byly úspěšně uloženy."
-                },
-                "error": {
-                  "default": "Při ukládání údajů o společnosti nastala chyba."
+                "toast": {
+                  "success": {
+                    "default": "Successfully saved company details."
+                  },
+                  "error": {
+                    "default": "Something went wrong while saving company details."
+                  }
                 }
               }
             }
@@ -683,6 +688,9 @@
                   "label": "Exkluzivní"
                 }
               }
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
@@ -766,6 +774,9 @@
                   "label": "Neomezená použití"
                 }
               }
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
@@ -824,9 +835,15 @@
             },
             "created-at": {
               "label": "Datum vytvoření"
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
+            "stats": {
+              "label": "Statistics"
+            },
             "edit": {
               "label": "Upravit"
             },
@@ -844,6 +861,9 @@
                   "default": "Nepodařilo se odstranit příspěvek '{name}'."
                 }
               }
+            },
+            "preview": {
+              "label": "Preview"
             }
           }
         },
@@ -899,6 +919,9 @@
             },
             "uses": {
               "label": "Využití"
+            },
+            "actions": {
+              "label": "Actions"
             }
           },
           "button": {
@@ -1004,9 +1027,32 @@
         "signed-in-as": "Přihlášen/a jako",
         "sign-out": "Odhlásit se",
         "settings": "Nastavení",
+        "payments": "Payments",
         "help-and-support": "Nápověda & Podpora",
         "documentation": "Dokumentace",
-        "command-menu": "Nabídka příkazů"
+        "command-menu": "Nabídka příkazů",
+        "language": {
+          "label": "Language",
+          "options": {
+            "EN": {
+              "label": "English"
+            },
+            "CS": {
+              "label": "Czech"
+            }
+          }
+        },
+        "appearance": {
+          "label": "Appearance",
+          "options": {
+            "light": {
+              "label": "Light"
+            },
+            "dark": {
+              "label": "Dark"
+            }
+          }
+        }
       },
       "home": {
         "home-stat-type-select": {
@@ -1346,7 +1392,15 @@
               "label": "Obrázek",
               "button": {
                 "upload": {
-                  "label": "Zvolte obrázek"
+                  "label": "Zvolte obrázek",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully uploaded post image."
+                    },
+                    "error": {
+                      "default": "There was an error uploading post image."
+                    }
+                  }
                 }
               }
             },
@@ -1355,6 +1409,14 @@
               "button": {
                 "upload": {
                   "label": "Zvolte zvukový soubor"
+                },
+                "toast": {
+                  "success": {
+                    "default": "Successfully uploaded post audio."
+                  },
+                  "error": {
+                    "default": "There was an error uploading post audio."
+                  }
                 }
               }
             },
@@ -1414,6 +1476,9 @@
               }
             },
             "button": {
+              "preview": {
+                "label": "Preview"
+              },
               "cancel": {
                 "label": "Zrušit"
               },
