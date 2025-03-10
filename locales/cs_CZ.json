@@ -1398,7 +1398,7 @@
                       "default": "Obrázek příspěvku byl úspěšně nahrán."
                     },
                     "error": {
-                      "default": "There was an error uploading post image."
+                      "default": "Při nahrávání obrázku příspěvku došlo k chybě."
                     }
                   }
                 }
@@ -1412,10 +1412,10 @@
                 },
                 "toast": {
                   "success": {
-                    "default": "Successfully uploaded post audio."
+                    "default": "Zvuk příspěvku byl úspěšně nahrán."
                   },
                   "error": {
-                    "default": "There was an error uploading post audio."
+                    "default": "Došlo k chybě při nahrávání zvuku."
                   }
                 }
               }
@@ -1477,7 +1477,7 @@
             },
             "button": {
               "preview": {
-                "label": "Preview"
+                "label": "Náhled"
               },
               "cancel": {
                 "label": "Zrušit"
