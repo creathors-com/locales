@@ -17,7 +17,7 @@
                 "label": "Nápověda & Podpora"
               },
               "documentation": {
-                "label": "Documentation"
+                "label": "Dokumentace"
               }
             }
           },
@@ -148,7 +148,7 @@
                     "default": "Nastavení popisku bylo úspěšně uloženo."
                   },
                   "error": {
-                    "default": "There was an error while saving the label configuration."
+                    "default": "Při ukládání konfigurace štítku došlo k chybě."
                   }
                 }
               }
@@ -574,10 +574,10 @@
                 "label": "Uložit společnost",
                 "toast": {
                   "success": {
-                    "default": "Successfully saved company details."
+                    "default": "Údaje o společnosti byly úspěšně uloženy."
                   },
                   "error": {
-                    "default": "Something went wrong while saving company details."
+                    "default": "Při ukládání údajů o společnosti nastala chyba."
                   }
                 }
               }
@@ -690,7 +690,7 @@
               }
             },
             "actions": {
-              "label": "Actions"
+              "label": "Akce"
             }
           },
           "button": {
@@ -776,7 +776,7 @@
               }
             },
             "actions": {
-              "label": "Actions"
+              "label": "Akce"
             }
           },
           "button": {
@@ -837,12 +837,12 @@
               "label": "Datum vytvoření"
             },
             "actions": {
-              "label": "Actions"
+              "label": "Akce"
             }
           },
           "button": {
             "stats": {
-              "label": "Statistics"
+              "label": "Statistiky"
             },
             "edit": {
               "label": "Upravit"
@@ -863,7 +863,7 @@
               }
             },
             "preview": {
-              "label": "Preview"
+              "label": "Náhled"
             }
           }
         },
@@ -921,7 +921,7 @@
               "label": "Využití"
             },
             "actions": {
-              "label": "Actions"
+              "label": "Akce"
             }
           },
           "button": {
@@ -1027,29 +1027,29 @@
         "signed-in-as": "Přihlášen/a jako",
         "sign-out": "Odhlásit se",
         "settings": "Nastavení",
-        "payments": "Payments",
+        "payments": "Platby",
         "help-and-support": "Nápověda & Podpora",
         "documentation": "Dokumentace",
         "command-menu": "Nabídka příkazů",
         "language": {
-          "label": "Language",
+          "label": "Jazyk",
           "options": {
             "EN": {
-              "label": "English"
+              "label": "Angličtina"
             },
             "CS": {
-              "label": "Czech"
+              "label": "Čeština"
             }
           }
         },
         "appearance": {
-          "label": "Appearance",
+          "label": "Vzhled",
           "options": {
             "light": {
-              "label": "Light"
+              "label": "Světlý"
             },
             "dark": {
-              "label": "Dark"
+              "label": "Tmavý"
             }
           }
         }
@@ -1395,7 +1395,7 @@
                   "label": "Zvolte obrázek",
                   "toast": {
                     "success": {
-                      "default": "Successfully uploaded post image."
+                      "default": "Obrázek příspěvku byl úspěšně nahrán."
                     },
                     "error": {
                       "default": "There was an error uploading post image."
