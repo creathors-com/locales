@@ -905,13 +905,13 @@
           "warning": "Ujistěte se, že jste vybrali svou zemi. Později si ji nebudete moci změnit a nesprávná volba může způsobit nepoužitelnost Vašeho účtu."
         },
         "balance-card": {
-          "title": "Balance - {currency}",
+          "title": "Zůstatek - {currency}",
           "minimum": {
-            "monthly": "Minimum for monthly payout:",
-            "instant": "Minimum for instant payout:"
+            "monthly": "Minimální částka pro měsíční výplatu:",
+            "instant": "Minimum pro okamžitou výplatu:"
           },
           "fee": {
-            "instant": "Instant payout fee:"
+            "instant": "Poplatek za okamžitou výplatu:"
           }
         }
       },
