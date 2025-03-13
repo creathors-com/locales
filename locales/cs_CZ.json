@@ -903,6 +903,16 @@
           "description": "Musíte vytvořit a připojit Stripe účet, abyste mohli přijímat výplaty. Začněte proces nastavení nyní.",
           "button": "Vytvořit Stripe účet",
           "warning": "Ujistěte se, že jste vybrali svou zemi. Později si ji nebudete moci změnit a nesprávná volba může způsobit nepoužitelnost Vašeho účtu."
+        },
+        "balance-card": {
+          "title": "Balance - {currency}",
+          "minimum": {
+            "monthly": "Minimum for monthly payout:",
+            "instant": "Minimum for instant payout:"
+          },
+          "fee": {
+            "instant": "Instant payout fee:"
+          }
         }
       },
       "tags": {
