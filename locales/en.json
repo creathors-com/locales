@@ -1618,33 +1618,10 @@
         }
       }
     },
-    "navbar": {
-      "creators": "Discover",
-      "pricing": "Pricing",
-      "search-creators": "Search creators...",
-      "sign-in": "Sign in",
-      "get-started": "Get started",
-      "to-dashboard": "Go to dashboard"
-    },
-    "cta": {
-      "subtitle": "Cultivate Connections, Stress-Free.",
-      "title": "Seize the Moment, Elevate Your Business.",
-      "paragraph": "Unleash the full potential of your creative enterprise. Engage and grow your audience with enticing public previews of your podcasts and videos. Welcome fans into your community at no initial cost, offering a taste of your unique content with the freedom to upgrade anytime. Embrace effortless growth, without the worry.",
-      "button": "Embrace Your Audience"
-    },
-    "footer": {
-      "privacy": "Privacy Policy",
-      "tos": "Terms of Service",
-      "reserved": "All rights reserved."
-    },
     "phrases": {
       "all": "All",
       "month": "month",
       "empty": "empty"
-    },
-    "title": {
-      "index": "Home",
-      "creators": "Discover"
     },
     "validation": {
       "mixed": {
@@ -1664,660 +1641,180 @@
       "date": {
         "is-future": "Date must be in future."
       }
-    },
-    "combobox": {
-      "empty": "No options"
-    },
-    "confirm": {
-      "title": "Are you sure?",
-      "description": "This action is irreversible, selected data will be deleted. There is no coming back.",
-      "yes": "Yes",
-      "no": "No"
-    },
-    "upload": {
-      "pending": "Uploading...",
-      "success": "Upload finished successfully!",
-      "error": "Upload failed, try again please."
-    }
-  },
-  "pricing": {
-    "hero": {
-      "subtitle": "Unbeatable Value, Exceptional Service",
-      "paragraph": "At Creathors, we believe in offering transparent and fair pricing. Our 9% (75¢ minimum) (*0% for direct donations) commission on all payments is among the most competitive in the industry. No hidden fees, no surprises—just straightforward pricing that supports your growth.",
-      "detail": "Want an even better deal? Reach out to us at"
     }
   },
   "landing": {
-    "hero": {
-      "subtitle": "Complete creative control",
-      "title": "Everything you need to make money doing what you love",
-      "paragraph": "Empower your creativity on a platform that values your work. With low fees, customizable pages, and direct engagement tools, we make monetizing your passion simple and rewarding. Join a community where every creator has a voice, and start building your success story today.",
-      "button": "Get Started Now",
-      "happy-customers": "Happy Creatives",
-      "rating": "Rating"
-    },
-    "features": {
-      "1": {
-        "subtitle": "Step 1: Create Your Account",
-        "title": "Begin Your Creator Journey",
-        "paragraph": "Dive into an inclusive platform where creativity meets opportunity. With a competitive 0-9% fee, our platform is designed for creators of all types. Engage your audience with polls, Q&A sessions, and private messaging, all while enjoying a lucrative return on your hard work. Transform your passion into profit in a community that celebrates creativity.",
-        "button": "Start your journey"
+    "components": {
+      "cheapest-product-description": {
+        "description": "Starting from {price}/{period}",
+        "free": "Free"
       },
-      "2": {
-        "subtitle": "Step 2: Customize Your Space",
-        "title": "Make Your Space Yours",
-        "paragraph": "Stand out with a page that mirrors your unique creativity. Customize your logo and background, and offer diverse content through unlimited tiers. Connect deeply with your audience using interactive polls and Q&A sessions. Your space is more than a display of work; it's a community ready to grow with you.",
-        "button": "Create your space"
-      },
-      "3": {
-        "subtitle": "Step 3: Share Your Work",
-        "title": "Connect & Grow",
-        "paragraph": "Let your creativity flow and captivate your audience. Share images, text, and videos effortlessly, enriching each post with the chance to inspire and engage. Foster a vibrant community with direct communication through private messages. Leverage interactive features to tailor content to audience preferences, turning your passion into a thriving career.",
-        "button": "Connect with your audience"
-      }
-    },
-    "testimonials": {
-      "subtitle": "Testimonials",
-      "title": "What they say about us"
-    }
-  },
-  "creators": {
-    "not-found": "Creator wasn't found!",
-    "subtitle": "Complete creative control",
-    "title": "Monetize Your Passion with Ease",
-    "paragraph": "At Creathors, we elevate your passion into profit without the clutter of ads. Our membership model fosters a vibrant community focused on high-quality content and genuine interactions. Enjoy the freedom to create and connect, offering exclusive content and perks that keep you inspired. Join us and keep the creativity flowing.",
-    "find-creators": "Find your creator...",
-    "find-button": "Search",
-    "popular-tags": "Popular Tags:",
-    "creators": "Creators",
-    "region": "Region",
-    "view-more": "View more",
-    "view": "View Profile",
-    "starting-from": "Starting from",
-    "free": "Free",
-    "tier": {
-      "tier": "TIER",
-      "join": "Join Now"
-    },
-    "donation": {
-      "button": "Support with donation",
-      "name": {
-        "label": "Name / Nickname",
-        "placeholder": "John"
-      },
-      "amount": {
-        "label": "Amount",
-        "placeholder": "5.00"
-      },
-      "currency": {
-        "label": "Currency"
-      },
-      "message": {
-        "label": "Message",
-        "placeholder": "Keep up the good work!"
-      },
-      "success": "Donation successfully sent!"
-    },
-    "subscribers": "Subscribers",
-    "subscriber": "Subscriber"
-  },
-  "posts": {
-    "join": "Join",
-    "title": "All Posts",
-    "type": "Type",
-    "types": {
-      "text": "Text",
-      "image": "Image",
-      "video": "Video",
-      "audio": "Audio"
-    },
-    "tier": "Tier",
-    "locked": "to view this post you have to log in",
-    "buyTier": "Buy tier to unlock",
-    "or": "Or",
-    "notFound": "Wow, such empty...",
-    "ppv": {
-      "unlock": "Unlock post for"
-    },
-    "tag": "Tag"
-  },
-  "post": {
-    "comments": "Comments",
-    "placeholder": "Type your comment here",
-    "send": "Send",
-    "reply": "Reply",
-    "replies": "Replies",
-    "login": "Log in to view this post",
-    "add-comment": {
-      "success": "Comment posted.",
-      "failed": "Error occured, comment wasn't posted."
-    },
-    "delete": {
-      "success": "Post successfully deleted!",
-      "failed": "Error occured, post wasn't deleted."
-    }
-  },
-  "settings": {
-    "tagLabels": {
-      "undefined": "No tags",
-      "youtube": "YouTube",
-      "twitch": "Stream",
-      "podcasts": "Podcasts",
-      "tipstricks": "Tips & Tricks",
-      "guides": "Guides",
-      "cooking": "Cooking",
-      "graphics": "Graphics",
-      "videoediting": "Video Editing",
-      "3dmodeling": "3D Modeling",
-      "education": "Education",
-      "programming": "Programming",
-      "automotive": "Automotive",
-      "photography": "Photography",
-      "videoproduction": "Video Production",
-      "finance": "Finance",
-      "investing": "Investing",
-      "music": "Music"
-    },
-    "form": {
-      "username": "Username",
-      "username-placeholder": "JohnsVideos",
-      "givenName": "Given name",
-      "givenName-placeholder": "John",
-      "lastName": "Last name",
-      "lastName-placeholder": "Doe",
-      "description": "Description",
-      "description-placeholder": "Let others know more about you..",
-      "city": "City",
-      "country": "Country",
-      "line1": "Line 1",
-      "line2": "Line 2",
-      "postalCode": "Postal Code",
-      "state": "State",
-      "uploadAvatar": "Upload avatar",
-      "uploadTitleImage": "Upload title image",
-      "browse": "Browse",
-      "createTag": "CREATE TAG",
-      "select": "Select",
-      "file": {
-        "supported": "Supported types",
-        "max": "Maximum size",
-        "tooLarge": "File is too large to upload."
-      },
-      "mainTag": "Main tag",
-      "tags": "Tags"
-    },
-    "pictureUpload": {
-      "success": "Profile picture changed successfully!",
-      "error": "There was a problem uploading your profile picture."
-    },
-    "backgroundUpload": {
-      "success": "Profile background changed successfully!",
-      "error": "There was a problem uploading your profile background."
-    },
-    "conflict": {
-      "username": "Username is taken.",
-      "email": "Email is taken."
-    },
-    "saved": "Settings saved!",
-    "saving": {
-      "tags": {
-        "pending": "Saving tags...",
-        "success": "Tags saved!",
-        "error": "Error occured, tags weren't saved..."
-      },
-      "socials": {
-        "pending": "Saving socials...",
-        "success": "Socials saved!",
-        "error": "Error occured, socials weren't saved..."
-      },
-      "profile": {
-        "pending": "Saving profile...",
-        "success": "Profile saved!",
-        "error": "Error occured, profile wasn't saved..."
-      },
-      "address": {
-        "pending": "Saving address...",
-        "success": "Address saved!",
-        "error": "Error occured, address wasn't saved..."
-      }
-    },
-    "heading": {
-      "props": "Tags",
-      "info": "Profile",
-      "address": "Address",
-      "socials": "Socials",
-      "emails": {
-        "notifications": "Notifications"
-      },
-      "payments": {
-        "subscriptions": "Subscriptions",
-        "invoices": "Invoices"
-      }
-    },
-    "settings": "Settings",
-    "profile-info": "Profile information",
-    "upload-new-pfp": "Upload new picture",
-    "remove-pfp": "Remove",
-    "name": "Display name",
-    "email": "Email address",
-    "email-placeholder": "john.doe{'@'}example.com",
-    "save": "Save",
-    "password": "Password",
-    "old-pw": "Old password",
-    "new-pw": "New password",
-    "confirm-pw": "Confirm new password",
-    "change-pw": "Change password",
-    "logout": "Logout",
-    "knowledgebase": "Knowledge Base",
-    "subscriptions": "My subscriptions",
-    "posts": "Me",
-    "home": "Home",
-    "add": "New post",
-    "post": {
-      "publish": "Publish",
-      "post": "Post",
-      "upload": "Upload Thumbnail",
-      "image": "Image",
-      "video": "Video",
-      "audio": "Audio",
-      "ppv": {
-        "title": "Pay Per View",
-        "price": "Price",
-        "currency": "Currency"
-      },
-      "ownVideo": {
-        "done": "Done",
-        "uploading": "Uploading...",
-        "toast": {
-          "done": "Your video has finished uploading.",
-          "failed": "Error occured, your video wasn't uploaded.",
-          "delete": {
-            "success": "Video successfully deleted.",
-            "failed": "Error occured, video wasn't deleted."
+      "app-header": {
+        "links": {
+          "discover": {
+            "label": "Discover"
+          },
+          "pricing": {
+            "label": "Pricing"
+          },
+          "blog": {
+            "label": "Blog"
+          }
+        },
+        "button": {
+          "sign-in": {
+            "label": "Sign in"
+          },
+          "sign-up": {
+            "label": "Sign up"
+          },
+          "log-out": {
+            "label": "Log out"
+          },
+          "dashboard": {
+            "label": "Dashboard"
           }
         }
       },
-      "attachments": {
-        "title": "Upload Attachments",
-        "delete": {
-          "success": "Attachment successfully deleted.",
-          "failed": "Error occured, attachment wasn't deleted."
-        }
-      },
-      "title": {
-        "placeholder": "Insert title",
-        "name": "Title"
-      },
-      "text": {
-        "placeholder": "Type your text..."
-      },
-      "tags": {
-        "label": "Tags",
-        "placeholder": "Type tag..."
-      },
-      "tiers": {
-        "label": "Tiers",
-        "placeholder": "Type tier..."
-      },
-      "add-tag": "Add Tag",
-      "type-tag": "Type tag here..."
-    },
-    "tiers": {
-      "tiers": "Tiers",
-      "tier": "Tier",
-      "name": "Name",
-      "price": "Price",
-      "currency": "Currency",
-      "weight": "Weight",
-      "weight-tooltip": "Weight sets the order in which tiers are displayed.",
-      "name-placeholder": "VIP",
-      "description-placeholder": "Type your description here...",
-      "add": {
-        "success": "Tier successfully added!",
-        "error": "Error occured, tier wasn't added."
-      },
-      "update": {
-        "label": "Edit",
-        "success": "Tier updated!",
-        "error": "Error occured, tier wasn't updated."
-      },
-      "delete": {
-        "success": "Tier deleted!",
-        "error": "Error occured, tier wasn't deleted."
-      },
-      "label": {
-        "edit": "Edit tier",
-        "add": "Add tier"
-      },
-      "subscribers": {
-        "label": "{'{count}'} Subscribers",
-        "table": {
-          "head": {
-            "name": "Username",
-            "since": "Subscribing since"
+      "app-footer": {
+        "copyright": "Copyright © {year}. All rights reserved. ",
+        "columns": {
+          "resources": {
+            "label": "Resources",
+            "children": {
+              "support": {
+                "label": "Support"
+              },
+              "documentation": {
+                "label": "Documentation"
+              },
+              "roadmap": {
+                "label": "Roadmap"
+              },
+              "changelog": {
+                "label": "Changelog"
+              }
+            }
+          },
+          "company": {
+            "label": "Company",
+            "children": {
+              "about": {
+                "label": "About"
+              },
+              "pricing": {
+                "label": "Pricing"
+              },
+              "careers": {
+                "label": "Careers"
+              },
+              "blog": {
+                "label": "Blog"
+              }
+            }
           }
         }
       }
     },
-    "billing": {
-      "navItem": "Billing",
-      "heading": "Billing information",
-      "country": "Billing country",
-      "payoutOption": "Payout option",
-      "company": "Company details",
-      "companyName": "Company name",
-      "taxId": "Tax ID",
-      "taxIdType": "Tax ID type",
-      "options": {
-        "iban": "IBAN",
-        "routingNumber": "Routing number",
-        "bsbCode": "BSB Code",
-        "accountNumber": "Account number",
-        "email": "Email"
+    "pages": {
+      "discover": {
+        "hero": {
+          "headline": "Discover Amazing Creators",
+          "title": "Find Your Inspiration",
+          "description": "Explore a vibrant community of creators who turn their passions into extraordinary work. Dive into diverse art, stories, and innovations—all in one place.",
+          "links": {
+            "search": {
+              "placeholder": "Find your creator..",
+              "button": {
+                "label": "Search"
+              }
+            }
+          }
+        }
       },
-      "error": {
-        "WRONG_LENGTH": "IBAN has to be %d characters long.",
-        "NO_COUNTRY_CODE": "Country code is missing.",
-        "NO_COUNTRY_CODE_START": "IBAN must start with country code of selected country!",
-        "INVALID_EMAIL": "Email must be valid!",
-        "EMPTY_TAX_ID": "Tax ID is required.",
-        "INVALID_TAX_ID": "Tax ID doesn't match selected format.",
-        "FAILED_COMPANY": "There was a problem saving company details.",
-        "FAILED_NAME": "Error occured, couldn't save your name details."
-      },
-      "payouts": {
-        "bank": "Bank Account",
-        "paypal": "PayPal"
-      },
-      "success": {
-        "billing": "Successfully updated billing info!",
-        "address": "Successfully updated your address!"
-      },
-      "warning": {
-        "noAddress": "You have no address set!"
-      }
-    },
-    "payouts": {
-      "label": "Payouts",
-      "table": {
-        "tooltip": {
-          "amountOut": {
-            "gross": "Gross income:",
-            "fees": "Fees:",
-            "type": "Fee type",
-            "value": "Fee value",
-            "subtotal": "Subtotal",
-            "total": "Total:",
-            "feeTypes": {
-              "STRIPE_FEE": "Stripe fees",
-              "CUT": "Our cut"
+      "index": {
+        "hero": {
+          "headline": "Complete Creative Control",
+          "title": "Turn your passion into purpose",
+          "description": "Empower your creativity on a platform that values your work. With low fees, customizable pages, and direct engagement tools, we make monetizing your passion simple and rewarding. Join a community where every creator has a voice, and start building your success story today.",
+          "links": {
+            "cta": {
+              "label": {
+                "user": "Share Your Work",
+                "guest": "Get Started Now"
+              }
             }
           }
         },
-        "head": {
-          "amountOut": "Amount out",
-          "currency": "Currency",
-          "state": "State",
-          "stripeState": "Stripe state"
-        }
-      },
-      "states": {
-        "CREATED": {
-          "name": "Created",
-          "explain": "Payout has been created and we're waiting for it's arrival to us."
-        },
-        "PENDING": {
-          "name": "Pending",
-          "explain": "Payout is pending. We're waiting for the funds to be sent to us."
-        },
-        "PROCESSING": {
-          "name": "Processing",
-          "explain": "We're processing your payout. Making sure everything is fine."
-        },
-        "PAID": {
-          "name": "Paid",
-          "explain": "Payout has been paid out."
-        },
-        "TO_BE_PAID": {
-          "name": "To be paid",
-          "explain": "Payout processing was successful and should be sent out to you shortly."
-        },
-        "FAILED": {
-          "name": "Failed",
-          "explain": "The payout has failed."
-        },
-        "IN_TRANSIT": {
-          "name": "In transit",
-          "explain": "The payout is on it's way to our bank account."
-        },
-        "CANCELED": {
-          "name": "Canceled",
-          "explain": "The payout was canceled."
-        }
-      }
-    },
-    "coupons": {
-      "navItem": "Coupons",
-      "heading": {
-        "general": "General",
-        "duration": "Duration",
-        "discount": "Discount"
-      },
-      "table": {
-        "head": {
-          "name": "Name",
-          "code": "Code",
-          "amountOff": "Discount",
-          "discount": "Discount",
-          "duration": "Duration",
-          "redeemBy": "Redeem by",
-          "appliesTo": "Applies to tiers",
-          "maxRedemptions": "Max redemptions",
-          "action": "Actions"
-        },
-        "duration": {
-          "REPEATING": "Recurring for %d months",
-          "ONCE": "Use once",
-          "FOREVER": "Forever"
-        }
-      },
-      "field": {
-        "name": {
-          "label": "Name*",
-          "placeholder": "Name",
-          "error": "Name '{'{name}'}' already exists."
-        },
-        "code": {
-          "label": "Code*",
-          "placeholder": "50POFF",
-          "error": "Code '{'{code}'}' already exists."
-        },
-        "appliesTo": {
-          "label": "Applies to tiers",
-          "placeholder": "Select tiers"
-        },
-        "maxRedemptions": {
-          "label": "Max redemptions",
-          "placeholder": "10"
-        },
-        "redeemBy": {
-          "label": "Redeem by",
-          "placeholder": "Redeem by"
-        },
-        "duration": {
-          "label": "Duration"
-        },
-        "durationInMonths": {
-          "label": "Duration in months",
-          "placeholder": "2"
-        },
-        "amountOff": {
-          "label": "Amount off*",
-          "placeholder": "1"
-        },
-        "percentOff": {
-          "label": "Percent off*",
-          "placeholder": "25"
-        },
-        "currency": "Currency"
-      },
-      "discount": {
-        "amountOff": "Amount off",
-        "percentOff": "Percent off"
-      },
-      "duration": {
-        "once": "Once",
-        "repeating": "Repeating",
-        "forever": "Forever"
-      },
-      "create": {
-        "label": "Create coupon",
-        "success": "Coupon created successfully!",
-        "failed": "Error occured, coupon wasn't created."
-      },
-      "delete": {
-        "success": "Coupon successfully deleted!",
-        "failed": "Error occured, coupon wasn't deleted."
-      }
-    },
-    "donations": {
-      "navItem": "Donations",
-      "thanks": {
-        "button": "Send a thank you",
-        "message-placeholder": "Thanks for your support!"
-      },
-      "table": {
-        "head": {
-          "senderName": "Sender name",
-          "amount": "Amount",
-          "currency": "Currency",
-          "message": "Message",
-          "thanks": "Thank you message"
-        }
-      }
-    },
-    "emails": {
-      "template-labels": {
-        "NOTIFY_NEW_POST": "New post notifications",
-        "NOTIFY_DONATION": "New donation notifications",
-        "THANKS_DONATION": "Thank you message for donations"
-      }
-    },
-    "payments": {
-      "table": {
-        "invoice": {
-          "head": {
-            "number": "Number",
-            "total": "Total",
-            "currency": "Currency",
-            "paid": "Paid state",
-            "detail": "Detail",
-            "createdAt": "Created at"
+        "sections": {
+          "step-1": {
+            "headline": "Step 1: Create Your Account",
+            "title": "Launch Your Creative Career",
+            "description": "Join a platform built for creators—artists, educators, writers—to grow your audience and income. Benefit from a 0-9% platform fee and tools to monetize your craft from day one. Share your voice and build a community that supports your work.",
+            "features": {
+              "1": "Keep more of your earnings with industry-leading rates.",
+              "2": "Instant notifications for new followers, tips, and subscriptions.",
+              "3": "Attract early supporters with custom discount codes."
+            }
           },
-          "paid": {
-            "true": "Paid",
-            "false": "Unpaid"
+          "step-2": {
+            "headline": "Step 2: Customize Your Space",
+            "title": "Design a Home for Your Creativity",
+            "description": "Design a page that mirrors your brand with logos, banners, and themes. Organize content using smart tags for discoverability and offer free previews, subscriptions, or VIP tiers to engage your audience.",
+            "features": {
+              "1": "Fully customizable layouts, themes, and visuals.",
+              "2": "Label posts (e.g., “Tutorials,” “Exclusive Drops”) for seamless navigation.",
+              "3": "Build subscriptions, paywalled content, or/and VIP access tiers."
+            }
+          },
+          "step-3": {
+            "headline": "Step 3: Share Your Work",
+            "title": "Engage, Innovate, Thrive",
+            "description": "Post images, videos, or stories instantly. Use polls, Q&A, and live events to connect deeply with supporters. Track engagement via analytics and host real-time launches to grow your community.",
+            "features": {
+              "1": "Post images, videos, text, and audio effortlessly.",
+              "2": "Track engagement trends with polls, Q&A stats, and analytics.",
+              "3": "Host real-time events with alerts to hype launches or milestones."
+            }
+          }
+        },
+        "features": {
+          "title": "",
+          "description": "",
+          "fees": {
+            "title": "All-Inclusive 0-9% Fee",
+            "description": "Keep 91-100% of your earnings—no hidden payment processing fees, transaction cuts, or surprises. What you earn is what you keep."
+          },
+          "alerts": {
+            "title": "Live Supporter Alerts",
+            "description": "Celebrate milestones instantly with real-time notifications for new followers, tips, and subscriptions."
+          },
+          "coupons": {
+            "title": "Audience Coupons",
+            "description": "Boost loyalty by sharing custom discount codes for exclusive content or early access."
+          },
+          "tags": {
+            "title": "Smart Content Tags",
+            "description": "Organize posts effortlessly (e.g., “Tutorials,” “Behind-the-Scenes”) to help fans find what they love."
+          },
+          "branding": {
+            "title": "Custom Branding Studio",
+            "description": "Design a page that screams you—logos, banners, and themes tailored to your style."
+          },
+          "tiers": {
+            "title": "Unlimited Content Tiers",
+            "description": "Build subscriptions, VIP access, or free previews to cater to every type of supporter."
+          }
+        },
+        "cta": {
+          "title": "Seize the Moment, Elevate Your Business.",
+          "description": "Unleash the full potential of your creative enterprise. Engage and grow your audience with enticing public previews of your podcasts and videos. Welcome fans into your community at no initial cost, offering a taste of your unique content with the freedom to upgrade anytime. Embrace effortless growth, without the worry.",
+          "links": {
+            "cta": {
+              "label": "Embrace Your Audience"
+            }
           }
         }
-      },
-      "creator": {
-        "label": "Creator"
-      },
-      "subscriptions": {
-        "delete": {
-          "success": "Successfully canceled subscription.",
-          "error": "There was an error trying to cancel your subscription."
-        }
-      }
-    }
-  },
-  "title": {
-    "profile": {
-      "settings": "Settings",
-      "me": "My profile",
-      "billing": "Billing",
-      "post": {
-        "new": "New post",
-        "edit": "Edit post"
-      },
-      "tiers": "Tiers",
-      "coupons": {
-        "new": "New coupon"
-      }
-    }
-  },
-  "tab": {
-    "settings": {
-      "profile": "Profile",
-      "emails": "Emails"
-    },
-    "tiers": {
-      "tiers": "Tiers",
-      "coupons": "Coupons"
-    },
-    "billing": {
-      "billing": "Billing",
-      "payouts": "Payouts",
-      "donations": "Donations"
-    }
-  },
-  "error": {
-    "not-logged-in": "You are not logged in!",
-    "message": "Sorry, there was a problem accessing this page.",
-    "notFound": "Sorry, page not found.",
-    "search": "Go to creators",
-    "return": "Return home"
-  },
-  "reports": {
-    "type": {
-      "INAPPROPRIATE_CONTENT": {
-        "label": "Inappropriate Content"
-      },
-      "NUDITY_OR_SEXUAL_CONTENT": {
-        "label": "Nudity or Sexual Content"
-      },
-      "SPAM_OR_SCAM": {
-        "label": "Spam or Scam"
-      },
-      "HARASSMENT_OR_ABUSE": {
-        "label": "Harassment or Abuse"
-      },
-      "HATE_SPEECH": {
-        "label": "Hate Speech"
-      },
-      "COPYRIGHT": {
-        "label": "Copyright or Intellectual Property Violation"
-      },
-      "SELF_HARM_OR_HARM": {
-        "label": "Self-harm or Harm to Others"
-      },
-      "MISINFORMATION": {
-        "label": "Misinformation"
-      },
-      "IMPERSONATION": {
-        "label": "Impersonation"
-      },
-      "VIOLENCE_OR_GORE": {
-        "label": "Violence or Gore"
-      },
-      "ILLEGAL_ACTIVITY": {
-        "label": "Illegal Activity"
-      }
-    },
-    "form": {
-      "summary": {
-        "label": "Summary",
-        "placeholder": "The name is inappropriate"
-      },
-      "url": {
-        "label": "URL",
-        "placeholder": "https://creathors.com"
-      },
-      "type": {
-        "label": "Report Type"
-      },
-      "description": {
-        "placeholder": "The name of this post/user is inappropriate."
       }
     }
   }
