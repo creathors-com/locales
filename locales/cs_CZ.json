@@ -1618,33 +1618,10 @@
         }
       }
     },
-    "navbar": {
-      "creators": "Procházet",
-      "pricing": "Ceník",
-      "search-creators": "Vyhledat tvůrce...",
-      "sign-in": "Přihlásit se",
-      "get-started": "Začít",
-      "to-dashboard": "Přejít na hlavní panel"
-    },
-    "cta": {
-      "subtitle": "Navazujte kontakty, bez stresu.",
-      "title": "Využijte okamžiku a povzneste své podnikání.",
-      "paragraph": "Rozvíjejte plný potenciál vašeho tvůrčího podniku. Zapojte a rozšiřujte své publikum lákavými veřejnými ukázkami vašich podcastů a videí. Vítejte fanoušky do vaší komunity bez počátečních nákladů a nabídněte jim ochutnávku vašeho unikátního obsahu s možností vylepšení kdykoli. Přivítejte snadný růst, aniž byste se museli trápit obavami.",
-      "button": "Přivítejte své publikum"
-    },
-    "footer": {
-      "privacy": "Ochrana osobních údajů",
-      "tos": "Podmínky služby",
-      "reserved": "Všechna práva vyhrazena."
-    },
     "phrases": {
       "all": "Vše",
       "month": "měsíc",
       "empty": "prázdné"
-    },
-    "title": {
-      "index": "Domů",
-      "creators": "Objevte"
     },
     "validation": {
       "mixed": {
@@ -1664,660 +1641,180 @@
       "date": {
         "is-future": "Datum musí být v budoucnu."
       }
-    },
-    "combobox": {
-      "empty": "Žádné možnosti"
-    },
-    "confirm": {
-      "title": "Jste si jistý?",
-      "description": "Tato akce je nevratná, vybraná data budou smazána. Neexistuje žádný návrat.",
-      "yes": "Ano",
-      "no": "Ne"
-    },
-    "upload": {
-      "pending": "Nahrávání...",
-      "success": "Aktualizace byla úspěšně dokončena!",
-      "error": "Nahrávání se nezdařilo, zkuste to prosím znovu."
-    }
-  },
-  "pricing": {
-    "hero": {
-      "subtitle": "Bezkonkurenční hodnota, mimořádná služba",
-      "paragraph": "V Creators věříme v nabízení transparentního a spravedlivého cenového modelu. Naše provize ve výši 9% (*0% pro přímé příspěvky) ze všech plateb patří mezi nejkonkurenceschopnější na trhu. Žádné skryté poplatky, žádná překvapení—jen přímé ceny, které podporují váš růst.",
-      "detail": "Chcete ještě lepší nabídku? Kontaktujte nás na"
     }
   },
   "landing": {
-    "hero": {
-      "subtitle": "Kompletní kontrola nad vaší kreativitou",
-      "title": "Vše, co potřebujete, abyste mohli vydělávat peníze tím, co Vás baví",
-      "paragraph": "Posilte svou kreativitu na platformě, která si cení vaší práce. Díky nízkým poplatkům, přizpůsobitelným stránkám a nástrojům pro přímé zapojení je zpeněžení vaší vášně jednoduché a přínosné. Připojte se ke komunitě, kde má každý tvůrce svůj hlas, a začněte budovat svůj úspěšný příběh ještě dnes.",
-      "button": "Začněte nyní",
-      "happy-customers": "Šťastné kreativity",
-      "rating": "Hodnocení"
-    },
-    "features": {
-      "1": {
-        "subtitle": "Krok 1: Vytvoření účtu",
-        "title": "Začněte svou cestu Creathora",
-        "paragraph": "Ponořte se do inkluzivní platformy, kde se setkává tvůrčí duch s příležitostí. S konkurenčními 0-9% poplatky je naše platforma navržena pro tvůrce všech typů. Zaujměte své publikum pomocí anket, Q&A sessions a soukromými zprávami, zatímco si užíváte atraktivní finanční odměnu za svůj úsilný výkon. Proměňte svou vášeň na zisk v komunitě, kde kreativitě nejsou kladeny žádné meze.",
-        "button": "Začněte svou cestu"
+    "components": {
+      "cheapest-product-description": {
+        "description": "Starting from {price}/{period}",
+        "free": "Free"
       },
-      "2": {
-        "subtitle": "Krok 2: Přizpůsobte si svojí stránku",
-        "title": "Udělejte si svojí stránku podle sebe",
-        "paragraph": "Vynikněte stránkou, která odráží vaši jedinečnou kreativitu. Přizpůsobte si své logo a pozadí a nabídněte rozmanitý obsah prostřednictvím neomezených úrovní. Propojte se s vaším publikem pomocí interaktivních anket a Q&A sessions. Vaše prostředí je více než pouhá prezentace práce, je to komunita připravená růst s vámi.",
-        "button": "Vytvořte vaší stránku"
-      },
-      "3": {
-        "subtitle": "Krok 3: Sdílejte svou práci",
-        "title": "Propojte se & Rostěte.",
-        "paragraph": "Nechte svou kreativitu volně proudit a okouzlete své publikum. Sdílejte obrázky, texty a videa bez námahy díky čemuž má každý příspěvek šanci inspirovat a zapojit vaše publikum. Pěstujte živou komunitu díky přímé komunikaci prostřednictvím soukromých zpráv. Využijte interaktivní funkce k přizpůsobení obsahu preferencím publika a proměňte svou vášeň v prosperující kariéru.",
-        "button": "Propojte se s publikem"
-      }
-    },
-    "testimonials": {
-      "subtitle": "Referenční údaje",
-      "title": "Co o nás říkají"
-    }
-  },
-  "creators": {
-    "not-found": "Tvůrce nebyl nalezen!",
-    "subtitle": "Kompletní kontrola nad vaší kreativitou",
-    "title": "Zpeněžte svou vášeň s lehkostí",
-    "paragraph": "V Creathors povyšujeme vaši vášeň v zisk bez zbytečného záplavu reklam. Náš členský model podporuje živou komunitu zaměřenou na vysokou kvalitu obsahu a opravdové interakce. Užijte si svobodu tvořit a spojovat se, nabízíme exkluzivní obsah a výhody, které vás budou inspirovat. Připojte se k nám a udržujte svou kreativitu.",
-    "find-creators": "Najděte svého tvůrce...",
-    "find-button": "Hledat",
-    "popular-tags": "Populární štítky:",
-    "creators": "Tvůrci",
-    "region": "Oblasti",
-    "view-more": "Zobrazit více",
-    "view": "Zobrazit profil",
-    "starting-from": "Začíná od",
-    "free": "Zdarma",
-    "tier": {
-      "tier": "ÚROVEŇ",
-      "join": "Připojit se nyní"
-    },
-    "donation": {
-      "button": "Podpořte tvůrce příspěvkem",
-      "name": {
-        "label": "Jméno / Přezdívka",
-        "placeholder": "Honza"
-      },
-      "amount": {
-        "label": "Částka",
-        "placeholder": "5.00"
-      },
-      "currency": {
-        "label": "Měna"
-      },
-      "message": {
-        "label": "Zpráva",
-        "placeholder": "Pokračujte v dobré práci!"
-      },
-      "success": "Příspěvek úspěšně odeslán!"
-    },
-    "subscribers": "Předplatných",
-    "subscriber": "Předplatné"
-  },
-  "posts": {
-    "join": "Připojit se",
-    "title": "Všechny příspěvky",
-    "type": "Typ",
-    "types": {
-      "text": "Text",
-      "image": "Obrázek",
-      "video": "Video",
-      "audio": "Hudba"
-    },
-    "tier": "Úroveň",
-    "locked": "pro zobrazení příspěvků je nutné se přihlásit",
-    "buyTier": "Po zakoupení úrovně se odemkne",
-    "or": "Nebo",
-    "notFound": "Páni, tak prázdný...",
-    "ppv": {
-      "unlock": "Odemknout příspěvek za"
-    },
-    "tag": "Štítek"
-  },
-  "post": {
-    "comments": "Komentáře",
-    "placeholder": "Sem napište svůj komentář",
-    "send": "Poslat",
-    "reply": "Odpověď",
-    "replies": "Odpovědi",
-    "login": "Pro zobrazení se přihlašte",
-    "add-comment": {
-      "success": "Komentář zveřejněn.",
-      "failed": "Došlo k chybě, komentář nebyl zveřejněn."
-    },
-    "delete": {
-      "success": "Příspěvek byl úspěšně smazán!",
-      "failed": "Došlo k chybě, příspěvek nebyl odstraněn."
-    }
-  },
-  "settings": {
-    "tagLabels": {
-      "undefined": "Bez štítků",
-      "youtube": "YouTube",
-      "twitch": "Stream",
-      "podcasts": "Podcasty",
-      "tipstricks": "Tipy & Triky",
-      "guides": "Návody",
-      "cooking": "Vaření",
-      "graphics": "Grafika",
-      "videoediting": "Střih videí",
-      "3dmodeling": "3D Modelování",
-      "education": "Vzdělávání",
-      "programming": "Programování",
-      "automotive": "Motorismus",
-      "photography": "Fotografování",
-      "videoproduction": "Produkce videa",
-      "finance": "Finance",
-      "investing": "Investování",
-      "music": "Hudba"
-    },
-    "form": {
-      "username": "Uživatelské jméno",
-      "username-placeholder": "HonzovaVidea",
-      "givenName": "Křestní jméno",
-      "givenName-placeholder": "Honza",
-      "lastName": "Příjmení",
-      "lastName-placeholder": "Hrouda",
-      "description": "Popis",
-      "description-placeholder": "Řekni ostatním něco o sobě..",
-      "city": "Město",
-      "country": "Země",
-      "line1": "Ulice",
-      "line2": "Detail Adresy",
-      "postalCode": "PSČ",
-      "state": "Kraj",
-      "uploadAvatar": "Nahrát avatar",
-      "uploadTitleImage": "Nahrát titulek",
-      "browse": "Procházet",
-      "createTag": "VYTVOŘIT ŠTÍTEK",
-      "select": "Vybrat",
-      "file": {
-        "supported": "Podporované typy",
-        "max": "Maximální velikost",
-        "tooLarge": "Soubor je pro nahrání příliš veliký."
-      },
-      "mainTag": "Hlavní štítek",
-      "tags": "Štítky"
-    },
-    "pictureUpload": {
-      "success": "Profilový obrázek úspěšně změněn!",
-      "error": "Při nahrávání profilového obrázku došlo k chybě."
-    },
-    "backgroundUpload": {
-      "success": "Pozadí profilu úspěšně změněno!",
-      "error": "Při nahrávání Vašeho profilu došlo k chybě."
-    },
-    "conflict": {
-      "username": "Uživatelské jméno je obsazeno.",
-      "email": "E-mail je použit."
-    },
-    "saved": "Nastavení uloženo!",
-    "saving": {
-      "tags": {
-        "pending": "Ukládání štítků...",
-        "success": "Štítky uloženy!",
-        "error": "Došlo k chybě, štítky nebyly uloženy..."
-      },
-      "socials": {
-        "pending": "Ukládání sociálních sítí...",
-        "success": "Společnosti uloženy!",
-        "error": "Došlo k chybě, sociální sítě nebyly uloženy..."
-      },
-      "profile": {
-        "pending": "Probíhá ukládání profilu...",
-        "success": "Profil uložen!",
-        "error": "Došlo k chybě, profil nebyl uložen..."
-      },
-      "address": {
-        "pending": "Ukládání adresy...",
-        "success": "Adresa uložena!",
-        "error": "Došlo k chybě, adresa nebyla uložena..."
-      }
-    },
-    "heading": {
-      "props": "Štítky",
-      "info": "Profil",
-      "address": "Adresa",
-      "socials": "Sociální sítě",
-      "emails": {
-        "notifications": "Notifikace"
-      },
-      "payments": {
-        "subscriptions": "Předplatná",
-        "invoices": "Faktury"
-      }
-    },
-    "settings": "Nastavení",
-    "profile-info": "Informace o profilu",
-    "upload-new-pfp": "Nahrát nový obrázek",
-    "remove-pfp": "Odebrat",
-    "name": "Zobrazovaný název",
-    "email": "E-mailová adresa",
-    "email-placeholder": "honza.hrouda{'@'}email.cz",
-    "save": "Uložit",
-    "password": "Heslo",
-    "old-pw": "Staré heslo",
-    "new-pw": "Nové heslo",
-    "confirm-pw": "Potvrdit nové heslo",
-    "change-pw": "Změnit heslo",
-    "logout": "Odhlásit se",
-    "knowledgebase": "Nápověda",
-    "subscriptions": "Moje předplatné",
-    "posts": "Já",
-    "home": "Domů",
-    "add": "Nový příspěvek",
-    "post": {
-      "publish": "Publikovat",
-      "post": "Publikovat",
-      "upload": "Nahrát náhled",
-      "image": "Obrázek",
-      "video": "Video",
-      "audio": "Audio",
-      "ppv": {
-        "title": "Platba za zhlédnutí",
-        "price": "Cena",
-        "currency": "Měna"
-      },
-      "ownVideo": {
-        "done": "Hotovo",
-        "uploading": "Nahrávání...",
-        "toast": {
-          "done": "Vaše video bylo úspěšně nahráno.",
-          "failed": "Došlo k chybě, vaše video nebylo nahráno.",
-          "delete": {
-            "success": "Video bylo úspěšně odstraněno.",
-            "failed": "Došlo k chybě, video nebylo smazáno."
+      "app-header": {
+        "links": {
+          "discover": {
+            "label": "Discover"
+          },
+          "pricing": {
+            "label": "Pricing"
+          },
+          "blog": {
+            "label": "Blog"
+          }
+        },
+        "button": {
+          "sign-in": {
+            "label": "Sign in"
+          },
+          "sign-up": {
+            "label": "Sign up"
+          },
+          "log-out": {
+            "label": "Log out"
+          },
+          "dashboard": {
+            "label": "Dashboard"
           }
         }
       },
-      "attachments": {
-        "title": "Nahrát přílohy",
-        "delete": {
-          "success": "Příloha byla úspěšně smazána.",
-          "failed": "Došlo k chybě, příloha nebyla smazána."
-        }
-      },
-      "title": {
-        "placeholder": "Vložit název",
-        "name": "Název"
-      },
-      "text": {
-        "placeholder": "Zadejte svůj text..."
-      },
-      "tags": {
-        "label": "Štítky",
-        "placeholder": "Vyberte štítek..."
-      },
-      "tiers": {
-        "label": "Úrovně",
-        "placeholder": "Vyberte úroveň..."
-      },
-      "add-tag": "Přidat značku",
-      "type-tag": "Zde napište štítek..."
-    },
-    "tiers": {
-      "tiers": "Úrovně",
-      "tier": "Úroveň",
-      "name": "Název",
-      "price": "Cena",
-      "currency": "Měna",
-      "weight": "Váha",
-      "weight-tooltip": "Váha nastavuje pořadí, ve kterém jsou úrovně zobrazeny.",
-      "name-placeholder": "VIP",
-      "description-placeholder": "Zde zadejte svůj popis...",
-      "add": {
-        "success": "Úroveň byla úspěšně přidána!",
-        "error": "Došlo k chybě, úroveň nebyla přidána."
-      },
-      "update": {
-        "label": "Upravit",
-        "success": "Úroveň aktualizována!",
-        "error": "Došlo k chybě, úroveň nebyla aktualizována."
-      },
-      "delete": {
-        "success": "Úroveň smazána!",
-        "error": "Došlo k chybě, úroveň nebyla odstraněna."
-      },
-      "label": {
-        "edit": "Upravit úroveň",
-        "add": "Přidat úroveň"
-      },
-      "subscribers": {
-        "label": "{'{count}'} Předplatitelů",
-        "table": {
-          "head": {
-            "name": "Přezdívka",
-            "since": "Počátek předplatného"
+      "app-footer": {
+        "copyright": "Copyright © {year}. All rights reserved. ",
+        "columns": {
+          "resources": {
+            "label": "Resources",
+            "children": {
+              "support": {
+                "label": "Support"
+              },
+              "documentation": {
+                "label": "Documentation"
+              },
+              "roadmap": {
+                "label": "Roadmap"
+              },
+              "changelog": {
+                "label": "Changelog"
+              }
+            }
+          },
+          "company": {
+            "label": "Company",
+            "children": {
+              "about": {
+                "label": "About"
+              },
+              "pricing": {
+                "label": "Pricing"
+              },
+              "careers": {
+                "label": "Careers"
+              },
+              "blog": {
+                "label": "Blog"
+              }
+            }
           }
         }
       }
     },
-    "billing": {
-      "navItem": "Fakturace",
-      "heading": "Fakturační údaje",
-      "country": "Fakturační země",
-      "payoutOption": "Možnost výplaty",
-      "company": "Údaje o společnosti",
-      "companyName": "Název společnosti",
-      "taxId": "DIČ",
-      "taxIdType": "Typ DIČ",
-      "options": {
-        "iban": "IBAN",
-        "routingNumber": "Směrový kód banky",
-        "bsbCode": "BSB kód",
-        "accountNumber": "Číslo účtu",
-        "email": "Email"
+    "pages": {
+      "discover": {
+        "hero": {
+          "headline": "Discover Amazing Creators",
+          "title": "Find Your Inspiration",
+          "description": "Explore a vibrant community of creators who turn their passions into extraordinary work. Dive into diverse art, stories, and innovations—all in one place.",
+          "links": {
+            "search": {
+              "placeholder": "Find your creator..",
+              "button": {
+                "label": "Search"
+              }
+            }
+          }
+        }
       },
-      "error": {
-        "WRONG_LENGTH": "IBAN musí být dlouhý %d.",
-        "NO_COUNTRY_CODE": "Chybí kód země.",
-        "NO_COUNTRY_CODE_START": "IBAN musí začínat kódem vybrané země!",
-        "INVALID_EMAIL": "E-mail musí být platný!",
-        "EMPTY_TAX_ID": "DIČ je povinné.",
-        "INVALID_TAX_ID": "DIČ neodpovídá správnému vzoru.",
-        "FAILED_COMPANY": "Při ukládání údajů o společnosti došlo k chybě.",
-        "FAILED_NAME": "Nastala chyba, nebylo možné uložit Vaše jméno."
-      },
-      "payouts": {
-        "bank": "Bankovní účet",
-        "paypal": "PayPal"
-      },
-      "success": {
-        "billing": "Platební údaje byly úspěšně aktualizovány!",
-        "address": "Adresa byla úspěšně aktualizována!"
-      },
-      "warning": {
-        "noAddress": "Nemáte nastavenou adresu!"
-      }
-    },
-    "payouts": {
-      "label": "Výplaty",
-      "table": {
-        "tooltip": {
-          "amountOut": {
-            "gross": "Hrubý příjem:",
-            "fees": "Poplatky:",
-            "type": "Typ poplatku",
-            "value": "Hodnota poplatku",
-            "subtotal": "Mezisoučet",
-            "total": "Celkem:",
-            "feeTypes": {
-              "STRIPE_FEE": "Poplatky za Stripe",
-              "CUT": "Náš podíl"
+      "index": {
+        "hero": {
+          "headline": "Complete Creative Control",
+          "title": "Turn your passion into purpose",
+          "description": "Empower your creativity on a platform that values your work. With low fees, customizable pages, and direct engagement tools, we make monetizing your passion simple and rewarding. Join a community where every creator has a voice, and start building your success story today.",
+          "links": {
+            "cta": {
+              "label": {
+                "user": "Share Your Work",
+                "guest": "Get Started Now"
+              }
             }
           }
         },
-        "head": {
-          "amountOut": "Odeslaná částka",
-          "currency": "Měna",
-          "state": "Stav",
-          "stripeState": "Stripe stav"
-        }
-      },
-      "states": {
-        "CREATED": {
-          "name": "Vytvořeno",
-          "explain": "Výplata byla vytvořena a čekáme na její doručení k nám."
-        },
-        "PENDING": {
-          "name": "Čekající",
-          "explain": "Čekáme, než se výplata dostane na náš účet."
-        },
-        "PROCESSING": {
-          "name": "Zpracovávání",
-          "explain": "Zpracováváme Vaši výplatu. Kontrolujeme, že je všechno v pořádku."
-        },
-        "PAID": {
-          "name": "Vyplaceno",
-          "explain": "Výplata byla vyplacena."
-        },
-        "TO_BE_PAID": {
-          "name": "K vyplacení",
-          "explain": "Zpracování proběhlo v pořádku a výplatu Vám brzy odešleme."
-        },
-        "FAILED": {
-          "name": "Selhání",
-          "explain": "Výplata selhala."
-        },
-        "IN_TRANSIT": {
-          "name": "Na cestě",
-          "explain": "Výplata je na cestě na náš účet."
-        },
-        "CANCELED": {
-          "name": "Zrušeno",
-          "explain": "Výplata byla zrušena."
-        }
-      }
-    },
-    "coupons": {
-      "navItem": "Kupóny",
-      "heading": {
-        "general": "Obecné",
-        "duration": "Doba trvání",
-        "discount": "Sleva"
-      },
-      "table": {
-        "head": {
-          "name": "Název",
-          "code": "Kód",
-          "amountOff": "Sleva",
-          "discount": "Sleva",
-          "duration": "Doba trvání",
-          "redeemBy": "Uplatnit do",
-          "appliesTo": "Vztahuje se na úrovně",
-          "maxRedemptions": "Maximální počet využití",
-          "action": "Akce"
-        },
-        "duration": {
-          "REPEATING": "Opakování pro %d měsíců",
-          "ONCE": "Použít jednou",
-          "FOREVER": "Navždy"
-        }
-      },
-      "field": {
-        "name": {
-          "label": "Název*",
-          "placeholder": "Název",
-          "error": "Název '{'{name}'}' již existuje."
-        },
-        "code": {
-          "label": "Kód*",
-          "placeholder": "50POFF",
-          "error": "Kód '{'{code}'}' již existuje."
-        },
-        "appliesTo": {
-          "label": "Vztahuje se na úrovně",
-          "placeholder": "Vyberte úrovně"
-        },
-        "maxRedemptions": {
-          "label": "Maximální počet využití",
-          "placeholder": "10"
-        },
-        "redeemBy": {
-          "label": "Uplatnit do",
-          "placeholder": "Uplatnit do"
-        },
-        "duration": {
-          "label": "Doba trvání"
-        },
-        "durationInMonths": {
-          "label": "Doba trvání v měsících",
-          "placeholder": "2"
-        },
-        "amountOff": {
-          "label": "Částka slevy*",
-          "placeholder": "1"
-        },
-        "percentOff": {
-          "label": "Procenta slevy*",
-          "placeholder": "25"
-        },
-        "currency": "Měna"
-      },
-      "discount": {
-        "amountOff": "Částka slevy",
-        "percentOff": "Procenta slevy"
-      },
-      "duration": {
-        "once": "Jednou",
-        "repeating": "Opakující se",
-        "forever": "Napořád"
-      },
-      "create": {
-        "label": "Vytvořit kupón",
-        "success": "Kupón byl úspěšně vytvořen!",
-        "failed": "Došlo k chybě, kupón nebyl vytvořen."
-      },
-      "delete": {
-        "success": "Kupón byl úspěšně smazán!",
-        "failed": "Došlo k chybě, kupón nebyl smazán."
-      }
-    },
-    "donations": {
-      "navItem": "Darování",
-      "thanks": {
-        "button": "Pošlete poděkování",
-        "message-placeholder": "Děkuji za Vaši podporu!"
-      },
-      "table": {
-        "head": {
-          "senderName": "Odesilatel",
-          "amount": "Částka",
-          "currency": "Měna",
-          "message": "Zpráva",
-          "thanks": "Děkovná zpráva"
-        }
-      }
-    },
-    "emails": {
-      "template-labels": {
-        "NOTIFY_NEW_POST": "Notifikace o novém příspěvku",
-        "NOTIFY_DONATION": "Notifikace o novém darování",
-        "THANKS_DONATION": "Děkovná zpráva za darování"
-      }
-    },
-    "payments": {
-      "table": {
-        "invoice": {
-          "head": {
-            "number": "Číslo",
-            "total": "Celkem",
-            "currency": "Měna",
-            "paid": "Stav",
-            "detail": "Detail",
-            "createdAt": "Datum vytvoření"
+        "sections": {
+          "step-1": {
+            "headline": "Step 1: Create Your Account",
+            "title": "Launch Your Creative Career",
+            "description": "Join a platform built for creators—artists, educators, writers—to grow your audience and income. Benefit from a 0-9% platform fee and tools to monetize your craft from day one. Share your voice and build a community that supports your work.",
+            "features": {
+              "1": "Keep more of your earnings with industry-leading rates.",
+              "2": "Instant notifications for new followers, tips, and subscriptions.",
+              "3": "Attract early supporters with custom discount codes."
+            }
           },
-          "paid": {
-            "true": "Zaplaceno",
-            "false": "Nezaplaceno"
+          "step-2": {
+            "headline": "Step 2: Customize Your Space",
+            "title": "Design a Home for Your Creativity",
+            "description": "Design a page that mirrors your brand with logos, banners, and themes. Organize content using smart tags for discoverability and offer free previews, subscriptions, or VIP tiers to engage your audience.",
+            "features": {
+              "1": "Fully customizable layouts, themes, and visuals.",
+              "2": "Label posts (e.g., “Tutorials,” “Exclusive Drops”) for seamless navigation.",
+              "3": "Build subscriptions, paywalled content, or/and VIP access tiers."
+            }
+          },
+          "step-3": {
+            "headline": "Step 3: Share Your Work",
+            "title": "Engage, Innovate, Thrive",
+            "description": "Post images, videos, or stories instantly. Use polls, Q&A, and live events to connect deeply with supporters. Track engagement via analytics and host real-time launches to grow your community.",
+            "features": {
+              "1": "Post images, videos, text, and audio effortlessly.",
+              "2": "Track engagement trends with polls, Q&A stats, and analytics.",
+              "3": "Host real-time events with alerts to hype launches or milestones."
+            }
+          }
+        },
+        "features": {
+          "title": "",
+          "description": "",
+          "fees": {
+            "title": "All-Inclusive 0-9% Fee",
+            "description": "Keep 91-100% of your earnings—no hidden payment processing fees, transaction cuts, or surprises. What you earn is what you keep."
+          },
+          "alerts": {
+            "title": "Live Supporter Alerts",
+            "description": "Celebrate milestones instantly with real-time notifications for new followers, tips, and subscriptions."
+          },
+          "coupons": {
+            "title": "Audience Coupons",
+            "description": "Boost loyalty by sharing custom discount codes for exclusive content or early access."
+          },
+          "tags": {
+            "title": "Smart Content Tags",
+            "description": "Organize posts effortlessly (e.g., “Tutorials,” “Behind-the-Scenes”) to help fans find what they love."
+          },
+          "branding": {
+            "title": "Custom Branding Studio",
+            "description": "Design a page that screams you—logos, banners, and themes tailored to your style."
+          },
+          "tiers": {
+            "title": "Unlimited Content Tiers",
+            "description": "Build subscriptions, VIP access, or free previews to cater to every type of supporter."
+          }
+        },
+        "cta": {
+          "title": "Seize the Moment, Elevate Your Business.",
+          "description": "Unleash the full potential of your creative enterprise. Engage and grow your audience with enticing public previews of your podcasts and videos. Welcome fans into your community at no initial cost, offering a taste of your unique content with the freedom to upgrade anytime. Embrace effortless growth, without the worry.",
+          "links": {
+            "cta": {
+              "label": "Embrace Your Audience"
+            }
           }
         }
-      },
-      "creator": {
-        "label": "Tvůrce"
-      },
-      "subscriptions": {
-        "delete": {
-          "success": "Předplatné zrušeno.",
-          "error": "Předplatné se nepodařilo zrušit."
-        }
-      }
-    }
-  },
-  "title": {
-    "profile": {
-      "settings": "Nastavení",
-      "me": "Můj profil",
-      "billing": "Fakturace",
-      "post": {
-        "new": "Nový příspěvek",
-        "edit": "Upravit příspěvek"
-      },
-      "tiers": "Úrovně",
-      "coupons": {
-        "new": "Nový kupón"
-      }
-    }
-  },
-  "tab": {
-    "settings": {
-      "profile": "Profil",
-      "emails": "Emaily"
-    },
-    "tiers": {
-      "tiers": "Úrovně",
-      "coupons": "Kupóny"
-    },
-    "billing": {
-      "billing": "Fakturace",
-      "payouts": "Výplaty",
-      "donations": "Darování"
-    }
-  },
-  "error": {
-    "not-logged-in": "Nejste přihlášen(a)!",
-    "message": "Omlouváme se, došlo k potížím při přístupu na tuto stránku.",
-    "notFound": "Stránka nebyla nalezena.",
-    "search": "Přejít na tvůrce",
-    "return": "Návrat domů"
-  },
-  "reports": {
-    "type": {
-      "INAPPROPRIATE_CONTENT": {
-        "label": "Nevhodný obsah"
-      },
-      "NUDITY_OR_SEXUAL_CONTENT": {
-        "label": "Nudita nebo Sexuální obsah"
-      },
-      "SPAM_OR_SCAM": {
-        "label": "Spam nebo podvod"
-      },
-      "HARASSMENT_OR_ABUSE": {
-        "label": "Obtěžování nebo zneužívání"
-      },
-      "HATE_SPEECH": {
-        "label": "Projevy nenávisti"
-      },
-      "COPYRIGHT": {
-        "label": "Porušování autorského práva nebo duševního vlastnictví"
-      },
-      "SELF_HARM_OR_HARM": {
-        "label": "Sebepoškozovaní nebo poškozování druhých"
-      },
-      "MISINFORMATION": {
-        "label": "Dezinformace"
-      },
-      "IMPERSONATION": {
-        "label": "Zosobnění"
-      },
-      "VIOLENCE_OR_GORE": {
-        "label": "Násilí nebo gore"
-      },
-      "ILLEGAL_ACTIVITY": {
-        "label": "Nezákonná aktivita"
-      }
-    },
-    "form": {
-      "summary": {
-        "label": "Shrnutí",
-        "placeholder": "Název je nevhodný"
-      },
-      "url": {
-        "label": "URL",
-        "placeholder": "https://creathors.com"
-      },
-      "type": {
-        "label": "Typ nahlášení"
-      },
-      "description": {
-        "placeholder": "Jméno tohoto příspěvku/uživatele je nevhodné."
       }
     }
   }
