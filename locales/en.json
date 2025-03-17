@@ -1166,6 +1166,15 @@
             "description": {
               "label": "Description"
             },
+            "features": {
+              "button": {
+                "select": {
+                  "label": "Create feature(s)",
+                  "searchable-placeholder": "Search in features..",
+                  "create-placeholder": "Add '{feature}'"
+                }
+              }
+            },
             "button": {
               "cancel": {
                 "label": "Cancel"
@@ -1717,6 +1726,36 @@
       }
     },
     "pages": {
+      "creator-slug": {
+        "hero": {
+          "error": {
+            "headline": "404",
+            "title": "Creator Not Found",
+            "description": "We were unable to find you the creator '{name}'.",
+            "links": {
+              "search": {
+                "placeholder": "How about we try a search instead?",
+                "button": {
+                  "label": "Search"
+                }
+              }
+            }
+          }
+        },
+        "creator": {
+          "subscribers": "No Subscribers | One Subscriber | {count} Subscribers",
+          "tiers": {
+            "button": {
+              "manage": {
+                "label": "Manage"
+              },
+              "subscribe": {
+                "label": "Subscribe"
+              }
+            }
+          }
+        }
+      },
       "discover": {
         "hero": {
           "headline": "Discover Amazing Creators",
