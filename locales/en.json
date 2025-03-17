@@ -1133,6 +1133,19 @@
         },
         "tier-form": {
           "form": {
+            "visibility": {
+              "label": "Visibility",
+              "button": {
+                "recommend": {
+                  "label": "Recommend",
+                  "tooltip": "Shows a 'Recommended' badge on the tier."
+                },
+                "highlight": {
+                  "label": "Highlight",
+                  "tooltip": "Highlights the product's border and button."
+                }
+              }
+            },
             "name": {
               "label": "Name"
             },
@@ -1167,6 +1180,7 @@
               "label": "Description"
             },
             "features": {
+              "label": "Features",
               "button": {
                 "select": {
                   "label": "Create feature(s)",
