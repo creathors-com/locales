@@ -915,7 +915,7 @@
           },
           "button": {
             "instant-payout": {
-              "label": "Instant Payout"
+              "label": "Payout Now"
             }
           }
         }
