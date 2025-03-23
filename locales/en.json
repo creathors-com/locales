@@ -912,6 +912,11 @@
           },
           "fee": {
             "instant": "Instant payout fee:"
+          },
+          "button": {
+            "instant-payout": {
+              "label": "Instant Payout"
+            }
           }
         }
       },
@@ -1644,7 +1649,8 @@
     "phrases": {
       "all": "All",
       "month": "month",
-      "empty": "empty"
+      "empty": "empty",
+      "recommended": "Recommended"
     },
     "validation": {
       "mixed": {
@@ -1765,6 +1771,47 @@
               },
               "subscribe": {
                 "label": "Subscribe"
+              }
+            }
+          }
+        },
+        "posts": {
+          "filter": {
+            "button": {
+              "filters": {
+                "label": "Filters"
+              },
+              "search": {
+                "label": "Search"
+              }
+            },
+            "type": {
+              "option": {
+                "VIDEO": {
+                  "label": "Video"
+                },
+                "TEXT": {
+                  "label": "Text"
+                },
+                "AUDIO": {
+                  "label": "Audio"
+                },
+                "IMAGE": {
+                  "label": "Image"
+                }
+              }
+            },
+            "tags": {
+              "label": "Tags:",
+              "button": {
+                "placeholder": "Choose tags.."
+              }
+            }
+          },
+          "post": {
+            "badge": {
+              "pinned": {
+                "label": "Pinned"
               }
             }
           }
