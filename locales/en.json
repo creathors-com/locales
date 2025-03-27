@@ -1812,6 +1812,30 @@
             "badge": {
               "pinned": {
                 "label": "Pinned"
+              },
+              "locked": {
+                "label": "Locked \uD83D\uDD12"
+              }
+            },
+            "button": {
+              "like": {
+                "toast": {
+                  "success": {
+                    "like": "Successfully liked the post.",
+                    "unlike": "Successfully un-liked the post."
+                  },
+                  "error": {
+                    "not-logged-in": "You must be logged to like."
+                  }
+                }
+              },
+              "unlock": {
+                "subscribe": {
+                  "label": "Subscribe to {name} for {price}/{period}"
+                },
+                "buy": {
+                  "label": "Unlock for {price}"
+                }
               }
             }
           }
