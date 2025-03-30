@@ -1779,7 +1779,10 @@
           "filter": {
             "button": {
               "filters": {
-                "label": "Filters"
+                "label": "Filters",
+                "tooltip": {
+                  "not-logged-in": "You must be logged-in to filter."
+                }
               },
               "search": {
                 "label": "Search"
@@ -1936,6 +1939,23 @@
           "links": {
             "cta": {
               "label": "Embrace Your Audience"
+            }
+          }
+        }
+      },
+      "post": {
+        "hero": {
+          "error": {
+            "headline": "404",
+            "title": "Post Not Found",
+            "description": "We were unable to find your desired post.",
+            "links": {
+              "search": {
+                "placeholder": "Let's try to search for the creator instead.",
+                "button": {
+                  "label": "Search"
+                }
+              }
             }
           }
         }
