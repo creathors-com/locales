@@ -1743,6 +1743,92 @@
             }
           }
         }
+      },
+      "post": {
+        "comment": {
+          "button": {
+            "edit": {
+              "label": "Edit"
+            },
+            "delete": {
+              "label": "Delete",
+              "confirm": {
+                "title": "Delete the comment",
+                "description": "Are you sure you want to delete the comment?"
+              },
+              "toast": {
+                "success": {
+                  "default": "Successfully deleted the comment."
+                },
+                "error": {
+                  "default": "There was an error deleting the comment."
+                }
+              }
+            },
+            "save": {
+              "label": "Save",
+              "toast": {
+                "success": {
+                  "default": "Successfully saved the changes."
+                },
+                "error": {
+                  "default": "There was an error saving the changes."
+                }
+              }
+            },
+            "cancel": {
+              "label": "Cancel"
+            },
+            "replies": {
+              "label": "Replies"
+            },
+            "reply": {
+              "label": "Reply"
+            }
+          },
+          "section": {
+            "title": {
+              "default": "Comments ({count})",
+              "reply": "Replies ({count})"
+            },
+            "new": {
+              "placeholder": "Add a new comment"
+            },
+            "button": {
+              "new": {
+                "label": "Post comment",
+                "toast": {
+                  "success": {
+                    "default": "Successfully added a comment."
+                  },
+                  "error": {
+                    "default": "There was an error adding the comment."
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "confirm-modal": {
+        "button": {
+          "confirm": {
+            "label": "Confirm"
+          },
+          "cancel": {
+            "label": "Cancel"
+          }
+        }
+      },
+      "vue-showdown-text-area": {
+        "tabs": {
+          "edit": {
+            "label": "Edit"
+          },
+          "preview": {
+            "label": "Preview"
+          }
+        }
       }
     },
     "pages": {
@@ -1956,6 +2042,35 @@
                   "label": "Search"
                 }
               }
+            }
+          }
+        },
+        "badge": {
+          "pinned": {
+            "label": "Pinned"
+          },
+          "locked": {
+            "label": "Locked \uD83D\uDD12"
+          }
+        },
+        "button": {
+          "like": {
+            "toast": {
+              "success": {
+                "like": "Successfully liked the post.",
+                "unlike": "Successfully un-liked the post."
+              },
+              "error": {
+                "not-logged-in": "You must be logged to like."
+              }
+            }
+          },
+          "unlock": {
+            "subscribe": {
+              "label": "Subscribe to {name} for {price}/{period}"
+            },
+            "buy": {
+              "label": "Unlock for {price}"
             }
           }
         }
