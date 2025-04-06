@@ -1649,8 +1649,12 @@
     "phrases": {
       "all": "Vše",
       "month": "měsíc",
+      "year": "year",
       "empty": "prázdné",
-      "recommended": "Recommended"
+      "recommended": "Recommended",
+      "fee": "Fee",
+      "processing-fee": "Processing Fee",
+      "subscribers": "Subscribers"
     },
     "validation": {
       "mixed": {
@@ -2071,6 +2075,48 @@
             },
             "buy": {
               "label": "Unlock for {price}"
+            }
+          }
+        }
+      },
+      "pricing": {
+        "hero": {
+          "headline": "Unbeatable Value, Exceptional Service",
+          "title": "0-9%",
+          "description": "At Creathors, we believe in offering transparent and fair pricing. Our 9% (75¢ minimum) commission on all payments is among the most competitive in the industry. No hidden fees, no surprises—just straightforward pricing that supports your growth."
+        },
+        "compare": {
+          "title": "Stop overpaying!",
+          "description": "We offer the absolute lowest pricing in the industry with a straightforward 9% commission. That's it. No hidden fees, no processing charges, no surprises. Just pure value and a simple, transparent cost to help you grow.",
+          "compare-with": "Compare with:"
+        },
+        "faq": {
+          "title": "Frequently asked questions",
+          "description": "We believe in clarity. Browse our frequently asked questions to learn more about how Creathors works and our straightforward approach.",
+          "children": {
+            "commission": {
+              "label": "What commission do you charge?",
+              "content": "We charge a simple and transparent 9% commission on all payments you receive, except for direct donations, on those we don't charge anything. That's it!"
+            },
+            "hidden-fees": {
+              "label": "Are there any hidden fees?",
+              "content": "Absolutely not! We pride ourselves on our transparency. There are no hidden fees, no platform fees, and no surprises."
+            },
+            "processing-fees": {
+              "label": "Do you charge any processing fees?",
+              "content": "No, we do not charge any separate processing fees. Our 9% commission is the only cost you'll incur."
+            },
+            "minimum-commission": {
+              "label": "What is the minimum commission per payment?",
+              "content": "Our minimum commission is 75¢ (USD) per payment."
+            },
+            "compare": {
+              "label": "How does your commission compare to other platforms?",
+              "content": "Our 9% commission is among the most competitive in the industry. Many other platforms charge higher percentages and/or additional fees. We believe in putting more of your earnings in your pocket."
+            },
+            "payouts": {
+              "label": "When and how do I receive my payouts?",
+              "content": "Payouts are processed on the 1st of each month, provided you have reached the minimum required balance, linked your Stripe account, and enabled payouts. We ensure all funds are paid out before any internal holding period concludes."
             }
           }
         }
