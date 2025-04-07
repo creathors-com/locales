@@ -1710,7 +1710,7 @@
         }
       },
       "app-footer": {
-        "copyright": "Copyright © {rok}. Všechna práva vyhrazena. ",
+        "copyright": "Copyright ©️ {year}. Všechna práva vyhrazena. ",
         "columns": {
           "resources": {
             "label": "Zdroje",
