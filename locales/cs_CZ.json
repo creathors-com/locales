@@ -915,7 +915,7 @@
           },
           "button": {
             "instant-payout": {
-              "label": "Payout Now"
+              "label": "Vyplatit nyní"
             }
           }
         }
@@ -1139,15 +1139,15 @@
         "tier-form": {
           "form": {
             "visibility": {
-              "label": "Visibility",
+              "label": "Viditelnost",
               "button": {
                 "recommend": {
-                  "label": "Recommend",
-                  "tooltip": "Shows a 'Recommended' badge on the tier."
+                  "label": "Doporučit",
+                  "tooltip": "Zobrazí odznak „Doporučeno“ na úrovni."
                 },
                 "highlight": {
-                  "label": "Highlight",
-                  "tooltip": "Highlights the product's border and button."
+                  "label": "Zvýraznění",
+                  "tooltip": "Zvýrazní okraj a tlačítko produktu."
                 }
               }
             },
@@ -1185,12 +1185,12 @@
               "label": "Popis"
             },
             "features": {
-              "label": "Features",
+              "label": "Funkce",
               "button": {
                 "select": {
-                  "label": "Create feature(s)",
-                  "searchable-placeholder": "Search in features..",
-                  "create-placeholder": "Add '{feature}'"
+                  "label": "Vytvořit funkci(e)",
+                  "searchable-placeholder": "Hledat ve funkcích..",
+                  "create-placeholder": "Přidat '{feature}'"
                 }
               }
             },
@@ -1649,12 +1649,12 @@
     "phrases": {
       "all": "Vše",
       "month": "měsíc",
-      "year": "year",
+      "year": "rok",
       "empty": "prázdné",
-      "recommended": "Recommended",
-      "fee": "Fee",
-      "processing-fee": "Processing Fee",
-      "subscribers": "Subscribers"
+      "recommended": "Doporučené",
+      "fee": "Poplatek",
+      "processing-fee": "Poplatky za zpracování",
+      "subscribers": "Odběratelé"
     },
     "validation": {
       "mixed": {
@@ -1679,16 +1679,16 @@
   "landing": {
     "components": {
       "cheapest-product-description": {
-        "description": "Starting from {price}/{period}",
-        "free": "Free"
+        "description": "Začíná od {price}/{period}",
+        "free": "Zdarma"
       },
       "app-header": {
         "links": {
           "discover": {
-            "label": "Discover"
+            "label": "Procházet"
           },
           "pricing": {
-            "label": "Pricing"
+            "label": "Ceník"
           },
           "blog": {
             "label": "Blog"
@@ -1696,50 +1696,50 @@
         },
         "button": {
           "sign-in": {
-            "label": "Sign in"
+            "label": "Přihlásit se"
           },
           "sign-up": {
-            "label": "Sign up"
+            "label": "Registrace"
           },
           "log-out": {
-            "label": "Log out"
+            "label": "Odhlásit se"
           },
           "dashboard": {
-            "label": "Dashboard"
+            "label": "Přehled"
           }
         }
       },
       "app-footer": {
-        "copyright": "Copyright © {year}. All rights reserved. ",
+        "copyright": "Copyright © {rok}. Všechna práva vyhrazena. ",
         "columns": {
           "resources": {
-            "label": "Resources",
+            "label": "Zdroje",
             "children": {
               "support": {
-                "label": "Support"
+                "label": "Podpora"
               },
               "documentation": {
-                "label": "Documentation"
+                "label": "Dokumentace"
               },
               "roadmap": {
-                "label": "Roadmap"
+                "label": "Roadmapa"
               },
               "changelog": {
-                "label": "Changelog"
+                "label": "Přehled změn"
               }
             }
           },
           "company": {
-            "label": "Company",
+            "label": "Společnost",
             "children": {
               "about": {
-                "label": "About"
+                "label": "Informace"
               },
               "pricing": {
-                "label": "Pricing"
+                "label": "Ceník"
               },
               "careers": {
-                "label": "Careers"
+                "label": "Kariéry"
               },
               "blog": {
                 "label": "Blog"
@@ -1752,61 +1752,61 @@
         "comment": {
           "button": {
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             },
             "delete": {
-              "label": "Delete",
+              "label": "Smazat",
               "confirm": {
-                "title": "Delete the comment",
-                "description": "Are you sure you want to delete the comment?"
+                "title": "Odstranit komentář",
+                "description": "Jsi si jist/á, že chceš smazat tento komentář?"
               },
               "toast": {
                 "success": {
-                  "default": "Successfully deleted the comment."
+                  "default": "Komentář byl úspěšně odstraněn."
                 },
                 "error": {
-                  "default": "There was an error deleting the comment."
+                  "default": "Při odstraňování komentáře došlo k chybě."
                 }
               }
             },
             "save": {
-              "label": "Save",
+              "label": "Uložit",
               "toast": {
                 "success": {
-                  "default": "Successfully saved the changes."
+                  "default": "Změny byly úspěšně uloženy."
                 },
                 "error": {
-                  "default": "There was an error saving the changes."
+                  "default": "Při ukládání změn došlo k chybě."
                 }
               }
             },
             "cancel": {
-              "label": "Cancel"
+              "label": "Zrušit"
             },
             "replies": {
-              "label": "Replies"
+              "label": "Odpovědi"
             },
             "reply": {
-              "label": "Reply"
+              "label": "Odpověď"
             }
           },
           "section": {
             "title": {
-              "default": "Comments ({count})",
-              "reply": "Replies ({count})"
+              "default": "Komentáře ({count})",
+              "reply": "Odpovědi ({count})"
             },
             "new": {
-              "placeholder": "Add a new comment"
+              "placeholder": "Přidat nový komentář"
             },
             "button": {
               "new": {
-                "label": "Post comment",
+                "label": "Zveřejnit komentář",
                 "toast": {
                   "success": {
-                    "default": "Successfully added a comment."
+                    "default": "Komentář byl úspěšně přidán."
                   },
                   "error": {
-                    "default": "There was an error adding the comment."
+                    "default": "Při přidávání komentáře došlo k chybě."
                   }
                 }
               }
@@ -1817,20 +1817,20 @@
       "confirm-modal": {
         "button": {
           "confirm": {
-            "label": "Confirm"
+            "label": "Potvrdit"
           },
           "cancel": {
-            "label": "Cancel"
+            "label": "Zrušit"
           }
         }
       },
       "vue-showdown-text-area": {
         "tabs": {
           "edit": {
-            "label": "Edit"
+            "label": "Upravit"
           },
           "preview": {
-            "label": "Preview"
+            "label": "Náhled"
           }
         }
       }
@@ -1840,27 +1840,27 @@
         "hero": {
           "error": {
             "headline": "404",
-            "title": "Creator Not Found",
-            "description": "We were unable to find you the creator '{name}'.",
+            "title": "Tvůrce nebyl nalezen",
+            "description": "Nebyli jsme schopni najít tvůrce '{name}'.",
             "links": {
               "search": {
-                "placeholder": "How about we try a search instead?",
+                "placeholder": "Co kdybychom místo toho zkusili vyhledávání?",
                 "button": {
-                  "label": "Search"
+                  "label": "Vyhledat"
                 }
               }
             }
           }
         },
         "creator": {
-          "subscribers": "No Subscribers | One Subscriber | {count} Subscribers",
+          "subscribers": "Žádní předplatitelé | Jeden předplatitel | {count} předplatitelé",
           "tiers": {
             "button": {
               "manage": {
-                "label": "Manage"
+                "label": "Spravovat"
               },
               "subscribe": {
-                "label": "Subscribe"
+                "label": "Odebírat"
               }
             }
           }
@@ -1869,13 +1869,13 @@
           "filter": {
             "button": {
               "filters": {
-                "label": "Filters",
+                "label": "Filtry",
                 "tooltip": {
-                  "not-logged-in": "You must be logged-in to filter."
+                  "not-logged-in": "Musíte být přihlášeni k filtrování."
                 }
               },
               "search": {
-                "label": "Search"
+                "label": "Vyhledat"
               }
             },
             "type": {
@@ -1887,47 +1887,47 @@
                   "label": "Text"
                 },
                 "AUDIO": {
-                  "label": "Audio"
+                  "label": "Zvuk"
                 },
                 "IMAGE": {
-                  "label": "Image"
+                  "label": "Obrázek"
                 }
               }
             },
             "tags": {
-              "label": "Tags:",
+              "label": "Štítky:",
               "button": {
-                "placeholder": "Choose tags.."
+                "placeholder": "Zvolte štítky.."
               }
             }
           },
           "post": {
             "badge": {
               "pinned": {
-                "label": "Pinned"
+                "label": "Připnuté"
               },
               "locked": {
-                "label": "Locked 🔒"
+                "label": "Uzamčeno 🔒"
               }
             },
             "button": {
               "like": {
                 "toast": {
                   "success": {
-                    "like": "Successfully liked the post.",
-                    "unlike": "Successfully un-liked the post."
+                    "like": "Příspěvek se vám líbí.",
+                    "unlike": "Příspěvek se nelíbí."
                   },
                   "error": {
-                    "not-logged-in": "You must be logged to like."
+                    "not-logged-in": "Musíte být přihlášeni, aby se vám to líbilo."
                   }
                 }
               },
               "unlock": {
                 "subscribe": {
-                  "label": "Subscribe to {name} for {price}/{period}"
+                  "label": "Přihlásit se k odběru {name} pro {price}/{period}"
                 },
                 "buy": {
-                  "label": "Unlock for {price}"
+                  "label": "Odemknout za {price}"
                 }
               }
             }
@@ -1936,14 +1936,14 @@
       },
       "discover": {
         "hero": {
-          "headline": "Discover Amazing Creators",
-          "title": "Find Your Inspiration",
-          "description": "Explore a vibrant community of creators who turn their passions into extraordinary work. Dive into diverse art, stories, and innovations—all in one place.",
+          "headline": "Objevte skvělé tvůrce",
+          "title": "Najděte svou inspiraci",
+          "description": "Poznejte živou komunitu tvůrců, kteří své vášně proměňují v neobyčejnou práci. Ponořte se do rozmanitého umění, příběhů a inovací - vše na jednom místě.",
           "links": {
             "search": {
-              "placeholder": "Find your creator..",
+              "placeholder": "Najděte svého tvůrce..",
               "button": {
-                "label": "Search"
+                "label": "Vyhledat"
               }
             }
           }
@@ -1951,47 +1951,47 @@
       },
       "index": {
         "hero": {
-          "headline": "Complete Creative Control",
-          "title": "Turn your passion into purpose",
-          "description": "Empower your creativity on a platform that values your work. With low fees, customizable pages, and direct engagement tools, we make monetizing your passion simple and rewarding. Join a community where every creator has a voice, and start building your success story today.",
+          "headline": "Kompletní kontrola nad vaší kreativitou",
+          "title": "Proměňte svou vášeň v cíl",
+          "description": "Posilte svou kreativitu na platformě, která si cení vaší práce. Díky nízkým poplatkům, přizpůsobitelným stránkám a nástrojům pro přímé zapojení je zpeněžení vaší vášně jednoduché a přínosné. Připojte se ke komunitě, kde má každý tvůrce svůj hlas, a začněte budovat svůj úspěšný příběh ještě dnes.",
           "links": {
             "cta": {
               "label": {
-                "user": "Share Your Work",
-                "guest": "Get Started Now"
+                "user": "Sdílejte svou práci",
+                "guest": "Začněte nyní"
               }
             }
           }
         },
         "sections": {
           "step-1": {
-            "headline": "Step 1: Create Your Account",
-            "title": "Launch Your Creative Career",
-            "description": "Join a platform built for creators—artists, educators, writers—to grow your audience and income. Benefit from a 0-9% platform fee and tools to monetize your craft from day one. Share your voice and build a community that supports your work.",
+            "headline": "Krok 1: Vytvoření účtu",
+            "title": "Zahajte svou tvůrčí kariéru",
+            "description": "Připojte se k platformě vytvořené pro tvůrce - umělce, pedagogy, spisovatele - a rozšiřte své publikum a příjmy. Využijte výhody 0-9% poplatku za platformu a nástrojů pro zpeněžení vašeho řemesla od prvního dne. Sdílejte svůj hlas a budujte komunitu, která podporuje vaši práci.",
             "features": {
-              "1": "Keep more of your earnings with industry-leading rates.",
-              "2": "Instant notifications for new followers, tips, and subscriptions.",
-              "3": "Attract early supporters with custom discount codes."
+              "1": "Ponechte si více ze svých příjmů díky nejlepším sazbám v odvětví.",
+              "2": "Okamžitá upozornění na nové sledující, dary a odběry.",
+              "3": "Přilákejte včasné příznivce pomocí vlastních slevových kódů."
             }
           },
           "step-2": {
-            "headline": "Step 2: Customize Your Space",
-            "title": "Design a Home for Your Creativity",
-            "description": "Design a page that mirrors your brand with logos, banners, and themes. Organize content using smart tags for discoverability and offer free previews, subscriptions, or VIP tiers to engage your audience.",
+            "headline": "Krok 2: Přizpůsobte si svojí stránku",
+            "title": "Vytvořte si domov pro svou kreativitu",
+            "description": "Navrhněte stránku, která zrcadlí vaši značku s logy, bannery a motivy. Uspořádejte obsah pomocí chytrých značek pro vyhledání a nabízejte bezplatné náhledy, předplatné nebo VIP úrovně pro zapojení vašeho publika.",
             "features": {
-              "1": "Fully customizable layouts, themes, and visuals.",
-              "2": "Label posts (e.g., “Tutorials,” “Exclusive Drops”) for seamless navigation.",
-              "3": "Build subscriptions, paywalled content, or/and VIP access tiers."
+              "1": "Plně přizpůsobitelné rozvržení, témata a vizuály.",
+              "2": "Label posts (např. „Tutorials“, „Exkluzivní Drops“) pro bezproblémovou navigaci.",
+              "3": "Vytvořte předplatné, placený obsah, nebo/VIP přístupové úrovně."
             }
           },
           "step-3": {
-            "headline": "Step 3: Share Your Work",
-            "title": "Engage, Innovate, Thrive",
-            "description": "Post images, videos, or stories instantly. Use polls, Q&A, and live events to connect deeply with supporters. Track engagement via analytics and host real-time launches to grow your community.",
+            "headline": "Krok 3: Sdílejte svou práci",
+            "title": "Zapojte se, inovujte, prosperujte",
+            "description": "Okamžitě zveřejňujte obrázky, videa nebo příběhy. Používejte ankety, otázky a odpovědi a živé události, abyste navázali hlubší kontakt se svými příznivci. Sledujte zapojení prostřednictvím analytických nástrojů a pořádejte spuštění v reálném čase, abyste mohli rozšiřovat svou komunitu.",
             "features": {
-              "1": "Post images, videos, text, and audio effortlessly.",
-              "2": "Track engagement trends with polls, Q&A stats, and analytics.",
-              "3": "Host real-time events with alerts to hype launches or milestones."
+              "1": "Snadno zveřejňujte obrázky, videa, text a zvuk.",
+              "2": "Sledujte trendy zapojení pomocí anket, statistik otázek a odpovědí a analytiky.",
+              "3": "Hostujte události v reálném čase s upozorněními na humbuk kolem uvedení na trh nebo milníků."
             }
           }
         },
@@ -1999,36 +1999,36 @@
           "title": "",
           "description": "",
           "fees": {
-            "title": "All-Inclusive 0-9% Fee",
-            "description": "Keep 91-100% of your earnings—no hidden payment processing fees, transaction cuts, or surprises. What you earn is what you keep."
+            "title": "All-Inclusive 0-9% poplatek",
+            "description": "Ponechte si 91-100 % svých příjmů - žádné skryté poplatky za zpracování plateb, krácení transakcí nebo překvapení. To, co vyděláte, si ponecháte."
           },
           "alerts": {
-            "title": "Live Supporter Alerts",
-            "description": "Celebrate milestones instantly with real-time notifications for new followers, tips, and subscriptions."
+            "title": "Živé upozornění pro podporovatele",
+            "description": "Okamžitě oslavujte důležité události pomocí upozornění na nové sledující, tipy a odběry v reálném čase."
           },
           "coupons": {
-            "title": "Audience Coupons",
-            "description": "Boost loyalty by sharing custom discount codes for exclusive content or early access."
+            "title": "Kupony pro diváky",
+            "description": "Zvyšte loajalitu sdílením vlastních slevových kódů pro exkluzivní obsah nebo předčasný přístup."
           },
           "tags": {
-            "title": "Smart Content Tags",
-            "description": "Organize posts effortlessly (e.g., “Tutorials,” “Behind-the-Scenes”) to help fans find what they love."
+            "title": "Chytré značky obsahu",
+            "description": "Uspořádejte příspěvky bez námahy (např. „Návody“, „Zákulisí“), abyste fanouškům pomohli najít to, co mají rádi."
           },
           "branding": {
-            "title": "Custom Branding Studio",
-            "description": "Design a page that screams you—logos, banners, and themes tailored to your style."
+            "title": "Vlastní brandingové studio",
+            "description": "Navrhněte stránku, která bude křičet „vy“ - loga, bannery a motivy přizpůsobené vašemu stylu."
           },
           "tiers": {
-            "title": "Unlimited Content Tiers",
-            "description": "Build subscriptions, VIP access, or free previews to cater to every type of supporter."
+            "title": "Neomezené úrovně obsahu",
+            "description": "Vytvořte předplatné, VIP přístup nebo bezplatné náhledy, abyste uspokojili každý typ příznivce."
           }
         },
         "cta": {
-          "title": "Seize the Moment, Elevate Your Business.",
-          "description": "Unleash the full potential of your creative enterprise. Engage and grow your audience with enticing public previews of your podcasts and videos. Welcome fans into your community at no initial cost, offering a taste of your unique content with the freedom to upgrade anytime. Embrace effortless growth, without the worry.",
+          "title": "Využijte příležitosti a povzneste své podnikání.",
+          "description": "Využijte plný potenciál svého tvůrčího podniku. Zapojte a rozšiřte své publikum pomocí lákavých veřejných náhledů svých podcastů a videí. Přivítejte fanoušky ve své komunitě bez počátečních nákladů a nabídněte jim ochutnávku svého jedinečného obsahu s možností kdykoli upgradovat. Vychutnejte si růst bez námahy a bez starostí.",
           "links": {
             "cta": {
-              "label": "Embrace Your Audience"
+              "label": "Přijměte své publikum"
             }
           }
         }
@@ -2037,13 +2037,13 @@
         "hero": {
           "error": {
             "headline": "404",
-            "title": "Post Not Found",
-            "description": "We were unable to find your desired post.",
+            "title": "Příspěvek nebyl nalezen",
+            "description": "Nepodařilo se nám najít požadovaný příspěvek.",
             "links": {
               "search": {
-                "placeholder": "Let's try to search for the creator instead.",
+                "placeholder": "Pokusme se namísto toho vyhledat tvůrce.",
                 "button": {
-                  "label": "Search"
+                  "label": "Hledat"
                 }
               }
             }
@@ -2051,72 +2051,72 @@
         },
         "badge": {
           "pinned": {
-            "label": "Pinned"
+            "label": "Připnuté"
           },
           "locked": {
-            "label": "Locked 🔒"
+            "label": "Uzamčeno 🔒"
           }
         },
         "button": {
           "like": {
             "toast": {
               "success": {
-                "like": "Successfully liked the post.",
-                "unlike": "Successfully un-liked the post."
+                "like": "Příspěvek se vám líbí.",
+                "unlike": "Příspěvek se nelíbí."
               },
               "error": {
-                "not-logged-in": "You must be logged to like."
+                "not-logged-in": "Musíte být přihlášeni, aby se vám to líbilo."
               }
             }
           },
           "unlock": {
             "subscribe": {
-              "label": "Subscribe to {name} for {price}/{period}"
+              "label": "Přihlásit se k odběru {name} pro {price}/{period}"
             },
             "buy": {
-              "label": "Unlock for {price}"
+              "label": "Odemknout za {price}"
             }
           }
         }
       },
       "pricing": {
         "hero": {
-          "headline": "Unbeatable Value, Exceptional Service",
+          "headline": "Bezkonkurenční hodnota, mimořádná služba",
           "title": "0-9%",
-          "description": "At Creathors, we believe in offering transparent and fair pricing. Our 9% (75¢ minimum) commission on all payments is among the most competitive in the industry. No hidden fees, no surprises—just straightforward pricing that supports your growth."
+          "description": "Ve společnosti Creathors věříme v transparentní a spravedlivé ceny. Naše 9% (minimálně 75 centů) provize ze všech plateb patří k nejkonkurenceschopnějším v oboru. Žádné skryté poplatky, žádná překvapení - jen přímočaré ceny, které podporují váš růst."
         },
         "compare": {
-          "title": "Stop overpaying!",
-          "description": "We offer the absolute lowest pricing in the industry with a straightforward 9% commission. That's it. No hidden fees, no processing charges, no surprises. Just pure value and a simple, transparent cost to help you grow.",
-          "compare-with": "Compare with:"
+          "title": "Přestaňte přeplácet!",
+          "description": "Nabízíme absolutně nejnižší ceny v odvětví s přímou 9% provizí. To je vše. Žádné skryté poplatky, žádné poplatky za zpracování, žádná překvapení. Jen čistá hodnota a jednoduché, transparentní náklady, které vám pomohou růst.",
+          "compare-with": "Porovnejte s:"
         },
         "faq": {
-          "title": "Frequently asked questions",
-          "description": "We believe in clarity. Browse our frequently asked questions to learn more about how Creathors works and our straightforward approach.",
+          "title": "Často kladené otázky",
+          "description": "Věříme v přehlednost. Projděte si naše často kladené otázky a dozvíte se více o tom, jak Creathors funguje, a o našem přímočarém přístupu.",
           "children": {
             "commission": {
-              "label": "What commission do you charge?",
-              "content": "We charge a simple and transparent 9% commission on all payments you receive, except for direct donations, on those we don't charge anything. That's it!"
+              "label": "Jaká komise si účtujete?",
+              "content": "Ze všech přijatých plateb si účtujeme jednoduchou a transparentní provizi ve výši 9 %, s výjimkou přímých darů, z nichž si neúčtujeme nic. To je vše!"
             },
             "hidden-fees": {
-              "label": "Are there any hidden fees?",
-              "content": "Absolutely not! We pride ourselves on our transparency. There are no hidden fees, no platform fees, and no surprises."
+              "label": "Jsou zde nějaké skryté poplatky?",
+              "content": "Rozhodně ne! Jsme hrdí na naši transparentnost. Neexistují žádné skryté poplatky, žádné poplatky za platformu ani žádná překvapení."
             },
             "processing-fees": {
-              "label": "Do you charge any processing fees?",
-              "content": "No, we do not charge any separate processing fees. Our 9% commission is the only cost you'll incur."
+              "label": "Účtujete si nějaké poplatky za zpracování?",
+              "content": "Ne, neúčtujeme žádné samostatné poplatky za zpracování. Naše 9% provize je jediným nákladem, který vám vznikne."
             },
             "minimum-commission": {
-              "label": "What is the minimum commission per payment?",
-              "content": "Our minimum commission is 75¢ (USD) per payment."
+              "label": "Jaká je minimální provize za platbu?",
+              "content": "Naše minimální provize je 75 centů (USD) za platbu."
             },
             "compare": {
-              "label": "How does your commission compare to other platforms?",
-              "content": "Our 9% commission is among the most competitive in the industry. Many other platforms charge higher percentages and/or additional fees. We believe in putting more of your earnings in your pocket."
+              "label": "Jaká je vaše provize ve srovnání s jinými platformami?",
+              "content": "Naše 9% provize patří k nejkonkurenceschopnějším v oboru. Mnoho jiných platforem si účtuje vyšší procenta a/nebo další poplatky. Věříme, že vám z výdělku zůstane více ve vaší kapse."
             },
             "payouts": {
-              "label": "When and how do I receive my payouts?",
-              "content": "Payouts are processed on the 1st of each month, provided you have reached the minimum required balance, linked your Stripe account, and enabled payouts. We ensure all funds are paid out before any internal holding period concludes."
+              "label": "Kdy a jak obdržím výplatu?",
+              "content": "Výplaty se zpracovávají vždy 1. dne v měsíci, pokud jste dosáhli minimálního požadovaného zůstatku, propojili svůj účet Stripe a povolili výplaty. Zajišťujeme, aby byly všechny prostředky vyplaceny před ukončením interního období pro zadržení."
             }
           }
         }
