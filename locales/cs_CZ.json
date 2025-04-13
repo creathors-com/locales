@@ -1706,11 +1706,25 @@
           },
           "dashboard": {
             "label": "Přehled"
+          },
+          "payments": {
+            "label": "Payments & Subscriptions"
+          },
+          "settings": {
+            "label": "Settings"
           }
         }
       },
       "app-footer": {
         "copyright": "Copyright ©️ {year}. Všechna práva vyhrazena. ",
+        "items": {
+          "terms": {
+            "label": "Terms"
+          },
+          "privacy": {
+            "label": "Privacy"
+          }
+        },
         "columns": {
           "resources": {
             "label": "Zdroje",
