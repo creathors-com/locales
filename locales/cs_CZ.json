@@ -822,7 +822,10 @@
           "column": {
             "name": {
               "label": "Název",
-              "tooltip": "{name} je připnutý"
+              "tooltip": {
+                "pinned": "{name} is pinned.",
+                "non-public": "{name} is not public."
+              }
             },
             "price": {
               "label": "Cena"
@@ -1417,8 +1420,22 @@
       "posts": {
         "post-form": {
           "form": {
-            "pinned": {
-              "label": "Připnutí"
+            "visibility": {
+              "label": "Visibility",
+              "button": {
+                "pinned": {
+                  "label": "Pinned",
+                  "tooltip": "Pinned posts are sorted at the top."
+                },
+                "public": {
+                  "label": "Public",
+                  "tooltip": "Non-public posts are not shown on your page."
+                }
+              }
+            },
+            "public-after": {
+              "label": "Public after",
+              "description": "Automatically makes your post public after the selected date."
             },
             "name": {
               "label": "Název"
@@ -1654,7 +1671,8 @@
       "recommended": "Doporučené",
       "fee": "Poplatek",
       "processing-fee": "Poplatky za zpracování",
-      "subscribers": "Odběratelé"
+      "subscribers": "Odběratelé",
+      "none-selected": "None selected"
     },
     "validation": {
       "mixed": {
@@ -1920,6 +1938,9 @@
               "pinned": {
                 "label": "Připnuté"
               },
+              "non-public": {
+                "label": "Non public"
+              },
               "locked": {
                 "label": "Uzamčeno 🔒"
               }
@@ -2066,6 +2087,9 @@
         "badge": {
           "pinned": {
             "label": "Připnuté"
+          },
+          "non-public": {
+            "label": "Non public"
           },
           "locked": {
             "label": "Uzamčeno 🔒"
