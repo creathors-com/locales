@@ -1424,18 +1424,18 @@
               "label": "Viditelnost",
               "button": {
                 "pinned": {
-                  "label": "Připnutí",
+                  "label": "Připnutý",
                   "tooltip": "Připnuté příspěvky jsou seřazeny nahoře."
                 },
                 "public": {
-                  "label": "Veřejné",
+                  "label": "Veřejný",
                   "tooltip": "Neveřejné příspěvky nejsou zobrazeny na Vaší stránce."
                 }
               }
             },
             "public-after": {
               "label": "Zveřejnit po",
-              "description": "Automaticky zveřejnit Váš příspěvek po zvoleném datu."
+              "description": "Automatické zveřejnění příspěvku po zvoleném datu."
             },
             "name": {
               "label": "Název"
@@ -1736,7 +1736,12 @@
             },
             "button": {
               "submit": {
-                "label": "Odeslat nahlášení"
+                "label": "Odeslat nahlášení",
+                "toast": {
+                  "success": {
+                    "default": "Nahlášení bylo úspěšně předloženo."
+                  }
+                }
               }
             }
           }
