@@ -1639,6 +1639,23 @@
     }
   },
   "global": {
+    "report": {
+      "type": {
+        "label": {
+          "INAPPROPRIATE_CONTENT": "Inappropriate Content",
+          "NUDITY_OR_SEXUAL_CONTENT": "Nudity or Sexual Content",
+          "ILLEGAL_ACTIVITY": "Illegal Activity",
+          "VIOLENCE_OR_GORE": "Violence or Gore",
+          "IMPERSONATION": "Impersonation",
+          "MISINFORMATION": "Misinformation",
+          "SELF_HARM_OR_HARM": "Self-harm or Harm of Others",
+          "COPYRIGHT": "Copyright or Intellectual Property Violation",
+          "HATE_SPEECH": "Hate Speech",
+          "HARASSMENT_OR_ABUSE": "Harassment or Abuse",
+          "SPAM_OR_SCAM": "Spam or Scam"
+        }
+      }
+    },
     "tag": {
       "user": {
         "label": {
@@ -1696,6 +1713,35 @@
   },
   "landing": {
     "components": {
+      "report": {
+        "button": {
+          "tooltip": "Click to report.",
+          "modal": {
+            "title": "Report"
+          }
+        },
+        "form": {
+          "form": {
+            "summary": {
+              "label": "Summary"
+            },
+            "url": {
+              "label": "Reported URL"
+            },
+            "description": {
+              "label": "Description"
+            },
+            "type": {
+              "label": "Report Type"
+            },
+            "button": {
+              "submit": {
+                "label": "Submit report"
+              }
+            }
+          }
+        }
+      },
       "cheapest-product-description": {
         "description": "Starting from {price}/{period}",
         "free": "Free"
