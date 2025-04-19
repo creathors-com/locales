@@ -823,8 +823,8 @@
             "name": {
               "label": "Název",
               "tooltip": {
-                "pinned": "{name} is pinned.",
-                "non-public": "{name} is not public."
+                "pinned": "{name} je připnutý.",
+                "non-public": "{name} není veřejný."
               }
             },
             "price": {
@@ -1421,21 +1421,21 @@
         "post-form": {
           "form": {
             "visibility": {
-              "label": "Visibility",
+              "label": "Viditelnost",
               "button": {
                 "pinned": {
-                  "label": "Pinned",
-                  "tooltip": "Pinned posts are sorted at the top."
+                  "label": "Připnutí",
+                  "tooltip": "Připnuté příspěvky jsou seřazeny nahoře."
                 },
                 "public": {
-                  "label": "Public",
-                  "tooltip": "Non-public posts are not shown on your page."
+                  "label": "Veřejné",
+                  "tooltip": "Neveřejné příspěvky nejsou zobrazeny na Vaší stránce."
                 }
               }
             },
             "public-after": {
-              "label": "Public after",
-              "description": "Automatically makes your post public after the selected date."
+              "label": "Zveřejnit po",
+              "description": "Automaticky zveřejnit Váš příspěvek po zvoleném datu."
             },
             "name": {
               "label": "Název"
@@ -1672,7 +1672,7 @@
       "fee": "Poplatek",
       "processing-fee": "Poplatky za zpracování",
       "subscribers": "Odběratelé",
-      "none-selected": "None selected"
+      "none-selected": "Nevybrané"
     },
     "validation": {
       "mixed": {
@@ -1726,10 +1726,10 @@
             "label": "Přehled"
           },
           "payments": {
-            "label": "Payments & Subscriptions"
+            "label": "Platby & Předplatné"
           },
           "settings": {
-            "label": "Settings"
+            "label": "Nastavení"
           }
         }
       },
@@ -1737,10 +1737,10 @@
         "copyright": "Copyright ©️ {year}. Všechna práva vyhrazena. ",
         "items": {
           "terms": {
-            "label": "Terms"
+            "label": "Podmínky"
           },
           "privacy": {
-            "label": "Privacy"
+            "label": "Ochrana soukromí"
           }
         },
         "columns": {
@@ -1939,7 +1939,7 @@
                 "label": "Připnuté"
               },
               "non-public": {
-                "label": "Non public"
+                "label": "Neveřejné"
               },
               "locked": {
                 "label": "Uzamčeno 🔒"
@@ -2089,7 +2089,7 @@
             "label": "Připnuté"
           },
           "non-public": {
-            "label": "Non public"
+            "label": "Neveřejné"
           },
           "locked": {
             "label": "Uzamčeno 🔒"
