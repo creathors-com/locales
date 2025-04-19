@@ -2010,7 +2010,7 @@
               },
               "unlock": {
                 "subscribe": {
-                  "label": "Přihlásit se k odběru {name} pro {price}/{period}"
+                  "label": "Odebírejte {name} za {price}/{period}"
                 },
                 "buy": {
                   "label": "Odemknout za {price}"
