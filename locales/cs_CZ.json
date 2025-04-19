@@ -1642,17 +1642,17 @@
     "report": {
       "type": {
         "label": {
-          "INAPPROPRIATE_CONTENT": "Inappropriate Content",
-          "NUDITY_OR_SEXUAL_CONTENT": "Nudity or Sexual Content",
-          "ILLEGAL_ACTIVITY": "Illegal Activity",
-          "VIOLENCE_OR_GORE": "Violence or Gore",
-          "IMPERSONATION": "Impersonation",
-          "MISINFORMATION": "Misinformation",
-          "SELF_HARM_OR_HARM": "Self-harm or Harm of Others",
-          "COPYRIGHT": "Copyright or Intellectual Property Violation",
-          "HATE_SPEECH": "Hate Speech",
-          "HARASSMENT_OR_ABUSE": "Harassment or Abuse",
-          "SPAM_OR_SCAM": "Spam or Scam"
+          "INAPPROPRIATE_CONTENT": "Nevhodný obsah",
+          "NUDITY_OR_SEXUAL_CONTENT": "Nudita nebo Sexuální obsah",
+          "ILLEGAL_ACTIVITY": "Nezákonná aktivita",
+          "VIOLENCE_OR_GORE": "Násilí nebo gore",
+          "IMPERSONATION": "Zosobnění",
+          "MISINFORMATION": "Dezinformace",
+          "SELF_HARM_OR_HARM": "Sebepoškozovaní nebo poškozování druhých",
+          "COPYRIGHT": "Porušování autorského práva nebo duševního vlastnictví",
+          "HATE_SPEECH": "Projevy nenávisti",
+          "HARASSMENT_OR_ABUSE": "Obtěžování nebo zneužívání",
+          "SPAM_OR_SCAM": "Spam nebo podvod"
         }
       }
     },
@@ -1715,28 +1715,28 @@
     "components": {
       "report": {
         "button": {
-          "tooltip": "Click to report.",
+          "tooltip": "Klikni pro nahlášení.",
           "modal": {
-            "title": "Report"
+            "title": "Nahlásit"
           }
         },
         "form": {
           "form": {
             "summary": {
-              "label": "Summary"
+              "label": "Shrnutí"
             },
             "url": {
-              "label": "Reported URL"
+              "label": "Nahlášená URL"
             },
             "description": {
-              "label": "Description"
+              "label": "Popis"
             },
             "type": {
-              "label": "Report Type"
+              "label": "Typ nahlášení"
             },
             "button": {
               "submit": {
-                "label": "Submit report"
+                "label": "Odeslat nahlášení"
               }
             }
           }
