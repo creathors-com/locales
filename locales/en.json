@@ -1736,7 +1736,12 @@
             },
             "button": {
               "submit": {
-                "label": "Submit report"
+                "label": "Submit report",
+                "toast": {
+                  "success": {
+                    "default": "Successfully submitted the report."
+                  }
+                }
               }
             }
           }
