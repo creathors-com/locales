@@ -1689,7 +1689,8 @@
       "fee": "Fee",
       "processing-fee": "Processing Fee",
       "subscribers": "Subscribers",
-      "none-selected": "None selected"
+      "none-selected": "None selected",
+      "most-popular": "Most popular"
     },
     "validation": {
       "mixed": {
