@@ -1689,7 +1689,8 @@
       "fee": "Poplatek",
       "processing-fee": "Poplatky za zpracování",
       "subscribers": "Odběratelé",
-      "none-selected": "Nevybrané"
+      "none-selected": "Nevybrané",
+      "most-popular": "Most popular"
     },
     "validation": {
       "mixed": {
