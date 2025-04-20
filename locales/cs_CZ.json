@@ -1936,7 +1936,7 @@
           }
         },
         "creator": {
-          "subscribers": "Žádní předplatitelé | Jeden předplatitel | {count} předplatitelé",
+          "subscribers": "Žádní předplatitelé | Jeden předplatitel | {count} předplatitelů",
           "tiers": {
             "button": {
               "manage": {
