@@ -1955,7 +1955,7 @@
               "filters": {
                 "label": "Filtry",
                 "tooltip": {
-                  "not-logged-in": "Musíte být přihlášeni k filtrování."
+                  "not-logged-in": "Pro filtrování se musíte přihlásit."
                 }
               },
               "search": {
@@ -2005,7 +2005,7 @@
                     "unlike": "Příspěvek se nelíbí."
                   },
                   "error": {
-                    "not-logged-in": "Musíte být přihlášeni, aby se vám to líbilo."
+                    "not-logged-in": "Pro lajkování se musíte přihlásit."
                   }
                 }
               },
@@ -2155,7 +2155,7 @@
                 "unlike": "Příspěvek se nelíbí."
               },
               "error": {
-                "not-logged-in": "Musíte být přihlášeni, aby se vám to líbilo."
+                "not-logged-in": "Pro lajkování se musíte přihlásit."
               }
             }
           },
