@@ -1438,7 +1438,7 @@
               "description": "Automatické zveřejnění příspěvku po zvoleném datu.",
               "button": {
                 "select-date": {
-                  "tooltip": "Only for non-public posts."
+                  "tooltip": "Pouze pro neveřejné příspěvky."
                 }
               }
             },
