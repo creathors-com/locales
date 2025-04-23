@@ -1435,7 +1435,12 @@
             },
             "public-after": {
               "label": "Zveřejnit po",
-              "description": "Automatické zveřejnění příspěvku po zvoleném datu."
+              "description": "Automatické zveřejnění příspěvku po zvoleném datu.",
+              "button": {
+                "select-date": {
+                  "tooltip": "Only for non-public posts."
+                }
+              }
             },
             "name": {
               "label": "Název"
