@@ -1435,7 +1435,12 @@
             },
             "public-after": {
               "label": "Public after",
-              "description": "Automatically makes your post public after the selected date."
+              "description": "Automatically makes your post public after the selected date.",
+              "button": {
+                "select-date": {
+                  "tooltip": "Only for non-public posts."
+                }
+              }
             },
             "name": {
               "label": "Name"
