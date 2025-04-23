@@ -1429,7 +1429,7 @@
                 },
                 "public": {
                   "label": "Public",
-                  "tooltip": "Non-public posts are not shown on your page."
+                  "tooltip": "Non-public posts are only shown to you."
                 }
               }
             },
@@ -1994,7 +1994,7 @@
                 "label": "Non public"
               },
               "locked": {
-                "label": "Locked \uD83D\uDD12"
+                "label": "Locked 🔒"
               }
             },
             "button": {
@@ -2144,7 +2144,7 @@
             "label": "Non public"
           },
           "locked": {
-            "label": "Locked \uD83D\uDD12"
+            "label": "Locked 🔒"
           }
         },
         "button": {
