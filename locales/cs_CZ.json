@@ -1719,7 +1719,7 @@
   },
   "landing": {
     "seo": {
-      "description": "Empower your creativity with a customizable platform built for creators. Share, monetize, and engage your audience with live alerts, subscriptions, posts, and more — with transparent low fees and full creative control."
+      "description": "Uvolněte svou kreativitu na přizpůsobitelné platformě pro tvůrce. Sdílejte, monetizujte a zapojujte své publikum pomocí živých upozornění, předplatného, příspěvků a dalších funkcí — s transparentními nízkými poplatky a plnou kontrolou nad svou tvorbou."
     },
     "components": {
       "report": {
@@ -1929,7 +1929,7 @@
     },
     "pages": {
       "creator-slug": {
-        "title": "Creator",
+        "title": "Tvůrce",
         "hero": {
           "error": {
             "headline": "404",
@@ -2031,7 +2031,7 @@
         }
       },
       "discover": {
-        "title": "Discover",
+        "title": "Procházet",
         "hero": {
           "headline": "Objevte skvělé tvůrce",
           "title": "Najděte svou inspiraci",
@@ -2131,7 +2131,7 @@
         }
       },
       "post": {
-        "title": "Post",
+        "title": "Příspěvek",
         "hero": {
           "error": {
             "headline": "404",
@@ -2181,7 +2181,7 @@
         }
       },
       "pricing": {
-        "title": "Pricing",
+        "title": "Ceník",
         "hero": {
           "headline": "Bezkonkurenční hodnota, mimořádná služba",
           "title": "0-9%",
