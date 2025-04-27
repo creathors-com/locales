@@ -1718,6 +1718,9 @@
     }
   },
   "landing": {
+    "seo": {
+      "description": "Empower your creativity with a customizable platform built for creators. Share, monetize, and engage your audience with live alerts, subscriptions, posts, and more — with transparent low fees and full creative control."
+    },
     "components": {
       "report": {
         "button": {
@@ -1926,6 +1929,7 @@
     },
     "pages": {
       "creator-slug": {
+        "title": "Creator",
         "hero": {
           "error": {
             "headline": "404",
@@ -2027,6 +2031,7 @@
         }
       },
       "discover": {
+        "title": "Discover",
         "hero": {
           "headline": "Discover Amazing Creators",
           "title": "Find Your Inspiration",
@@ -2126,6 +2131,7 @@
         }
       },
       "post": {
+        "title": "Post",
         "hero": {
           "error": {
             "headline": "404",
@@ -2175,6 +2181,7 @@
         }
       },
       "pricing": {
+        "title": "Pricing",
         "hero": {
           "headline": "Unbeatable Value, Exceptional Service",
           "title": "0-9%",
