@@ -1929,11 +1929,6 @@
     },
     "pages": {
       "creator-slug": {
-        "button": {
-          "new": {
-            "label": "New post"
-          }
-        },
         "title": "Creator",
         "hero": {
           "error": {
@@ -2031,6 +2026,11 @@
                   "label": "Unlock for {price}"
                 }
               }
+            }
+          },
+          "button": {
+            "new": {
+              "label": "New post"
             }
           }
         }
