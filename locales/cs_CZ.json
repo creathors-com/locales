@@ -1929,11 +1929,6 @@
     },
     "pages": {
       "creator-slug": {
-        "button": {
-          "new": {
-            "label": "Nový příspěvek"
-          }
-        },
         "title": "Tvůrce",
         "hero": {
           "error": {
@@ -2031,6 +2026,11 @@
                   "label": "Odemknout za {price}"
                 }
               }
+            }
+          },
+          "button": {
+            "new": {
+              "label": "New post"
             }
           }
         }
