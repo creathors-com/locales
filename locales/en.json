@@ -1959,6 +1959,11 @@
           }
         },
         "posts": {
+          "button": {
+            "new": {
+              "label": "New post"
+            }
+          },
           "filter": {
             "button": {
               "filters": {
