@@ -1961,7 +1961,7 @@
         "posts": {
           "button": {
             "new": {
-              "label": "New post"
+              "label": "Nový příspěvek"
             }
           },
           "filter": {
@@ -2031,11 +2031,6 @@
                   "label": "Odemknout za {price}"
                 }
               }
-            }
-          },
-          "button": {
-            "new": {
-              "label": "Nový příspěvek"
             }
           }
         }
