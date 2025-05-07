@@ -2027,11 +2027,6 @@
                 }
               }
             }
-          },
-          "button": {
-            "new": {
-              "label": "New post"
-            }
           }
         }
       },
