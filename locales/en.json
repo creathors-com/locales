@@ -1929,6 +1929,11 @@
     },
     "pages": {
       "creator-slug": {
+        "button": {
+          "new": {
+            "label": "New post"
+          }
+        },
         "title": "Creator",
         "hero": {
           "error": {
@@ -2007,9 +2012,6 @@
               }
             },
             "button": {
-              "new": {
-                "label": "New post"
-              },
               "like": {
                 "toast": {
                   "success": {
