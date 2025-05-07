@@ -1959,6 +1959,11 @@
           }
         },
         "posts": {
+          "button": {
+            "new": {
+              "label": "New post"
+            }
+          },
           "filter": {
             "button": {
               "filters": {
@@ -2026,11 +2031,6 @@
                   "label": "Odemknout za {price}"
                 }
               }
-            }
-          },
-          "button": {
-            "new": {
-              "label": "New post"
             }
           }
         }
