@@ -864,9 +864,6 @@
                   "default": "Nepodařilo se odstranit příspěvek '{name}'."
                 }
               }
-            },
-            "preview": {
-              "label": "Náhled"
             }
           }
         },
@@ -1546,9 +1543,6 @@
               }
             },
             "button": {
-              "preview": {
-                "label": "Náhled"
-              },
               "cancel": {
                 "label": "Zrušit"
               },
