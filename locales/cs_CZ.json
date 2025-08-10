@@ -875,7 +875,7 @@
             "label": "Nový příspěvek"
           },
           "video-upload": {
-            "label": "Video upload"
+            "label": "Nahrát video"
           }
         },
         "modal": {
@@ -892,11 +892,11 @@
             "description": "Statistiky související s Vaším příspěvkem."
           },
           "video-upload": {
-            "title": "Video upload",
-            "description": "Upload multiple videos at once.",
-            "select-label": "Select video(s)",
-            "error-message": "Error occurred while trying to upload a video.",
-            "success-message": "Video uploaded successfully."
+            "title": "Nahrát video",
+            "description": "Nahrát více videí najednou.",
+            "select-label": "Vybrat video/a",
+            "error-message": "Nastala chyba při nahrávání videa.",
+            "success-message": "Video bylo úspěšně nahráno."
           }
         }
       },
@@ -1706,8 +1706,8 @@
       "subscribers": "Odběratelé",
       "none-selected": "Nevybrané",
       "most-popular": "Nejpopulárnější",
-      "upload": "Upload",
-      "reset": "Reset"
+      "upload": "Nahrát",
+      "reset": "Resetovat"
     },
     "validation": {
       "mixed": {
