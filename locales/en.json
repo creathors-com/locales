@@ -864,9 +864,6 @@
                   "default": "Couldn't delete post '{name}'."
                 }
               }
-            },
-            "preview": {
-              "label": "Preview"
             }
           }
         },
@@ -1546,9 +1543,6 @@
               }
             },
             "button": {
-              "preview": {
-                "label": "Preview"
-              },
               "cancel": {
                 "label": "Cancel"
               },
