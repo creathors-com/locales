@@ -873,6 +873,9 @@
         "button": {
           "new": {
             "label": "New post"
+          },
+          "video-upload": {
+            "label": "Video upload"
           }
         },
         "modal": {
@@ -887,6 +890,13 @@
           "stats": {
             "title": "Statistics",
             "description": "Statistics related to your post."
+          },
+          "video-upload": {
+            "title": "Video upload",
+            "description": "Upload multiple videos at once.",
+            "select-label": "Select video(s)",
+            "error-message": "Error occurred while trying to upload a video.",
+            "success-message": "Video uploaded successfully."
           }
         }
       },
@@ -1695,7 +1705,9 @@
       "processing-fee": "Processing Fee",
       "subscribers": "Subscribers",
       "none-selected": "None selected",
-      "most-popular": "Most popular"
+      "most-popular": "Most popular",
+      "upload": "Upload",
+      "reset": "Reset"
     },
     "validation": {
       "mixed": {
