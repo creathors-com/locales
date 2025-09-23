@@ -1731,47 +1731,47 @@
       "address-form": {
         "form": {
           "country": {
-            "label": "Country"
+            "label": "Země"
           },
           "city": {
-            "label": "City"
+            "label": "Město"
           },
           "postal-code": {
-            "label": "Postal code"
+            "label": "PSČ"
           },
           "line1": {
-            "label": "Line 1"
+            "label": "Ulice"
           },
           "line2": {
-            "label": "Line 2"
+            "label": "Detail Adresy"
           },
           "state": {
-            "label": "State"
+            "label": "Kraj"
           }
         },
         "button": {
           "submit": {
             "toast": {
               "success": {
-                "default": "Successfully updated your address."
+                "default": "Adresa byla úspěšně aktualizována."
               },
               "error": {
-                "default": "There was an error while updating your address."
+                "default": "Při aktualizaci adresy došlo k chybě."
               }
             },
-            "label": "Update"
+            "label": "Aktualizovat"
           }
         }
       },
       "checkout-form": {
         "form": {
           "coupon": {
-            "label": "Coupon"
+            "label": "Kupón"
           }
         },
         "button": {
           "submit": {
-            "label": "To Checkout"
+            "label": "K pokladně"
           }
         }
       },
