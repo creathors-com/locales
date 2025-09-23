@@ -1728,6 +1728,53 @@
       "description": "Empower your creativity with a customizable platform built for creators. Share, monetize, and engage your audience with live alerts, subscriptions, posts, and more — with transparent low fees and full creative control."
     },
     "components": {
+      "address-form": {
+        "form": {
+          "country": {
+            "label": "Country"
+          },
+          "city": {
+            "label": "City"
+          },
+          "postal-code": {
+            "label": "Postal code"
+          },
+          "line1": {
+            "label": "Line 1"
+          },
+          "line2": {
+            "label": "Line 2"
+          },
+          "state": {
+            "label": "State"
+          }
+        },
+        "button": {
+          "submit": {
+            "toast": {
+              "success": {
+                "default": "Successfully updated your address."
+              },
+              "error": {
+                "default": "There was an error while updating your address."
+              }
+            },
+            "label": "Update"
+          }
+        }
+      },
+      "checkout-form": {
+        "form": {
+          "coupon": {
+            "label": "Coupon"
+          }
+        },
+        "button": {
+          "submit": {
+            "label": "To Checkout"
+          }
+        }
+      },
       "report": {
         "button": {
           "tooltip": "Click to report.",
