@@ -1728,6 +1728,53 @@
       "description": "Uvolněte svou kreativitu na přizpůsobitelné platformě pro tvůrce. Sdílejte, monetizujte a zapojujte své publikum pomocí živých upozornění, předplatného, příspěvků a dalších funkcí — s transparentními nízkými poplatky a plnou kontrolou nad svou tvorbou."
     },
     "components": {
+      "address-form": {
+        "form": {
+          "country": {
+            "label": "Country"
+          },
+          "city": {
+            "label": "City"
+          },
+          "postal-code": {
+            "label": "Postal code"
+          },
+          "line1": {
+            "label": "Line 1"
+          },
+          "line2": {
+            "label": "Line 2"
+          },
+          "state": {
+            "label": "State"
+          }
+        },
+        "button": {
+          "submit": {
+            "toast": {
+              "success": {
+                "default": "Successfully updated your address."
+              },
+              "error": {
+                "default": "There was an error while updating your address."
+              }
+            },
+            "label": "Update"
+          }
+        }
+      },
+      "checkout-form": {
+        "form": {
+          "coupon": {
+            "label": "Coupon"
+          }
+        },
+        "button": {
+          "submit": {
+            "label": "To Checkout"
+          }
+        }
+      },
       "report": {
         "button": {
           "tooltip": "Klikni pro nahlášení.",
