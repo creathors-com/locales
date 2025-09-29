@@ -85,7 +85,7 @@
         }
       },
       "categories": {
-        "label": "Categories"
+        "label": "Kategorie"
       },
       "tiers": {
         "label": "Úrovně"
@@ -985,53 +985,53 @@
         }
       },
       "categories": {
-        "title": "Categories",
+        "title": "Kategorie",
         "button": {
           "new": {
-            "label": "New category"
+            "label": "Nová kategorie"
           }
         },
         "table": {
           "column": {
             "name": {
-              "label": "Name"
+              "label": "Název"
             },
             "uses": {
-              "label": "Uses"
+              "label": "Využití"
             },
             "actions": {
-              "label": "Actions"
+              "label": "Akce"
             }
           },
           "button": {
             "delete": {
-              "label": "Delete",
+              "label": "Smazat",
               "confirm": {
-                "title": "Delete category | Delete {n} categories",
-                "description": "Are you sure you want to delete this category? | Are you sure you want to delete {n} categories?"
+                "title": "Smazat kategorii | Smazat {n} kategorií",
+                "description": "Jste si jisti, že chcete odstranit tuto kategorii? | Jste si jisti, že chcete odstranit {n} kategorií?"
               },
               "toast": {
                 "success": {
-                  "default": "Successfully deleted category '{name}'."
+                  "default": "Kategorie '{name} ' byla úspěšně odstraněna."
                 },
                 "error": {
-                  "default": "There was an error deleting category '{name}'."
+                  "default": "Při odstraňování kategorie '{name} ' došlo k chybě."
                 }
               }
             },
             "edit": {
-              "label": "Edit"
+              "label": "Upravit"
             }
           }
         },
         "modal": {
           "edit": {
-            "title": "Edit category",
-            "description": "Edit the name of the category."
+            "title": "Upravit kategorii",
+            "description": "Upravit název kategorie."
           },
           "new": {
-            "title": "Create category",
-            "description": "Create a brand new category."
+            "title": "Vytvořit kategorii",
+            "description": "Vytvořit zcela novou kategorii."
           }
         }
       }
@@ -1572,7 +1572,7 @@
               "label": "Úrovně"
             },
             "category-id": {
-              "label": "Category"
+              "label": "Kategorie"
             },
             "tag-ids": {
               "label": "Štítky"
@@ -1634,7 +1634,7 @@
               "new": {
                 "toast": {
                   "success": {
-                    "default": "Tag successfully created."
+                    "default": "Štítek byl úspěšně vytvořen."
                   }
                 }
               },
@@ -1686,47 +1686,47 @@
               "new": {
                 "toast": {
                   "success": {
-                    "default": "Category successfully created."
+                    "default": "Kategorie byla úspěšně vytvořena."
                   }
                 }
               },
               "select": {
-                "label": "Select category.."
+                "label": "Upravit kategorii.."
               }
             }
           },
           "category-form": {
             "form": {
               "name": {
-                "label": "Name"
+                "label": "Název"
               },
               "button": {
                 "create": {
-                  "label": "Create category",
+                  "label": "Vytvořit kategorii",
                   "toast": {
                     "success": {
-                      "default": "Successfully created category '{name}'."
+                      "default": "Kategorie '{name} ' byla úspěšně vytvořena."
                     },
                     "error": {
-                      "default": "There was an error trying to create '{name}'.",
-                      "conflict": "Category '{name}' already exists."
+                      "default": "Došlo k chybě při pokusu o vytvoření '{name}'.",
+                      "conflict": "Kategorie '{name}' již existuje."
                     }
                   }
                 },
                 "update": {
-                  "label": "Update category",
+                  "label": "Aktualizovat kategorii",
                   "toast": {
                     "success": {
-                      "default": "Successfully updated category '{name}'."
+                      "default": "Kategorie '{name} ' byla úspěšně aktualizována."
                     },
                     "error": {
-                      "default": "There was an error trying to update '{name}'.",
-                      "conflict": "Category '{name}' already exists."
+                      "default": "Při pokusu o aktualizaci '{name} ' došlo k chybě.",
+                      "conflict": "Kategorie '{name}' již existuje."
                     }
                   }
                 },
                 "cancel": {
-                  "label": "Cancel"
+                  "label": "Zrušit"
                 }
               }
             }
