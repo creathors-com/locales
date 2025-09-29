@@ -84,6 +84,9 @@
           "label": "Dokumentace"
         }
       },
+      "categories": {
+        "label": "Categories"
+      },
       "tiers": {
         "label": "Úrovně"
       },
@@ -980,6 +983,57 @@
             "description": "Vytvořit zbrusu nový štítek."
           }
         }
+      },
+      "categories": {
+        "title": "Categories",
+        "button": {
+          "new": {
+            "label": "New category"
+          }
+        },
+        "table": {
+          "column": {
+            "name": {
+              "label": "Name"
+            },
+            "uses": {
+              "label": "Uses"
+            },
+            "actions": {
+              "label": "Actions"
+            }
+          },
+          "button": {
+            "delete": {
+              "label": "Delete",
+              "confirm": {
+                "title": "Delete category | Delete {n} categories",
+                "description": "Are you sure you want to delete this category? | Are you sure you want to delete {n} categories?"
+              },
+              "toast": {
+                "success": {
+                  "default": "Successfully deleted category '{name}'."
+                },
+                "error": {
+                  "default": "There was an error deleting category '{name}'."
+                }
+              }
+            },
+            "edit": {
+              "label": "Edit"
+            }
+          }
+        },
+        "modal": {
+          "edit": {
+            "title": "Edit category",
+            "description": "Edit the name of the category."
+          },
+          "new": {
+            "title": "Create category",
+            "description": "Create a brand new category."
+          }
+        }
       }
     },
     "components": {
@@ -1517,6 +1571,9 @@
             "product-ids": {
               "label": "Úrovně"
             },
+            "category-id": {
+              "label": "Category"
+            },
             "tag-ids": {
               "label": "Štítky"
             },
@@ -1574,6 +1631,13 @@
         "tags": {
           "tags-select-menu": {
             "button": {
+              "new": {
+                "toast": {
+                  "success": {
+                    "default": "Tag successfully created."
+                  }
+                }
+              },
               "select": {
                 "label": "Zvolte štítky.."
               }
@@ -1611,6 +1675,58 @@
                 },
                 "cancel": {
                   "label": "Zrušit"
+                }
+              }
+            }
+          }
+        },
+        "category": {
+          "category-select-menu": {
+            "button": {
+              "new": {
+                "toast": {
+                  "success": {
+                    "default": "Category successfully created."
+                  }
+                }
+              },
+              "select": {
+                "label": "Select category.."
+              }
+            }
+          },
+          "category-form": {
+            "form": {
+              "name": {
+                "label": "Name"
+              },
+              "button": {
+                "create": {
+                  "label": "Create category",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully created category '{name}'."
+                    },
+                    "error": {
+                      "default": "There was an error trying to create '{name}'.",
+                      "conflict": "Category '{name}' already exists."
+                    }
+                  }
+                },
+                "update": {
+                  "label": "Update category",
+                  "toast": {
+                    "success": {
+                      "default": "Successfully updated category '{name}'."
+                    },
+                    "error": {
+                      "default": "There was an error trying to update '{name}'.",
+                      "conflict": "Category '{name}' already exists."
+                    }
+                  }
+                },
+                "cancel": {
+                  "label": "Cancel"
                 }
               }
             }
