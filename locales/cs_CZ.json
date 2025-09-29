@@ -1885,6 +1885,7 @@
       },
       "checkout-form": {
         "form": {
+          "title": "Address",
           "coupon": {
             "label": "Kupón"
           }
