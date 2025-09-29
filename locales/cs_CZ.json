@@ -1493,8 +1493,8 @@
                   "tooltip": "Neveřejné příspěvky vidíte jenom Vy."
                 },
                 "image-public": {
-                  "label": "Image Public",
-                  "tooltip": "If enabled, non-subscribed users will be able to see the post image."
+                  "label": "Veřejný obrázek",
+                  "tooltip": "Pokud je povoleno, všichni uvidí obrázek příspěvku."
                 }
               }
             },
