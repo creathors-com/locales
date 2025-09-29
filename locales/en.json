@@ -1491,6 +1491,10 @@
                 "public": {
                   "label": "Public",
                   "tooltip": "Non-public posts are only shown to you."
+                },
+                "image-public": {
+                  "label": "Image Public",
+                  "tooltip": "If enabled, non-subscribed users will be able to see the post image."
                 }
               }
             },
