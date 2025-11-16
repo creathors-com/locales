@@ -1822,8 +1822,8 @@
       "most-popular": "Nejpopulárnější",
       "upload": "Nahrát",
       "reset": "Resetovat",
-      "follow": "Follow",
-      "following": "Following"
+      "follow": "Sledovat",
+      "following": "Sledujete"
     },
     "validation": {
       "mixed": {
@@ -1855,14 +1855,14 @@
           "follow": {
             "toast": {
               "success": {
-                "default": "Started following {name}."
+                "default": "Nyní sledujete {name}."
               }
             }
           },
           "unfollow": {
             "toast": {
               "success": {
-                "default": "Unfollowed {name}."
+                "default": "Již nesledujete {name}."
               }
             }
           }
