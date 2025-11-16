@@ -1821,7 +1821,9 @@
       "none-selected": "None selected",
       "most-popular": "Most popular",
       "upload": "Upload",
-      "reset": "Reset"
+      "reset": "Reset",
+      "follow": "Follow",
+      "following": "Following"
     },
     "validation": {
       "mixed": {
@@ -1848,6 +1850,24 @@
       "description": "Empower your creativity with a customizable platform built for creators. Share, monetize, and engage your audience with live alerts, subscriptions, posts, and more — with transparent low fees and full creative control."
     },
     "components": {
+      "follow-button": {
+        "button": {
+          "follow": {
+            "toast": {
+              "success": {
+                "default": "Started following {name}."
+              }
+            }
+          },
+          "unfollow": {
+            "toast": {
+              "success": {
+                "default": "Unfollowed {name}."
+              }
+            }
+          }
+        }
+      },
       "address-form": {
         "form": {
           "country": {
