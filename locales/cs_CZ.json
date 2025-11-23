@@ -659,6 +659,10 @@
           "edit": {
             "title": "Upravit úroveň",
             "description": "Upravit již existující úroveň."
+          },
+          "stats": {
+            "title": "Statistics",
+            "description": "Statistics related to this tier."
           }
         },
         "table": {
@@ -714,6 +718,9 @@
             },
             "edit": {
               "label": "Upravit"
+            },
+            "stats": {
+              "label": "Statistics"
             }
           }
         },
@@ -1823,7 +1830,24 @@
       "upload": "Nahrát",
       "reset": "Resetovat",
       "follow": "Sledovat",
-      "following": "Sledujete"
+      "following": "Sledujete",
+      "active-subscribers": "Active subscribers",
+      "churned-subscribers": "Churned subscribers",
+      "followers": "Followers",
+      "net-earnings": "Net earnings",
+      "ppv-revenue": "PPV revenue",
+      "platform-fees": "Platform fees",
+      "views": "Views",
+      "likes": "Likes",
+      "comments": "Comments",
+      "last-update": "Last update",
+      "no-data": "No data",
+      "engagement": "Engagement",
+      "financial": "Financial",
+      "new-subscribers": "New subscribers",
+      "sales": "Sales",
+      "net-revenue": "Net revenue",
+      "gross-volume": "Gross volume"
     },
     "validation": {
       "mixed": {
