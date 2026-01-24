@@ -1847,7 +1847,8 @@
       "new-subscribers": "Noví předplatitelé",
       "sales": "Prodeje",
       "net-revenue": "Čistý zisk",
-      "gross-volume": "Hrubý objem"
+      "gross-volume": "Hrubý objem",
+      "or": "Or"
     },
     "validation": {
       "mixed": {
