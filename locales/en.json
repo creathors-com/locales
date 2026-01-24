@@ -1847,7 +1847,8 @@
       "new-subscribers": "New subscribers",
       "sales": "Sales",
       "net-revenue": "Net revenue",
-      "gross-volume": "Gross volume"
+      "gross-volume": "Gross volume",
+      "or": "Or"
     },
     "validation": {
       "mixed": {
